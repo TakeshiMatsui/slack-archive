@@ -28,7 +28,7 @@ jobs:
       env:
         SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
       run: |
-        npx slack-archive download --token "$SLACK_TOKEN"
+        npx slack-archive download --token "$SLACK_TOKEN" --channel-types public
 
     - name: 結果をリモートにプッシュ
       run: |

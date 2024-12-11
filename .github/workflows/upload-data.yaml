@@ -19,11 +19,12 @@ jobs:
         mkdir -p upload
         # ファイルが存在する場合、uploadディレクトリに移動
         for TARGET_TEX_FILE in ${{ env.TARGET_TEX_FILES }}; do
-          FILE_DIR=$(dirname $TARGET_TEX_FILE)
-          # ディレクトリ構造を保持するため、対象ファイルのディレクトリをそのまま作成してファイルを移動
-          mkdir -p upload/$FILE_DIR
-          if [ -f $TARGET_TEX_FILE ]; then
-            mv $TARGET_TEX_FILE ./upload/$FILE_DIR/
+          if [ -d $TARGET_TEX_FILE ]; then
+            # ディレクトリがあれば、そのまま移動
+            cp -r $TARGET_TEX_FILE ./upload/
+          elif [ -f $TARGET_TEX_FILE ]; then
+            # ファイルがあれば、uploadディレクトリに移動
+            cp $TARGET_TEX_FILE ./upload/
           fi
         done
 

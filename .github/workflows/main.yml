@@ -4,6 +4,9 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 */89 * *'
+env:
+  TARGET_TEX_FILES: "./slack-archive/html ./slack-archive/index.html ./slack-archive/search.html" 
+  GOOGLE_DRIVE_DESTINATION: /slack-archive
 
 jobs:
   archive-slack:
@@ -61,4 +64,40 @@ jobs:
         
         # プッシュ
         git push
+
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v2
+
+    - name: 既存のファイルを削除
+      run: |
+        # Google Drive上で既存のファイルを削除
+        for TARGET_TEX_FILE in ${{ env.TARGET_TEX_FILES }}; do
+          # ファイル名だけを取得して削除
+          FILE_NAME=$(basename $TARGET_TEX_FILE)
+          skicka delete ${GOOGLE_DRIVE_DESTINATION}/${FILE_NAME} || echo "File ${FILE_NAME} not found on Google Drive"
+        done
+
+    - name: 既存のファイルをアップロード用ディレクトリに移動
+      run: |
+        mkdir -p upload
+        # htmlディレクトリとファイルをそのままコピー
+        for TARGET_TEX_FILE in ${{ env.TARGET_TEX_FILES }}; do
+          if [ -d $TARGET_TEX_FILE ]; then
+            # ディレクトリがあれば、そのままuploadディレクトリにコピー
+            cp -r $TARGET_TEX_FILE ./upload/
+          elif [ -f $TARGET_TEX_FILE ]; then
+            # ファイルがあれば、uploadディレクトリにコピー
+            cp $TARGET_TEX_FILE ./upload/
+          fi
+        done
+
+    - name: Google Driveにアップロード
+      uses: satackey/action-google-drive@v1
+      with:
+        skicka-tokencache-json: ${{ secrets.SKICKA_TOKENCACHE_JSON }}
+        google-client-id: ${{ secrets.GOOGLE_CLIENT_ID }}
+        google-client-secret: ${{ secrets.GOOGLE_CLIENT_SECRET }}
+        upload-from: ./upload
+        upload-to: ${{ env.GOOGLE_DRIVE_DESTINATION }}
+
 

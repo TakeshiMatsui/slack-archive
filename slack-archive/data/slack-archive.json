@@ -1,13 +1,13 @@
 {
   "channels": {
     "C0840RM98MV": {
-      "messages": 2
+      "messages": 4
     },
     "C084F99GCJF": {
       "messages": 1
     },
     "C084F9BSP19": {
-      "messages": 2
+      "messages": 3
     }
   },
   "auth": {

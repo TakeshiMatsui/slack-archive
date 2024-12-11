@@ -2,6 +2,31 @@
   {
     "user": "U084F99EDM1",
     "type": "message",
+    "ts": "1733932329.963089",
+    "client_msg_id": "6d76357f-5b1a-4df3-bdc7-04691eb33b7c",
+    "text": "ありがとう",
+    "team": "T084FBS2YHG",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b1azt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ありがとう"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U084F99EDM1",
+    "type": "message",
     "ts": "1733834781.895569",
     "client_msg_id": "719aa37c-cd88-4620-8809-ac477ac372e8",
     "text": "aaaa",

@@ -34,7 +34,7 @@ jobs:
         export SLACK_TOKEN=${{ secrets.SLACK_TOKEN }}
         
         expect -c "
-          spawn npx slack-archive　download
+          spawn npx slack-archive download
           expect -re \\\".*Which channel types do you want to download.*\\\"  # Wait for the channel type prompt
           send \\\" \\\"                                           # Press Space to select 'Public Channels'
           sleep 1 

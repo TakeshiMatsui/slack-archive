@@ -36,13 +36,9 @@ jobs:
   
       env:
         SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
-          
-    - name: 結果をリモートにプッシュ
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        git config user.name "GitHub Actions"
-        git config user.email "actions@github.com"
-        git add .
-        git commit -m "Update Slack archive ($(date))"
-        git push
+
+    - name: アーカイブ結果を成果物としてアップロード
+      uses: actions/upload-artifact@v3
+      with:
+        name: slack-archive-results
+        path: ./slack-archive/html/**/*

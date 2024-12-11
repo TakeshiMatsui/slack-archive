@@ -42,6 +42,6 @@ jobs:
       with:
         name: slack-archive-results
         path: |
-          ./slack-archive/html/**/*  # html フォルダ内のすべてのファイル
-          ./slack-archive/index.html  # index.html ファイル
-          ./slack-archive/search.html  # search.html ファイル
+          ./slack-archive/html/**/*
+          ./slack-archive/index.html
+          ./slack-archive/search.html

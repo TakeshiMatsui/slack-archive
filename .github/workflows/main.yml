@@ -32,26 +32,8 @@ jobs:
     - name: Slack アーカイブを実行（全チャンネル）
       run: |
         export SLACK_TOKEN=${{ secrets.SLACK_TOKEN }}
-        
-        expect -d -c "
-          spawn npx slack-archive download --channel-types public_channel
-    
-          # チャンネル選択のプロンプトが出たら、'a'を送信してすべてのチャンネルを選択
-          expect -re \".*Which channels do you want to download.*\"
-          
-          # チャンネル名のリストが表示されるのを待つ
-          expect -re \".*◯.*\"  # チャンネル名が表示されるまで待機
-
-          # 全てのチャンネルを選択
-          send \"a\"  # 'a'を送信してすべてのチャンネルを選択
-          sleep 2
-          send \"\r\"  # Enterキーを送信
-          sleep 2
-        
-          # 他の出力には何もしない
-          expect eof
-        "
-        
+        npx slack-archive download --channel-types public_channel --automatic
+  
       env:
         SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
           

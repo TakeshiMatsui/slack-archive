@@ -1,0 +1,36 @@
+name: Slack Archive Automation
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+
+jobs:
+  archive-slack:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: リポジトリをチェックアウト
+      uses: actions/checkout@v3
+
+    - name: Node.js をセットアップ
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'
+
+    - name: 必要な依存関係をインストール
+      run: |
+        npm install
+
+    - name: Slack アーカイブを実行（全チャンネル）
+      env:
+        SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      run: |
+        npx slack-archive download --token "$SLACK_TOKEN"
+
+    - name: 結果をリモートにプッシュ
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@github.com"
+        git add .
+        git commit -m "Update Slack archive ($(date))"
+        git push origin master

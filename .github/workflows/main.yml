@@ -38,8 +38,9 @@ jobs:
     
           # チャンネル選択のプロンプトが出たら、'a'を送信してすべてのチャンネルを選択
           expect -re \".*Which channels do you want to download.*\" {
+            sleep 2
             send \"a\"  # 'a'を送信してすべてのチャンネルを選択
-            sleep 1
+            sleep 2
             send \"\r\"  # Enterキーを送信
           }
         

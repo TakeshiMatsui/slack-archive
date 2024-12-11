@@ -33,14 +33,14 @@ jobs:
       run: |
         expect -c "
           spawn npx slack-archive
-          expect \\\"Please enter your Slack token\\\"
-          send \\\"$SLACK_TOKEN\\r\\\"
-          expect \\\"Which channel types do you want to download?\\\"
-          send \\\" \\\"    # Press space to select Public Channels
-          send \\\"\\r\\\"   # Press Enter to confirm channel type selection
-          expect \\\"Which channels do you want to download?\\\"
-          send \\\"a\\\"    # Press 'a' to select all channels
-          send \\\"\\r\\\"   # Press Enter to confirm channel selection
+          expect -re \\\".*Please enter your Slack token.*\\\"       # Wait for the token prompt
+          send \\\"$SLACK_TOKEN\\r\\\"                             # Send Slack token and press Enter
+          expect -re \\\".*Which channel types do you want to download.*\\\"  # Wait for the channel type prompt
+          send \\\" \\\"                                           # Press Space to select 'Public Channels'
+          send \\\"\\r\\\"                                         # Press Enter to confirm the selection
+          expect -re \\\".*Which channels do you want to download.*\\\"      # Wait for the channel selection prompt
+          send \\\"a\\\"                                           # Press 'a' to select all channels
+          send \\\"\\r\\\"                                         # Press Enter to confirm the selection
           expect eof
         "
       env:

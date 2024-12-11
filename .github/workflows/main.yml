@@ -32,10 +32,9 @@ jobs:
     - name: Slack アーカイブを実行（全チャンネル）
       run: |
         expect -c "
-          set token $env(SLACK_TOKEN)                       # Define the token variable
           spawn npx slack-archive
           expect -re \\\".*Please enter your Slack token.*\\\"       # Wait for the token prompt
-          send \\\"$SLACK_TOKEN\\r\\\"                             # Send Slack token and press Enter
+          send \\\"$env(SLACK_TOKEN)\\r\\\"                            # Send Slack token and press Enter
           expect -re \\\".*Which channel types do you want to download.*\\\"  # Wait for the channel type prompt
           send \\\" \\\"                                           # Press Space to select 'Public Channels'
           send \\\"\\r\\\"                                         # Press Enter to confirm the selection

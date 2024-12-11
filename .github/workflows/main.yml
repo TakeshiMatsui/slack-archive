@@ -37,9 +37,11 @@ jobs:
           send \\\"$env(SLACK_TOKEN)\\r\\\"                            # Send Slack token and press Enter
           expect -re \\\".*Which channel types do you want to download.*\\\"  # Wait for the channel type prompt
           send \\\" \\\"                                           # Press Space to select 'Public Channels'
+          sleep 1 
           send \\\"\\r\\\"                                         # Press Enter to confirm the selection
           expect -re \\\".*Which channels do you want to download.*\\\"      # Wait for the channel selection prompt
           send \\\"a\\\"                                           # Press 'a' to select all channels
+          sleep 1 
           send \\\"\\r\\\"                                         # Press Enter to confirm the selection
           expect eof
         "

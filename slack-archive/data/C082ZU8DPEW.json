@@ -46,6 +46,15 @@
         ]
       }
     ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U081Q6XTNHZ"
+        ],
+        "count": 1
+      }
+    ],
     "replies": [
       {
         "user": "U068Q5LCTG9",

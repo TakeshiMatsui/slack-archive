@@ -30,6 +30,8 @@ jobs:
       
 
     - name: Slack アーカイブを実行（全チャンネル）
+      env:
+        SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
       run: |
         expect -c "
           spawn npx slack-archive
@@ -43,8 +45,6 @@ jobs:
           send \\\"\\r\\\"                                         # Press Enter to confirm the selection
           expect eof
         "
-      env:
-        SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
           
     - name: 結果をリモートにプッシュ
       env:

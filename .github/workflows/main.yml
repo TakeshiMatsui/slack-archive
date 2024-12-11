@@ -30,10 +30,9 @@ jobs:
       
 
     - name: Slack アーカイブを実行（全チャンネル）
-      env:
-        SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
       run: |
         expect -c "
+          set token $env(SLACK_TOKEN)                       # Define the token variable
           spawn npx slack-archive
           expect -re \\\".*Please enter your Slack token.*\\\"       # Wait for the token prompt
           send \\\"$SLACK_TOKEN\\r\\\"                             # Send Slack token and press Enter
@@ -45,6 +44,9 @@ jobs:
           send \\\"\\r\\\"                                         # Press Enter to confirm the selection
           expect eof
         "
+        
+      env:
+        SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
           
     - name: 結果をリモートにプッシュ
       env:

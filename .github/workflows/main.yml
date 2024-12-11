@@ -25,11 +25,15 @@ jobs:
       
 
     - name: Slack アーカイブを実行（全チャンネル）
+      run: |
+        expect -c "
+          spawn npx slack-archive download --token \"$SLACK_TOKEN\"
+          expect \"Which channel types do you want to download?\"
+          send \"public\\r\"
+          expect eof
+        "
       env:
         SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
-      run: |
-        npx slack-archive download --token "$SLACK_TOKEN" --channel-types public
-
     - name: 結果をリモートにプッシュ
       run: |
         git config user.name "GitHub Actions"

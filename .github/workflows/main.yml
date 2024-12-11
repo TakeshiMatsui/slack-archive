@@ -26,11 +26,6 @@ jobs:
         npm install
       working-directory: ./slack-archive 
       
-    - name: Expect をインストール
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y expect
-      
 
     - name: Slack アーカイブを実行（全チャンネル）
       run: |
@@ -39,15 +34,6 @@ jobs:
   
       env:
         SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
-
-    - name: アーカイブ結果を成果物としてアップロード
-      uses: actions/upload-artifact@v3
-      with:
-        name: slack-archive-results
-        path: |
-          ./slack-archive/html/**/*
-          ./slack-archive/index.html
-          ./slack-archive/search.html
 
     - name: 結果をリモートにプッシュ
       env:
@@ -65,8 +51,14 @@ jobs:
         # プッシュ
         git push
 
-    - name: リポジトリをチェックアウト
-      uses: actions/checkout@v2
+    - name: アーカイブ結果を成果物としてアップロード
+      uses: actions/upload-artifact@v3
+      with:
+        name: slack-archive-results
+        path: |
+          ./slack-archive/html/**/*
+          ./slack-archive/index.html
+          ./slack-archive/search.html
 
     - name: 既存のファイルを削除
       run: |

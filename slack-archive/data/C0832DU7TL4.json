@@ -7,16 +7,16 @@
     "text": "<@U081Q6XTNHZ>\n会社のCXOの会議を週１で設定してここでは長期的な取り組みや、現状の課題整理、解決策を考えています。\nCIOとして週１で1時間設定して話し合える時間を設けたい。1時間も必要でなければいつも終わっています。\n毎週固定で話せる時間を設定したいので、空いてる時間を教えて。たけしの方が現状固定で既に枠を取られているところが多いと思うので、お願いします！",
     "team": "T0688JH4ALV",
     "thread_ts": "1733899876.924929",
-    "reply_count": 7,
+    "reply_count": 8,
     "reply_users_count": 2,
-    "latest_reply": "1733932231.225129",
+    "latest_reply": "1733940263.249679",
     "reply_users": [
       "U081Q6XTNHZ",
       "U068Q5LCTG9"
     ],
     "is_locked": false,
     "subscribed": true,
-    "last_read": "1733932231.225129",
+    "last_read": "1733940263.249679",
     "blocks": [
       {
         "type": "rich_text",
@@ -243,6 +243,33 @@
                   {
                     "type": "text",
                     "text": "\nCIOのやつ招待済み？カレンダーに"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U081Q6XTNHZ",
+        "type": "message",
+        "ts": "1733940263.249679",
+        "client_msg_id": "04554b34-fb80-4429-a199-afa4f95114e3",
+        "text": "まだです",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733899876.924929",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "r0gTs",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "まだです"
                   }
                 ]
               }

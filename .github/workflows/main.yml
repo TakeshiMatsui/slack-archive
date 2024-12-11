@@ -21,6 +21,8 @@ jobs:
     - name: 必要な依存関係をインストール
       run: |
         npm install
+      working-directory: ./slack-archive
+      
 
     - name: Slack アーカイブを実行（全チャンネル）
       env:

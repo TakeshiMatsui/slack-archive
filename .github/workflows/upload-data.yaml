@@ -3,7 +3,7 @@ name: Upload Files to Google Drive
 on: [push]
 
 env:
-  TARGET_TEX_FILES: "./slack-archive/html/**/* ./slack-archive/index.html ./slack-archive/search.html" 
+  TARGET_TEX_FILES: "./slack-archive/html ./slack-archive/index.html ./slack-archive/search.html" 
   GOOGLE_DRIVE_DESTINATION: /slack-archive
 
 jobs:
@@ -17,13 +17,13 @@ jobs:
     - name: 既存のファイルをアップロード用ディレクトリに移動
       run: |
         mkdir -p upload
-        # ファイルが存在する場合、uploadディレクトリに移動
+        # htmlディレクトリとファイルをそのままコピー
         for TARGET_TEX_FILE in ${{ env.TARGET_TEX_FILES }}; do
           if [ -d $TARGET_TEX_FILE ]; then
-            # ディレクトリがあれば、そのまま移動
+            # ディレクトリがあれば、そのままuploadディレクトリにコピー
             cp -r $TARGET_TEX_FILE ./upload/
           elif [ -f $TARGET_TEX_FILE ]; then
-            # ファイルがあれば、uploadディレクトリに移動
+            # ファイルがあれば、uploadディレクトリにコピー
             cp $TARGET_TEX_FILE ./upload/
           fi
         done

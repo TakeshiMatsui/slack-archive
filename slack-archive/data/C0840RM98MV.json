@@ -1,0 +1,34 @@
+[
+  {
+    "user": "U084F99EDM1",
+    "type": "message",
+    "ts": "1733834787.547539",
+    "client_msg_id": "394a5137-10fa-4db9-8323-b4d1812851cb",
+    "text": "yaioaiu",
+    "team": "T084FBS2YHG",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1KP1e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "yaioaiu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U084F99EDM1",
+    "text": "<@U084F99EDM1>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1733834737.071159"
+  }
+]

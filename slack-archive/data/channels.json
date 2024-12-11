@@ -1,0 +1,147 @@
+[
+  {
+    "id": "C0840RM98MV",
+    "name": "all-test",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1733834736,
+    "is_archived": false,
+    "is_general": true,
+    "unlinked": 0,
+    "name_normalized": "all-test",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T084FBS2YHG",
+    "updated": 1733834746175,
+    "parent_conversation": null,
+    "creator": "U084F99EDM1",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T084FBS2YHG"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "会社のニュース、今後のイベント、称賛に値するチームメンバーについての通知や最新情報を共有します。⭐",
+      "creator": "U084F99EDM1",
+      "last_set": 1733834736
+    },
+    "properties": {
+      "canvas": {
+        "file_id": "F084HSUPJ5A",
+        "is_empty": false,
+        "quip_thread_id": "eHX9AACbmuW"
+      },
+      "use_case": "welcome"
+    },
+    "previous_names": [
+      "slack-のすべて"
+    ],
+    "num_members": 1
+  },
+  {
+    "id": "C084F99GCJF",
+    "name": "ソーシャル",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1733834737,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "ｿｰｼｬﾙ",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T084FBS2YHG",
+    "updated": 1733834741628,
+    "parent_conversation": null,
+    "creator": "U084F99EDM1",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T084FBS2YHG"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "その他のチャンネルは仕事用です。このチャンネルでは楽しく過ごしましょう。チームのメンバーと知り合い、リラックスした一面を見せてください。🎈",
+      "creator": "U084F99EDM1",
+      "last_set": 1733834737
+    },
+    "properties": {
+      "canvas": {
+        "file_id": "F084U2MKB5F",
+        "is_empty": false,
+        "quip_thread_id": "TcH9AAJVqiy"
+      },
+      "use_case": "random"
+    },
+    "previous_names": [],
+    "num_members": 1
+  },
+  {
+    "id": "C084F9BSP19",
+    "name": "test",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1733834770,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "test",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T084FBS2YHG",
+    "updated": 1733834771584,
+    "parent_conversation": null,
+    "creator": "U084F99EDM1",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T084FBS2YHG"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "このチャンネルでは #test についてどんなことでも話し合えます。ミーティングの開催、資料の共有、チーム一体での意思決定ができます。",
+      "creator": "U084F99EDM1",
+      "last_set": 1733834770
+    },
+    "properties": {
+      "canvas": {
+        "file_id": "F084HSX2H5J",
+        "quip_thread_id": "ZeW9AAdqTAl"
+      },
+      "use_case": "project"
+    },
+    "previous_names": [],
+    "num_members": 1
+  }
+]

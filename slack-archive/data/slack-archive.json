@@ -1,0 +1,39 @@
+{
+  "channels": {
+    "C0840RM98MV": {
+      "messages": 2
+    },
+    "C084F99GCJF": {
+      "messages": 1
+    },
+    "C084F9BSP19": {
+      "messages": 2
+    }
+  },
+  "auth": {
+    "ok": true,
+    "url": "https://test-iq62317.slack.com/",
+    "team": "test",
+    "user": "matsutake502",
+    "team_id": "T084FBS2YHG",
+    "user_id": "U084F99EDM1",
+    "is_enterprise_install": false,
+    "response_metadata": {
+      "scopes": [
+        "identify",
+        "channels:history",
+        "groups:history",
+        "im:history",
+        "mpim:history",
+        "channels:read",
+        "emoji:read",
+        "files:read",
+        "groups:read",
+        "im:read",
+        "mpim:read",
+        "users:read",
+        "remote_files:read"
+      ]
+    }
+  }
+}

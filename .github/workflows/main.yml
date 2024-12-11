@@ -41,4 +41,7 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: slack-archive-results
-        path: ./slack-archive/**/*
+        path: |
+          ./slack-archive/html/**/*  # html フォルダ内のすべてのファイル
+          ./slack-archive/index.html  # index.html ファイル
+          ./slack-archive/search.html  # search.html ファイル

@@ -35,10 +35,15 @@ jobs:
           spawn npx slack-archive
           expect \\\"Please enter your Slack token\\\"
           send \\\"$SLACK_TOKEN\\r\\\"
+          expect \\\"Which channel types do you want to download?\\\"
+          send \\\" \\r\\\"  # Select 'Public Channels' by pressing space
+          expect \\\"Which channels do you want to download?\\\"
+          send \\\"a\\r\\\"  # Select all channels
           expect eof
         "
       env:
         SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      working-directory: ./slack-archive
           
     - name: 結果をリモートにプッシュ
       env:

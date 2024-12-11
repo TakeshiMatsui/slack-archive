@@ -1,0 +1,148 @@
+[
+  {
+    "subtype": "channel_purpose",
+    "user": "U06FYMZJ2Q2",
+    "purpose": "Product Field全体についての連絡をするチャンネルです。",
+    "text": "がこのチャンネルの説明を「Product Field全体についての連絡をするチャンネルです。」に設定しました",
+    "type": "message",
+    "ts": "1733743668.895469"
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1733387498.839299",
+    "client_msg_id": "378881C0-BFA1-4AC3-BEB9-ABCF15D2F90E",
+    "text": "人が増えてから本格運用できたら！",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "YOf2k",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "人が増えてから本格運用できたら！"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "saluting_face",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1733387419.693149",
+    "client_msg_id": "F4855F3C-040B-4064-9B5D-2EA42045DEFF",
+    "text": "この領域への全体連絡用ですね、しばらく使わなくていいと思います。\nほかの領域も同様ですかね。",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yRUTB",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "この領域への全体連絡用ですね、しばらく使わなくていいと思います。\nほかの領域も同様ですかね。"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07PN4G7FEX",
+    "text": "<@U07PN4G7FEX>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733387363.713009"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733387345.090689",
+    "client_msg_id": "aecf766d-5d74-4ac4-afc3-d81869a34aaa",
+    "text": "ここは何話すんでしたっけ",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eHt0n",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ここは何話すんでしたっけ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_purpose",
+    "user": "U07R0SR8MDL",
+    "purpose": "Product Field全体についての連絡",
+    "text": "がこのチャンネルの説明を「Product Field全体についての連絡」に設定しました",
+    "type": "message",
+    "ts": "1732955379.868579"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U068Q5LCTG9",
+    "text": "<@U068Q5LCTG9>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732878464.512899"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732878464.453179"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732878464.353079"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U06FYMZJ2Q2",
+    "text": "<@U06FYMZJ2Q2>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732878457.800799"
+  }
+]

@@ -1,0 +1,830 @@
+[
+  {
+    "text": "コンソーシアムモデルを検討します",
+    "files": [
+      {
+        "id": "F083L8R89CN",
+        "created": 1733392985,
+        "timestamp": 1733392985,
+        "name": "r5_manual_it_jigyosha.pdf",
+        "title": "r5_manual_it_jigyosha.pdf",
+        "mimetype": "application/pdf",
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 4528792,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083L8R89CN/r5_manual_it_jigyosha.pdf",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083L8R89CN/download/r5_manual_it_jigyosha.pdf",
+        "media_display_type": "unknown",
+        "thumb_pdf": "https://files.slack.com/files-tmb/T0688JH4ALV-F083L8R89CN-eddbd4c54a/r5_manual_it_jigyosha_thumb_pdf.png",
+        "thumb_pdf_w": 825,
+        "thumb_pdf_h": 1192,
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083L8R89CN/r5_manual_it_jigyosha.pdf",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F083L8R89CN-f958645246",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n4AAX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "コンソーシアムモデルを検討します"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subtype": "thread_broadcast",
+    "root": {
+      "text": "IT導入支援事業者に登録します",
+      "files": [
+        {
+          "id": "F083SR42G58",
+          "created": 1733392336,
+          "timestamp": 1733392336,
+          "name": "r5_touroku_it_jigyosha.pdf",
+          "title": "r5_touroku_it_jigyosha.pdf",
+          "mimetype": "application/pdf",
+          "filetype": "pdf",
+          "pretty_type": "PDF",
+          "user": "U068Q5LCTG9",
+          "user_team": "T0688JH4ALV",
+          "editable": false,
+          "size": 590899,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083SR42G58/r5_touroku_it_jigyosha.pdf",
+          "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083SR42G58/download/r5_touroku_it_jigyosha.pdf",
+          "media_display_type": "unknown",
+          "thumb_pdf": "https://files.slack.com/files-tmb/T0688JH4ALV-F083SR42G58-ee83b68f1b/r5_touroku_it_jigyosha_thumb_pdf.png",
+          "thumb_pdf_w": 910,
+          "thumb_pdf_h": 1286,
+          "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083SR42G58/r5_touroku_it_jigyosha.pdf",
+          "permalink_public": "https://slack-files.com/T0688JH4ALV-F083SR42G58-ab2d0fbc7b",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U068Q5LCTG9",
+      "display_as_bot": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "J8Ty3",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "IT導入支援事業者に登録します"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": "message",
+      "ts": "1733392349.432659",
+      "client_msg_id": "54a0396f-abfe-4834-9ebb-a749e5aa0bc5",
+      "thread_ts": "1733392349.432659",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1733392997.574649",
+      "reply_users": [
+        "U068Q5LCTG9"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "type": "message",
+    "ts": "1733392997.574649",
+    "client_msg_id": "045bc5a4-76cc-4220-a366-9fda7073f911",
+    "thread_ts": "1733392349.432659",
+    "parent_user_id": "U068Q5LCTG9"
+  },
+  {
+    "text": "IT導入支援事業者に登録します",
+    "files": [
+      {
+        "id": "F083SR42G58",
+        "created": 1733392336,
+        "timestamp": 1733392336,
+        "name": "r5_touroku_it_jigyosha.pdf",
+        "title": "r5_touroku_it_jigyosha.pdf",
+        "mimetype": "application/pdf",
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 590899,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083SR42G58/r5_touroku_it_jigyosha.pdf",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083SR42G58/download/r5_touroku_it_jigyosha.pdf",
+        "media_display_type": "unknown",
+        "thumb_pdf": "https://files.slack.com/files-tmb/T0688JH4ALV-F083SR42G58-ee83b68f1b/r5_touroku_it_jigyosha_thumb_pdf.png",
+        "thumb_pdf_w": 910,
+        "thumb_pdf_h": 1286,
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083SR42G58/r5_touroku_it_jigyosha.pdf",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F083SR42G58-ab2d0fbc7b",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J8Ty3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "IT導入支援事業者に登録します"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733392349.432659",
+    "client_msg_id": "54a0396f-abfe-4834-9ebb-a749e5aa0bc5",
+    "thread_ts": "1733392349.432659",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1733392997.574649",
+    "reply_users": [
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "replies": [
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1733392677.884149",
+        "client_msg_id": "4436ca8b-7bb3-443e-a045-51c12b10151b",
+        "text": "<https://it-shien.smrj.go.jp/itvendor/flow/>",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733392349.432659",
+        "parent_user_id": "U068Q5LCTG9",
+        "attachments": [
+          {
+            "from_url": "https://it-shien.smrj.go.jp/itvendor/flow/",
+            "image_url": "https://it-shien.smrj.go.jp/og.png",
+            "image_width": 1200,
+            "image_height": 630,
+            "image_bytes": 32390,
+            "id": 1,
+            "original_url": "https://it-shien.smrj.go.jp/itvendor/flow/",
+            "fallback": "IT導入補助金2024: 登録申請・手続きフロー ｜ IT導入補助金2024",
+            "title": "登録申請・手続きフロー ｜ IT導入補助金2024",
+            "title_link": "https://it-shien.smrj.go.jp/itvendor/flow/",
+            "service_name": "IT導入補助金2024"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "C8AsT",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://it-shien.smrj.go.jp/itvendor/flow/"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "コンソーシアムモデルを検討します",
+        "files": [
+          {
+            "id": "F083L8R89CN",
+            "created": 1733392985,
+            "timestamp": 1733392985,
+            "name": "r5_manual_it_jigyosha.pdf",
+            "title": "r5_manual_it_jigyosha.pdf",
+            "mimetype": "application/pdf",
+            "filetype": "pdf",
+            "pretty_type": "PDF",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 4528792,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083L8R89CN/r5_manual_it_jigyosha.pdf",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083L8R89CN/download/r5_manual_it_jigyosha.pdf",
+            "media_display_type": "unknown",
+            "thumb_pdf": "https://files.slack.com/files-tmb/T0688JH4ALV-F083L8R89CN-eddbd4c54a/r5_manual_it_jigyosha_thumb_pdf.png",
+            "thumb_pdf_w": 825,
+            "thumb_pdf_h": 1192,
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083L8R89CN/r5_manual_it_jigyosha.pdf",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F083L8R89CN-f958645246",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          }
+        ],
+        "upload": false,
+        "user": "U068Q5LCTG9",
+        "display_as_bot": false,
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "n4AAX",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "コンソーシアムモデルを検討します"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+          "text": "IT導入支援事業者に登録します",
+          "files": [
+            {
+              "id": "F083SR42G58",
+              "created": 1733392336,
+              "timestamp": 1733392336,
+              "name": "r5_touroku_it_jigyosha.pdf",
+              "title": "r5_touroku_it_jigyosha.pdf",
+              "mimetype": "application/pdf",
+              "filetype": "pdf",
+              "pretty_type": "PDF",
+              "user": "U068Q5LCTG9",
+              "user_team": "T0688JH4ALV",
+              "editable": false,
+              "size": 590899,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": true,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083SR42G58/r5_touroku_it_jigyosha.pdf",
+              "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083SR42G58/download/r5_touroku_it_jigyosha.pdf",
+              "media_display_type": "unknown",
+              "thumb_pdf": "https://files.slack.com/files-tmb/T0688JH4ALV-F083SR42G58-ee83b68f1b/r5_touroku_it_jigyosha_thumb_pdf.png",
+              "thumb_pdf_w": 910,
+              "thumb_pdf_h": 1286,
+              "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083SR42G58/r5_touroku_it_jigyosha.pdf",
+              "permalink_public": "https://slack-files.com/T0688JH4ALV-F083SR42G58-ab2d0fbc7b",
+              "is_starred": false,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U068Q5LCTG9",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "J8Ty3",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "IT導入支援事業者に登録します"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1733392349.432659",
+          "client_msg_id": "54a0396f-abfe-4834-9ebb-a749e5aa0bc5",
+          "thread_ts": "1733392349.432659",
+          "reply_count": 2,
+          "reply_users_count": 1,
+          "latest_reply": "1733392997.574649",
+          "reply_users": [
+            "U068Q5LCTG9"
+          ],
+          "is_locked": false,
+          "subscribed": false
+        },
+        "type": "message",
+        "ts": "1733392997.574649",
+        "client_msg_id": "045bc5a4-76cc-4220-a366-9fda7073f911",
+        "thread_ts": "1733392349.432659",
+        "parent_user_id": "U068Q5LCTG9"
+      }
+    ]
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U07R0SR8MDL",
+    "old_name": "42_sales",
+    "name": "42_セールス",
+    "text": "チャンネル名を「42_sales」から「42_セールス」に変更しました",
+    "type": "message",
+    "ts": "1732953468.019849"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "50_sales_general",
+    "name": "42_sales",
+    "text": "チャンネル名を「50_sales_general」から「42_sales」に変更しました",
+    "type": "message",
+    "ts": "1732877516.525239"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732605680.912729",
+    "client_msg_id": "6b3906ee-e33b-4a6a-84f3-aaeb0f406127",
+    "text": "<@U07PN4G7FEX>\n\n*企業研究・事前調査のフォーマット*：<https://www.notion.so/c4b0d8b7a6464a87b876d8a9e9f8e1e7?pvs=4>\n\n*企業研究のやり方・中期経営計画の見方：*<https://www.notion.so/ac0b5ac4ccd34cd394b66b6bc3848053?pvs=4>",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1732605680.912729",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1732628189.265339",
+    "reply_users": [
+      "U07PN4G7FEX",
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1732349880,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/c4b0d8b7a6464a87b876d8a9e9f8e1e7?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "＜企業研究・事前調査のフォーマット＞",
+        "text": "⓪これまでの経緯",
+        "title": "＜企業研究・事前調査のフォーマット＞",
+        "title_link": "https://www.notion.so/c4b0d8b7a6464a87b876d8a9e9f8e1e7?pvs=6&utm_content=c4b0d8b7-a646-4a87-b876-d8a9e9f8e1e7&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      },
+      {
+        "id": 2,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1732605300,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/ac0b5ac4ccd34cd394b66b6bc3848053?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "企業研究のやり方・中期経営計画の見方",
+        "text": "＜企業研究・事前調査のフォーマット＞ に記入しながらやりましょう",
+        "title": "企業研究のやり方・中期経営計画の見方",
+        "title_link": "https://www.notion.so/ac0b5ac4ccd34cd394b66b6bc3848053?pvs=6&utm_content=ac0b5ac4-ccd3-4cd3-94b6-6b6bc3848053&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bw27w",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U07PN4G7FEX"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "企業研究・事前調査のフォーマット",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "："
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/c4b0d8b7a6464a87b876d8a9e9f8e1e7?pvs=4"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "企業研究のやり方・中期経営計画の見方：",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/ac0b5ac4ccd34cd394b66b6bc3848053?pvs=4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U07PN4G7FEX",
+        "type": "message",
+        "ts": "1732606052.408589",
+        "client_msg_id": "dde0ef57-3df4-459b-862c-c9a28faeb2e1",
+        "text": "アクセスリクエスト送りました",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732605680.912729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "xSMZw",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "アクセスリクエスト送りました"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732606097.087789",
+        "client_msg_id": "8b61145e-e301-4eb8-9132-683dc460778f",
+        "text": "メアド大学卒業後も使うやつ教えて",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732605680.912729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "mYgL5",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "メアド大学卒業後も使うやつ教えて"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07PN4G7FEX",
+        "type": "message",
+        "ts": "1732606140.520689",
+        "client_msg_id": "b03a7bd4-95f7-4ce9-a95d-7003c1ad00a2",
+        "text": "<mailto:niimikousei.n@gmail.com|niimikousei.n@gmail.com>",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732605680.912729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "4Qx2q",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "mailto:niimikousei.n@gmail.com",
+                    "text": "niimikousei.n@gmail.com"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732628189.265339",
+        "client_msg_id": "22909024-dc74-4a6b-bf4e-bc1186cf14fc",
+        "text": "2月入ったら会社のGoogleアカウント作成するので、それまでの間共有してもらったメアドでお願いします",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732605680.912729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "eV+Rp",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "2月入ったら会社のGoogleアカウント作成するので、それまでの間共有してもらったメアドでお願いします"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731307960.426929",
+    "client_msg_id": "FE8026C2-BB18-4B7B-A925-3E5176772675",
+    "text": "<@U06FYMZJ2Q2>\nIT導入補助金の代理企業申請のやつ、採択されやすい所定のフォーマットとかあるみたいなので、フォーバルの担当者繋げてもらって教えてもらえることになった",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hhc1f",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nIT導入補助金の代理企業申請のやつ、採択されやすい所定のフォーマットとかあるみたいなので、フォーバルの担当者繋げてもらって教えてもらえることになった"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2",
+          "U06RD6MGVK9"
+        ],
+        "count": 2
+      },
+      {
+        "name": "pray",
+        "users": [
+          "U06FYMZJ2Q2",
+          "U06RD6MGVK9"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1730080639.379469",
+    "client_msg_id": "10dbc74e-8763-4676-a810-f1937e07e3d7",
+    "text": "<@U06RD6MGVK9> 営業戦略的なところで、アカウントプランニングとかデマンドプランニングの枠組みを作っていければいいなと思ってます。\nこの辺のところで土曜日か平日の夜に1時間ほど話せたりしますか？\nアジェンダは以下の通りです：\n1. 営業活動の透明性確保にむけて何の見えるようにすればいいのか？20min\n2. 透明性確保に向けてどのようなものが必要か？20min\n3. ワークフローの方針決定（作業については別枠）15min",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1730080639.379469",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1730137353.240049",
+    "reply_users": [
+      "U06RD6MGVK9",
+      "U07R0SR8MDL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "F8XIX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06RD6MGVK9"
+              },
+              {
+                "type": "text",
+                "text": " 営業戦略的なところで、アカウントプランニングとかデマンドプランニングの枠組みを作っていければいいなと思ってます。\nこの辺のところで土曜日か平日の夜に1時間ほど話せたりしますか？\nアジェンダは以下の通りです：\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "営業活動の透明性確保にむけて何の見えるようにすればいいのか？20min"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "透明性確保に向けてどのようなものが必要か？20min"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ワークフローの方針決定（作業については別枠）15min"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06RD6MGVK9",
+        "type": "message",
+        "ts": "1730096823.171049",
+        "client_msg_id": "ecfd539d-04d0-4ae0-b8e2-d76c256de849",
+        "text": "<@U07R0SR8MDL> 土曜日の夜にお願いしたいです！時間はいつでも大丈夫です！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730080639.379469",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "z0fli",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U07R0SR8MDL"
+                  },
+                  {
+                    "type": "text",
+                    "text": " 土曜日の夜にお願いしたいです！時間はいつでも大丈夫です！"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1730106436.850159",
+        "client_msg_id": "17FAAD5E-0458-4479-904E-5B8757204DDA",
+        "text": "翔太とのMTGに被せて3人で話せるといいかな？\n17:00-18:00とかどうすか？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730080639.379469",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "va+6a",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "翔太とのMTGに被せて3人で話せるといいかな？\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "17:00-18:00とかどうすか？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06RD6MGVK9",
+        "type": "message",
+        "ts": "1730137353.240049",
+        "client_msg_id": "81a0c0ca-85ba-401d-9b59-7c81fe27a0bf",
+        "text": "大丈夫です！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730080639.379469",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "VghAE",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "大丈夫です！"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07R0SR8MDL"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,1015 @@
+[
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733931834.977349",
+    "client_msg_id": "758accbf-749c-4891-ab22-f86f77c917dc",
+    "text": "理解しました:eyes:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "R17Eq",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "理解しました"
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "unicode": "1f440"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1733931727.714039",
+    "client_msg_id": "7d54d698-a647-403e-b631-421945affa09",
+    "text": "モブはmob:群衆からきていて、3人以上が協力して作業することですね。\nペアプロ・モブプロの「モブ」です",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "MVUVx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "モブはmob:群衆からきていて、3人以上が協力して作業することですね。\nペアプロ・モブプロの「モブ」です"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733930444.623719",
+    "client_msg_id": "c8b25983-217c-4a2b-9856-6494c9274b00",
+    "text": "aloneってこと？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wAYzP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "aloneってこと？"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733930436.215899",
+    "client_msg_id": "6e052bd7-adf6-4db1-8d0b-48152de1fdf9",
+    "text": "モブとは？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pqWNU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "モブとは？"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1733929854.025769",
+    "client_msg_id": "a5e5171d-9f4d-4a1d-9e1e-f1d59e5e596e",
+    "text": "モブ作業を推進していきたい",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "p+cEO",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "モブ作業を推進していきたい"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1733688983.938449",
+    "client_msg_id": "17b9fb8b-0518-4620-84e8-633d54a048ce",
+    "text": "おやすみ．．．",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "E/Q0v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "おやすみ．．．"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "zzz",
+        "users": [
+          "U07R0SR8MDL",
+          "U068Q5LCTG9"
+        ],
+        "count": 2
+      },
+      {
+        "name": "saluting_face",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1733546036.606069",
+    "client_msg_id": "4dd32334-f581-4e09-a6d2-456bc2edbcf7",
+    "text": "極寒で5kmランニングしてきた:cold_face:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uIINT",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "極寒で5kmランニングしてきた"
+              },
+              {
+                "type": "emoji",
+                "name": "cold_face",
+                "unicode": "1f976"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1733367824.940949",
+    "client_msg_id": "3387c9b9-4ee1-41d3-a262-5125b88313a1",
+    "text": "ハッカソンの議題考えるの遅れてる…マクロのこと内部で話し合ってないのにどうやって河村さんに伝えよう…",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kVUpS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ハッカソンの議題考えるの遅れてる…マクロのこと内部で話し合ってないのにどうやって河村さんに伝えよう…"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "smiling_face_with_tear",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1733281550.125589",
+    "client_msg_id": "7fcf65a2-2401-42bb-9b87-9c4c0faca182",
+    "text": "24日親知らず抜きます",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "T1m1c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "24日親知らず抜きます"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "tooth",
+        "users": [
+          "U068Q5LCTG9",
+          "U07R0SR8MDL",
+          "U07PN4G7FEX"
+        ],
+        "count": 3
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1733281540.087379",
+    "client_msg_id": "3c2b5cff-5b35-4bb0-af66-b83824dd9ada",
+    "text": "病院長いわ....",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eQELj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "病院長いわ...."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1732930966.474379",
+    "client_msg_id": "6cbc3940-71db-43c7-9a53-1819e7f126c6",
+    "text": "あ、PCベルクラの車の中だ....",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "otmO7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "あ、PCベルクラの車の中だ...."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U07RF4825M1",
+    "type": "message",
+    "ts": "1731659317.566869",
+    "client_msg_id": "be6e3162-121f-45c5-8477-911f678c46e4",
+    "text": "<@U06RD6MGVK9>\nおつかれさまです:tea:\n少し休む時間を取ってください:blush:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iIypX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06RD6MGVK9"
+              },
+              {
+                "type": "text",
+                "text": "\nおつかれさまです"
+              },
+              {
+                "type": "emoji",
+                "name": "tea",
+                "unicode": "1f375"
+              },
+              {
+                "type": "text",
+                "text": "\n少し休む時間を取ってください"
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "sob",
+        "users": [
+          "U06RD6MGVK9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1731659249.302459",
+    "client_msg_id": "86569d8d-30d6-420b-ba3c-49055da614d4",
+    "text": "研究発表無事終わりました！とりあえず落ち着けます:bow:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fSDlR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "研究発表無事終わりました！とりあえず落ち着けます"
+              },
+              {
+                "type": "emoji",
+                "name": "bow",
+                "unicode": "1f647"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1",
+          "U068Q5LCTG9",
+          "U079DBWBWQ2",
+          "U07R0SR8MDL"
+        ],
+        "count": 4
+      }
+    ]
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "999_3_times_篤弥",
+    "name": "999_times_篤弥",
+    "text": "チャンネル名を「999_3_times_篤弥」から「999_times_篤弥」に変更しました",
+    "type": "message",
+    "ts": "1731475950.904869"
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1731475803.049889",
+    "client_msg_id": "4d881ea6-6f4a-4c10-b794-fe2ecc920153",
+    "text": "だめだ眠気きた．睡眠時間足りない時は昼寝必須だなこれ",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Pvpm9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "だめだ眠気きた．睡眠時間足りない時は昼寝必須だなこれ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1",
+          "U06RD6MGVK9"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1731465297.118669",
+    "client_msg_id": "653db42e-d933-4e9b-aff0-2c739c17126b",
+    "text": "習慣的に寝る時間は前後してしまうのは仕方ないと考えているので，起きる時間は変えずに，睡眠時間が短い場合は昼寝などで対応してみようと考えてます:+1:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KaodD",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "習慣的に寝る時間は前後してしまうのは仕方ないと考えているので，起きる時間は変えずに，睡眠時間が短い場合は昼寝などで対応してみようと考えてます"
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "unicode": "1f44d"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U07RF4825M1",
+    "type": "message",
+    "ts": "1731465116.552069",
+    "client_msg_id": "C12CC967-BACE-41A5-9170-42853BC45080",
+    "text": "良いことのように思います :+1: \n自然のサイクルに身体を合わせて行くと良い変化が出てくるのかもしれませんね :blush: ",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xLsXw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "良いことのように思います "
+              },
+              {
+                "type": "emoji",
+                "name": "+1",
+                "unicode": "1f44d"
+              },
+              {
+                "type": "text",
+                "text": " \n自然のサイクルに身体を合わせて行くと良い変化が出てくるのかもしれませんね "
+              },
+              {
+                "type": "emoji",
+                "name": "blush",
+                "unicode": "1f60a"
+              },
+              {
+                "type": "text",
+                "text": " "
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "laughing",
+        "users": [
+          "U06RD6MGVK9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1731464983.399829",
+    "client_msg_id": "54911698-bc14-4d51-8a5d-7bd8cc7c23d8",
+    "text": "早起きで調子良くなってるかもです！",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "OIiZ1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "早起きで調子良くなってるかもです！"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1",
+          "U068Q5LCTG9"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1731425206.315429",
+    "client_msg_id": "b491e52f-72f5-42e5-9462-13c51ab0bd8c",
+    "text": "バイト後，確定申告関係で親に2時間拘束されている",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "UuZ8T",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "バイト後，確定申告関係で親に2時間拘束されている"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1731219106.788699",
+    "client_msg_id": "3a19232a-995c-4311-9e5e-d15ec0b909c2",
+    "text": "内部コミュニケーション更新した",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QOMOy",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "内部コミュニケーション更新した"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "saluting_face",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730988910.401449",
+    "client_msg_id": "022f48cb-9eba-468e-ac2e-9060953d6883",
+    "text": "今は大変だが、皆で力を合わせて頑張ろう\n今の叩き台の０→1が個人的には何も分からないまま模索するのが大変ではあると思っているし、みんなそれは分かっていてあつひろに対して尊敬の上で言っているからね\nこのスタートアップの活動に関わっていること自体が、通常では経験できないストレスで、そのうち通常の仕事の悩みくらいなら鼻で笑えるようになるから笑(\nまあ、実際は30,40歳の大人でも自殺する人がたくさんいるくらいだから、耐え切れなくて当然なんだけどな)\n\nチームでやってるし、何かあれば一人でせずに仕事の相談を逐一して！！！\n(今後もきっと別な形での大変が来ると思うけど笑)\n\n河村さん風に言うと、以下の教訓であったので共有\n• 艱難汝を玉にす（かんなんなんじをたまにす）\n    ◦ 「困難が人を磨き、強くし、輝かせる」という意味。試練や困難に立ち向かうことは、リーダーとしての器を深め、より優れた判断力や忍耐力を育むもの。役員としての責務は容易ではないが、この経験を通して磨かれることで、真のリーダーシップが身につくでしょう。\n• 大きな樹が嵐に耐えるのは、その根が深く張っているから(インディアンのことわざ)\n    ◦ 大きな成功や成長には、それを支える強固な基盤が必要。困難や試練に直面することが、根を深く張るための機会となり、未来の大きな成果を支える力になる。リーダーとして、メンバーが根を深く張る機会を提供し、支え続けることが、組織全体の成長にもつながります。\n• 成功とは、失敗を重ねても情熱を失わないことである(ウィンストン・チャーチル)\n    ◦ 第二次世界大戦中のイギリス首相であるウィンストン・チャーチルは、困難に立ち向かい続けたリーダー。この言葉は、失敗や逆境を経験しても、その中で情熱や信念を持ち続けることが真の成功であると教えている。リーダーとして、失敗や困難があっても信念を持って挑み続けることが成功への道であ離、iDeaとしてその一端をになってほしい",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "J1Juz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "今は大変だが、皆で力を合わせて頑張ろう\n今の叩き台の０→1が個人的には何も分からないまま模索するのが大変ではあると思っているし、みんなそれは分かっていてあつひろに対して尊敬の上で言っているからね\nこのスタートアップの活動に関わっていること自体が、通常では経験できないストレスで、そのうち通常の仕事の悩みくらいなら鼻で笑えるようになるから笑(\nまあ、実際は30,40歳の大人でも自殺する人がたくさんいるくらいだから、耐え切れなくて当然なんだけどな)\n\nチームでやってるし、何かあれば一人でせずに仕事の相談を逐一して！！！\n(今後もきっと別な形での大変が来ると思うけど笑)\n\n河村さん風に言うと、以下の教訓であったので共有\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "艱難汝を玉にす（かんなんなんじをたまにす）"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "「困難が人を磨き、強くし、輝かせる」という意味。試練や困難に立ち向かうことは、リーダーとしての器を深め、より優れた判断力や忍耐力を育むもの。役員としての責務は容易ではないが、この経験を通して磨かれることで、真のリーダーシップが身につくでしょう。"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "大きな樹が嵐に耐えるのは、その根が深く張っているから(インディアンのことわざ)"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "大きな成功や成長には、それを支える強固な基盤が必要。困難や試練に直面することが、根を深く張るための機会となり、未来の大きな成果を支える力になる。リーダーとして、メンバーが根を深く張る機会を提供し、支え続けることが、組織全体の成長にもつながります。"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "成功とは、失敗を重ねても情熱を失わないことである(ウィンストン・チャーチル)"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "第二次世界大戦中のイギリス首相であるウィンストン・チャーチルは、困難に立ち向かい続けたリーダー。この言葉は、失敗や逆境を経験しても、その中で情熱や信念を持ち続けることが真の成功であると教えている。リーダーとして、失敗や困難があっても信念を持って挑み続けることが成功への道であ離、iDeaとしてその一端をになってほしい"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1730987083.995969",
+    "client_msg_id": "52d170cb-d53c-4f2e-834c-ae05b3e988cb",
+    "text": "ライフ0:innocent:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BHstJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ライフ0"
+              },
+              {
+                "type": "emoji",
+                "name": "innocent",
+                "unicode": "1f607"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart_on_fire",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "mechanical_arm",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "pill",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1730207543.919619",
+    "client_msg_id": "83dea2b9-80d6-44c3-8263-b876effb8e7d",
+    "text": "ばおわ",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b2QBs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ばおわ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "love_hotel",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "wedding",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "moneybag",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "乳首",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "u7981",
+        "users": [
+          "U07TWBDFT97"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "韓国いってきます！",
+    "files": [
+      {
+        "id": "F07MGB4TSV9",
+        "created": 1726368115,
+        "timestamp": 1726368115,
+        "name": "IMG_20240915_114150.jpg",
+        "title": "IMG_20240915_114150.jpg",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U06RD6MGVK9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 462105,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07MGB4TSV9/img_20240915_114150.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07MGB4TSV9/download/img_20240915_114150.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_360.jpg",
+        "thumb_360_w": 203,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_480.jpg",
+        "thumb_480_w": 270,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_720.jpg",
+        "thumb_720_w": 405,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1422,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_960.jpg",
+        "thumb_960_w": 540,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07MGB4TSV9-ab960bcfa8/img_20240915_114150_1024.jpg",
+        "thumb_1024_w": 576,
+        "thumb_1024_h": 1024,
+        "original_w": 2268,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwABut5Ev9xq0FBCgHqBSAnbnac+nemiVif9U/14oAsDG0c0lMDBuKdsPqKAIVek2/3WH4io/MUHBYZHanhh60APQbR1p2/wB6YGHqPzpdw9RQBnztmTODnuDQp9Tilu+J8+oqHdwBQA9juOFBJqZNqqAwOfpRaLwW9at0rjsf/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U06RD6MGVK9/F07MGB4TSV9/img_20240915_114150.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07MGB4TSV9-6b0b565c02",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U06RD6MGVK9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "JXrHs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "韓国いってきます！"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1726368123.218549",
+    "client_msg_id": "ec45c77f-67b4-47c9-a1d2-426fcd471ecf",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U068Q5LCTG9",
+          "U06U8THL84A",
+          "U06FYMZJ2Q2"
+        ],
+        "count": 3
+      }
+    ]
+  }
+]

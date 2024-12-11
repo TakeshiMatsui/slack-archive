@@ -1,0 +1,27 @@
+[
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "knowledge-stock_輪読会",
+    "name": "ナレッジストック_輪読会",
+    "text": "チャンネル名を「knowledge-stock_輪読会」から「ナレッジストック_輪読会」に変更しました",
+    "type": "message",
+    "ts": "1733128933.850169"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "012_knowledge-stock_輪読会",
+    "name": "knowledge-stock_輪読会",
+    "text": "チャンネル名を「012_knowledge-stock_輪読会」から「knowledge-stock_輪読会」に変更しました",
+    "type": "message",
+    "ts": "1732879092.362649"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732607135.448869"
+  }
+]

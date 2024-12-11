@@ -1,0 +1,92 @@
+[
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1733805459.020709",
+    "client_msg_id": "f0cff8c0-986c-47c5-ae7b-adce2835528b",
+    "text": "<@U07RF4825M1> さん <@U068Q5LCTG9>\nお疲れさまです。\nこの後14:00からのミーティングの議事録を共有します。\n人事関連では、小檜山さんのこと、MACCコミュニティの活用のことくらいしか無いかと思いますので、デラさんがいらっしゃらなかった期間の進捗共有をしつつ、雑多にお話できればと思っております。\nよろしくお願いいたします。\n\nミーティング 議事録 : <https://www.notion.so/20241210_-f633bf04fd694f15949ea9f6f333b8d0?pvs=4>",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "h6eCL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U07RF4825M1"
+              },
+              {
+                "type": "text",
+                "text": " さん "
+              },
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": "\nお疲れさまです。\nこの後14:00からのミーティングの議事録を共有します。\n人事関連では、小檜山さんのこと、MACCコミュニティの活用のことくらいしか無いかと思いますので、デラさんがいらっしゃらなかった期間の進捗共有をしつつ、雑多にお話できればと思っております。\nよろしくお願いいたします。\n\nミーティング 議事録 : "
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20241210_-f633bf04fd694f15949ea9f6f333b8d0?pvs=4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1",
+          "U068Q5LCTG9"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07RF4825M1",
+    "text": "<@U07RF4825M1>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1733805282.860119"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U068Q5LCTG9",
+    "text": "<@U068Q5LCTG9>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732878566.032679"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732878565.972139"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732878565.907239"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U06FYMZJ2Q2",
+    "text": "<@U06FYMZJ2Q2>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732878557.116269"
+  }
+]

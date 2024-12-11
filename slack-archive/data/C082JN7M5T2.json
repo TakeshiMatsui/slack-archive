@@ -1,0 +1,338 @@
+[
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733706826.541269"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U06RD6MGVK9",
+    "text": "<@U06RD6MGVK9>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733706826.453009"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07RF4825M1",
+    "text": "<@U07RF4825M1>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733706826.371739"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733706408.786149",
+    "client_msg_id": "D68924B9-1340-433B-BF89-348A5C7AB199",
+    "text": "おはようございます:smiley:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gxsTW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "おはようございます"
+              },
+              {
+                "type": "emoji",
+                "name": "smiley",
+                "unicode": "1f603"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U081Q6XTNHZ",
+    "type": "message",
+    "ts": "1733701117.218349",
+    "client_msg_id": "bb85e4b8-224e-4f32-902d-5499beeb6891",
+    "text": "朝のミーティングが設定されていたが、誰も来なかった",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "n529D",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "朝のミーティングが設定されていたが、誰も来なかった"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "寝不足",
+        "users": [
+          "U07PN4G7FEX"
+        ],
+        "count": 1
+      },
+      {
+        "name": "pray::skin-tone-2",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733396415.860569",
+    "client_msg_id": "7F72AB9A-00AA-489C-A7DE-F0BFD7DF693F",
+    "text": "後で招集するかもって事",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "iBG1r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "後で招集するかもって事"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "thinking_face",
+        "users": [
+          "U081Q6XTNHZ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U081Q6XTNHZ",
+    "type": "message",
+    "ts": "1733394542.088209",
+    "client_msg_id": "78fd848e-d0af-44f2-b1eb-4359207c602e",
+    "text": "どうかした？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "S0jfY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "どうかした？"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U081Q6XTNHZ",
+    "type": "message",
+    "ts": "1733394510.425759",
+    "client_msg_id": "ff7510bd-5c65-4134-bf96-310eb985bdfc",
+    "text": "はい",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vUK6b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "はい"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733394477.963369",
+    "client_msg_id": "a77d73b8-be5e-4f42-babb-a4b4b2a9bc68",
+    "text": "<@U081Q6XTNHZ> ？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "QtEqx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U081Q6XTNHZ"
+              },
+              {
+                "type": "text",
+                "text": " ？"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733393609.883939",
+    "client_msg_id": "3b735106-743d-4d9d-b39a-6188f05d7f93",
+    "text": "たけし子供にマインクラフト教えてたっけ？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sWlFb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "たけし子供にマインクラフト教えてたっけ？"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U07PN4G7FEX",
+    "type": "message",
+    "ts": "1732878507.873119",
+    "client_msg_id": "6bf41e31-cbb3-4bb2-87bb-c24574d9398f",
+    "text": "カスタムレスポンスでグループメンション作るのどう\n@Chief　で役職ついてる人たちをSlackbotがメンションされるやつ",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WLYyS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "カスタムレスポンスでグループメンション作るのどう\n@Chief　で役職ついてる人たちをSlackbotがメンションされるやつ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U081Q6XTNHZ"
+        ],
+        "count": 1
+      },
+      {
+        "name": "heart_on_fire",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U06FYMZJ2Q2",
+    "text": "<@U06FYMZJ2Q2>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732875609.397099"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732538222.571299",
+    "client_msg_id": "38B32CFC-773A-4B4F-AD99-BB9DC24A4815",
+    "text": "どうも",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "IxkhA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "どうも"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U068Q5LCTG9",
+    "text": "<@U068Q5LCTG9>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732192390.826879"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732192387.779659"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07PN4G7FEX",
+    "text": "<@U07PN4G7FEX>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732192362.427579"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "knowledge-stock_本紹介_共有チャンネル",
+    "name": "ナレッジストック_本紹介_共有チャンネル",
+    "text": "チャンネル名を「knowledge-stock_本紹介_共有チャンネル」から「ナレッジストック_本紹介_共有チャンネル」に変更しました",
+    "type": "message",
+    "ts": "1733128917.377809"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "011_knowledge-stock_本紹介_共有チャンネル",
+    "name": "knowledge-stock_本紹介_共有チャンネル",
+    "text": "チャンネル名を「011_knowledge-stock_本紹介_共有チャンネル」から「knowledge-stock_本紹介_共有チャンネル」に変更しました",
+    "type": "message",
+    "ts": "1732879083.993029"
+  }
+]

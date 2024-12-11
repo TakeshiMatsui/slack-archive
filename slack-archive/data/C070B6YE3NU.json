@@ -1,0 +1,27 @@
+[
+  {
+    "subtype": "channel_join",
+    "user": "U07PN4G7FEX",
+    "text": "<@U07PN4G7FEX>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732185653.656859"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "999_6_times_空侑",
+    "name": "999_times_空侑",
+    "text": "チャンネル名を「999_6_times_空侑」から「999_times_空侑」に変更しました",
+    "type": "message",
+    "ts": "1731475990.523739"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "999_5_times_空侑",
+    "name": "999_6_times_空侑",
+    "text": "チャンネル名を「999_5_times_空侑」から「999_6_times_空侑」に変更しました",
+    "type": "message",
+    "ts": "1731456567.087119"
+  }
+]

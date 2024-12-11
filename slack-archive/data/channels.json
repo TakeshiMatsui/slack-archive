@@ -1,28 +1,157 @@
 [
   {
-    "id": "C0840RM98MV",
-    "name": "all-test",
+    "id": "C0684T23NS2",
+    "name": "42_セールス",
     "is_channel": true,
     "is_group": false,
     "is_im": false,
     "is_mpim": false,
     "is_private": false,
-    "created": 1733834736,
+    "created": 1701498846,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "42_ｾｰﾙｽ",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732953467984,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "このチャンネルでは #営業 についてどんなことでも話し合えます。ミーティングの開催、資料の共有、チーム一体での意思決定ができます。",
+      "creator": "U068Q5LCTG9",
+      "last_set": 1701498846
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        },
+        {
+          "id": "bookmarks",
+          "label": "",
+          "type": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        }
+      ],
+      "use_case": "project"
+    },
+    "previous_names": [
+      "42_sales",
+      "50_sales_general",
+      "007_営業",
+      "03_営業",
+      "営業"
+    ],
+    "num_members": 31
+  },
+  {
+    "id": "C0688JH4REZ",
+    "name": "0_random",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1701498785,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "0_random",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732879063720,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "このチャンネルでは、どんなことでも話せます。チーム内のジョークや、とっさに思い付いたアイデア、おもしろい GIF 画像を投稿できます。思いのままに活用しましょう！",
+      "creator": "U068Q5LCTG9",
+      "last_set": 1701498785
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ],
+      "use_case": "random"
+    },
+    "previous_names": [
+      "003_random",
+      "002_random",
+      "02_random",
+      "random"
+    ],
+    "num_members": 32
+  },
+  {
+    "id": "C068BGFFE0J",
+    "name": "0_general",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1701498784,
     "is_archived": false,
     "is_general": true,
     "unlinked": 0,
-    "name_normalized": "all-test",
+    "name_normalized": "0_general",
     "is_shared": false,
     "is_org_shared": false,
     "is_pending_ext_shared": false,
     "pending_shared": [],
-    "context_team_id": "T084FBS2YHG",
-    "updated": 1733834746175,
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732879043179,
     "parent_conversation": null,
-    "creator": "U084F99EDM1",
+    "creator": "U068Q5LCTG9",
     "is_ext_shared": false,
     "shared_team_ids": [
-      "T084FBS2YHG"
+      "T0688JH4ALV"
     ],
     "pending_connected_team_ids": [],
     "is_member": true,
@@ -32,47 +161,68 @@
       "last_set": 0
     },
     "purpose": {
-      "value": "会社のニュース、今後のイベント、称賛に値するチームメンバーについての通知や最新情報を共有します。⭐",
-      "creator": "U084F99EDM1",
-      "last_set": 1733834736
+      "value": "このチャンネルには、常にすべてのメンバーが含まれます。社内通知やチーム全体の会話にぴったりです。",
+      "creator": "U068Q5LCTG9",
+      "last_set": 1701498784
     },
     "properties": {
       "canvas": {
-        "file_id": "F084HSUPJ5A",
-        "is_empty": false,
-        "quip_thread_id": "eHX9AACbmuW"
+        "file_id": "F080TUSSWPR",
+        "quip_thread_id": "cVK9AAfZRLp"
       },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        },
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "type": "bookmarks"
+        }
+      ],
       "use_case": "welcome"
     },
     "previous_names": [
-      "slack-のすべて"
+      "001_general",
+      "01_general",
+      "general"
     ],
-    "num_members": 1
+    "num_members": 31
   },
   {
-    "id": "C084F99GCJF",
-    "name": "ソーシャル",
+    "id": "C06DPRNJ6UW",
+    "name": "ナレッジストック_社内改善",
     "is_channel": true,
     "is_group": false,
     "is_im": false,
     "is_mpim": false,
     "is_private": false,
-    "created": 1733834737,
+    "created": 1705309097,
     "is_archived": false,
     "is_general": false,
     "unlinked": 0,
-    "name_normalized": "ｿｰｼｬﾙ",
+    "name_normalized": "ﾅﾚｯｼﾞｽﾄｯｸ_社内改善",
     "is_shared": false,
     "is_org_shared": false,
     "is_pending_ext_shared": false,
     "pending_shared": [],
-    "context_team_id": "T084FBS2YHG",
-    "updated": 1733834741628,
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733128906806,
     "parent_conversation": null,
-    "creator": "U084F99EDM1",
+    "creator": "U068Q5LCTG9",
     "is_ext_shared": false,
     "shared_team_ids": [
-      "T084FBS2YHG"
+      "T0688JH4ALV"
     ],
     "pending_connected_team_ids": [],
     "is_member": true,
@@ -82,45 +232,59 @@
       "last_set": 0
     },
     "purpose": {
-      "value": "その他のチャンネルは仕事用です。このチャンネルでは楽しく過ごしましょう。チームのメンバーと知り合い、リラックスした一面を見せてください。🎈",
-      "creator": "U084F99EDM1",
-      "last_set": 1733834737
+      "value": "Notionや社内の仕組みが変わった際に全体に知らせるチャンネル。",
+      "creator": "U068Q5LCTG9",
+      "last_set": 1705309173
     },
     "properties": {
-      "canvas": {
-        "file_id": "F084U2MKB5F",
-        "is_empty": false,
-        "quip_thread_id": "TcH9AAJVqiy"
-      },
-      "use_case": "random"
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
     },
-    "previous_names": [],
-    "num_members": 1
+    "previous_names": [
+      "knowledge-stock_社内改善",
+      "013_knowledge-stock_社内改善",
+      "01_knowledge-stock_社内改善",
+      "004_社内改善",
+      "003_社内改善",
+      "04_社内改善",
+      "社内改善"
+    ],
+    "num_members": 31
   },
   {
-    "id": "C084F9BSP19",
-    "name": "test",
+    "id": "C06DRJG450D",
+    "name": "999_times_mikuni",
     "is_channel": true,
     "is_group": false,
     "is_im": false,
     "is_mpim": false,
     "is_private": false,
-    "created": 1733834770,
+    "created": 1705253923,
     "is_archived": false,
     "is_general": false,
     "unlinked": 0,
-    "name_normalized": "test",
+    "name_normalized": "999_times_mikuni",
     "is_shared": false,
     "is_org_shared": false,
     "is_pending_ext_shared": false,
     "pending_shared": [],
-    "context_team_id": "T084FBS2YHG",
-    "updated": 1733834771584,
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733128552896,
     "parent_conversation": null,
-    "creator": "U084F99EDM1",
+    "creator": "U068Q5LCTG9",
     "is_ext_shared": false,
     "shared_team_ids": [
-      "T084FBS2YHG"
+      "T0688JH4ALV"
     ],
     "pending_connected_team_ids": [],
     "is_member": true,
@@ -130,18 +294,2254 @@
       "last_set": 0
     },
     "purpose": {
-      "value": "このチャンネルでは #test についてどんなことでも話し合えます。ミーティングの開催、資料の共有、チーム一体での意思決定ができます。",
-      "creator": "U084F99EDM1",
-      "last_set": 1733834770
+      "value": "",
+      "creator": "",
+      "last_set": 0
     },
     "properties": {
       "canvas": {
-        "file_id": "F084HSX2H5J",
-        "quip_thread_id": "ZeW9AAdqTAl"
+        "file_id": "F06SU71UXEG",
+        "is_empty": true,
+        "quip_thread_id": "KQC9AAl8uln"
       },
-      "use_case": "project"
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "999_times_三國",
+      "999_2_times_三國",
+      "89_2_times_三國",
+      "times_三國"
+    ],
+    "num_members": 31
+  },
+  {
+    "id": "C06DUGCCRMG",
+    "name": "999_times_翔太",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1705253889,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "999_times_翔太",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1731475924966,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "999_1_times_翔太",
+      "89_1_times_翔太",
+      "times_翔太",
+      "times_佐々木"
+    ],
+    "num_members": 31
+  },
+  {
+    "id": "C06FBJUA5PZ",
+    "name": "ナレッジストック_本紹介_共有チャンネル",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1706269204,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "ﾅﾚｯｼﾞｽﾄｯｸ_本紹介_共有ﾁｬﾝﾈﾙ",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733128917234,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "knowledge-stock_本紹介_共有チャンネル",
+      "011_knowledge-stock_本紹介_共有チャンネル",
+      "011_本紹介_共有チャンネル",
+      "07_本紹介_共有チャンネル",
+      "本紹介_共有チャンネル"
+    ],
+    "num_members": 31
+  },
+  {
+    "id": "C06FLJW45P0",
+    "name": "41_マーケティング_サイト運用",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1706282229,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "41_ﾏｰｹﾃｨﾝｸﾞ_ｻｲﾄ運用",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733129320407,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "41_marketing_サイト運用",
+      "72_marketing_サイト運用",
+      "005_サイト運用",
+      "004_サイト運用",
+      "06_サイト運用",
+      "06_自社サイト運用",
+      "自社サイト運用"
+    ],
+    "num_members": 12
+  },
+  {
+    "id": "C06FQ698EBX",
+    "name": "41_マーケティング_sns運用",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1706280994,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "41_ﾏｰｹﾃｨﾝｸﾞ_sns運用",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733360077586,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "SNSに関する全てのことを、このチャンネルで運用する。",
+      "creator": "U068Q5LCTG9",
+      "last_set": 1706282683
+    },
+    "previous_names": [
+      "41_marketing_sns運用",
+      "73_marketing_sns運用",
+      "006_sns運用",
+      "005_sns運用",
+      "05_sns運用",
+      "sns運用"
+    ],
+    "num_members": 0
+  },
+  {
+    "id": "C06RZ972667",
+    "name": "999_times_篤弥",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1711722306,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "999_times_篤弥",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1731475950850,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "canvas": {
+        "file_id": "F06THFRFZHB",
+        "is_empty": true,
+        "quip_thread_id": "OeZ9AAsAQ6T"
+      },
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "999_3_times_篤弥",
+      "89_3_times_篤弥",
+      "times_篤弥"
+    ],
+    "num_members": 31
+  },
+  {
+    "id": "C06RZJXAPT6",
+    "name": "82_engineer_松尾研勉強会",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1711677752,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "82_engineer_松尾研勉強会",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732877714865,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "83_engineer_松尾研勉強会",
+      "02_knowledge-stock_松尾研勉強会",
+      "010_松尾研勉強会",
+      "10_松尾研勉強会"
+    ],
+    "num_members": 0
+  },
+  {
+    "id": "C06S6FU323B",
+    "name": "ナレッジストック_事例研究",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1711637598,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "ﾅﾚｯｼﾞｽﾄｯｸ_事例研究",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733128897618,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "knowledge-stock_事例研究",
+      "014_knowledge-stock_事例研究",
+      "008_事例研究",
+      "09_事例研究",
+      "08_事例研究"
+    ],
+    "num_members": 31
+  },
+  {
+    "id": "C06SKGRSEH1",
+    "name": "0_自己紹介",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1712140283,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "0_自己紹介",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733720173663,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "皆さんの自己紹介を共有するチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733720173
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "bookmarks",
+          "label": "",
+          "type": "bookmarks"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "bookmarks"
+        }
+      ]
+    },
+    "previous_names": [
+      "0_自己紹介スペース",
+      "002_自己紹介スペース",
+      "11_自己紹介スペース"
+    ],
+    "num_members": 31
+  },
+  {
+    "id": "C06T8280E59",
+    "name": "ナレッジストック_輪読会",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1712564783,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "ﾅﾚｯｼﾞｽﾄｯｸ_輪読会",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733128933810,
+    "parent_conversation": null,
+    "creator": "U06R2TLPVNJ",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "knowledge-stock_輪読会",
+      "012_knowledge-stock_輪読会",
+      "012_輪読会",
+      "12_輪読会"
+    ],
+    "num_members": 11
+  },
+  {
+    "id": "C06UZFMB8RK",
+    "name": "times_たくみん",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1713493476,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "times_たくみん",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1724393507097,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
     },
     "previous_names": [],
-    "num_members": 1
+    "num_members": 0
+  },
+  {
+    "id": "C070B6YE3NU",
+    "name": "999_times_空侑",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1713493604,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "999_times_空侑",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1731475990438,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "999_6_times_空侑",
+      "999_5_times_空侑",
+      "89_5_times_空侑",
+      "times_time-eternity"
+    ],
+    "num_members": 13
+  },
+  {
+    "id": "C0799S35F7U",
+    "name": "999_times_楓也",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719025375,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "999_times_楓也",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1731475976151,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        },
+        {
+          "id": "Ct07J6QXLPUJ",
+          "label": "",
+          "type": "folder"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        },
+        {
+          "id": "Ct07J6QXLPUJ",
+          "type": "folder"
+        }
+      ]
+    },
+    "previous_names": [
+      "999_5_times_楓也",
+      "999_4_times_楓也",
+      "89_4_times_楓也"
+    ],
+    "num_members": 22
+  },
+  {
+    "id": "C07A1L9UV2T",
+    "name": "44_デザイン",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719820934,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "44_ﾃﾞｻﾞｲﾝ",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743427761,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "デザインなどについて話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743427
+    },
+    "properties": {
+      "canvas": {
+        "file_id": "F0845KUPBEZ",
+        "is_empty": true,
+        "quip_thread_id": "TXZ9AAdWeNo"
+      },
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "41_デザイン",
+      "41_design_general",
+      "60_design_general"
+    ],
+    "num_members": 9
+  },
+  {
+    "id": "C07A21HLYR5",
+    "name": "01_aiデータ活用事業",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719825157,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "01_aiﾃﾞｰﾀ活用事業",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743636013,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "AIデータ活用事業の事業戦略と予算に関して話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743636
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "10_ai-solution_general"
+    ],
+    "num_members": 6
+  },
+  {
+    "id": "C07ADKWBG2H",
+    "name": "41_マーケティング_random",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719824805,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "41_ﾏｰｹﾃｨﾝｸﾞ_random",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733129303133,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "41_marketing_random",
+      "71_marketing_random",
+      "70_marketing_random"
+    ],
+    "num_members": 0
+  },
+  {
+    "id": "C07ADNKR1CM",
+    "name": "41_accounting-finance_random",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719825927,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "41_accounting-finance_random",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732877476139,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [],
+    "num_members": 0
+  },
+  {
+    "id": "C07AG2UFTQT",
+    "name": "43_コンタクト対応",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719820560,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "43_ｺﾝﾀｸﾄ対応",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743412283,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "問い合わせ・依頼が来た時に対応するチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743412
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "20_gdx_general",
+      "30_gdx_general"
+    ],
+    "num_members": 8
+  },
+  {
+    "id": "C07AGKD0UJE",
+    "name": "61_人材情報管理",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719825752,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "61_人材情報管理",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743264169,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "勤怠管理や労務管理などについて話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743264
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "90_hr_general"
+    ],
+    "num_members": 7
+  },
+  {
+    "id": "C07AV2T7A6M",
+    "name": "41_マーケティング_general",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719823059,
+    "is_archived": true,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "41_ﾏｰｹﾃｨﾝｸﾞ_general",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733129258723,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": false,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "41_marketing_general",
+      "70_marketing_general"
+    ],
+    "num_members": 0
+  },
+  {
+    "id": "C07AV9WM78R",
+    "name": "80_financal-management_field",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719825900,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "80_financal-management_field",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732878962606,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "Ct07JKF5F709",
+          "label": "",
+          "type": "folder"
+        },
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "id": "Ct07JKF5F709",
+          "type": "folder"
+        },
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "80_financal_management_field",
+      "80_accounting-financal_management_field",
+      "40_accounting-finance_general"
+    ],
+    "num_members": 5
+  },
+  {
+    "id": "C07B5CBMZFA",
+    "name": "20_product_field-coes",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1719825428,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "20_product_field-coes",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743709049,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "iDeaで取り扱う技術のCoE全体に関するチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743709
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "10_product_field",
+      "20_product_field",
+      "80_engineer_general"
+    ],
+    "num_members": 18
+  },
+  {
+    "id": "C07R58LQBLP",
+    "name": "91_契約関連",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1728698030,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "91_契約関連",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743316437,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "社内・社外の契約について話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743316
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "bookmarks",
+          "label": "",
+          "id": "bookmarks"
+        },
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "bookmarks"
+        },
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "91_契約書作成",
+      "020_legal_general"
+    ],
+    "num_members": 6
+  },
+  {
+    "id": "C07RE0EK1JS",
+    "name": "999_times_hisa",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1728736598,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "999_times_hisa",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1731475908580,
+    "parent_conversation": null,
+    "creator": "U07R0SR8MDL",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "にか気になることとか相談とかあったらtimesにサクッと書いてもらえればレスポンスしまーす！\nひとりごともたくさん呟くかもなんでそこはご了承を！",
+      "creator": "U07R0SR8MDL",
+      "last_set": 1729168794
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "999_6_times_hisa"
+    ],
+    "num_members": 6
+  },
+  {
+    "id": "C07TUN6AYDT",
+    "name": "63_総務-労務",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1730192021,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "63_総務-労務",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743513985,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "総務・労務全般について話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743513
+    },
+    "properties": {
+      "tabs": [
+        {
+          "id": "files",
+          "label": "",
+          "type": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [
+      "92_労務",
+      "030_labor-and-general-affairs_general"
+    ],
+    "num_members": 4
+  },
+  {
+    "id": "C081990PVMW",
+    "name": "999_times_小野寺",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1731456424,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "999_times_小野寺",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1731475965330,
+    "parent_conversation": null,
+    "creator": "U07RF4825M1",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [
+      "999_4_times_小野寺"
+    ],
+    "num_members": 7
+  },
+  {
+    "id": "C082JN7M5T2",
+    "name": "999_times_松井",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732192362,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "999_times_松井",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732192362332,
+    "parent_conversation": null,
+    "creator": "U07PN4G7FEX",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 7
+  },
+  {
+    "id": "C082TA3SBP0",
+    "name": "52_プラットフォームエンジニアリング",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878096,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "52_ﾌﾟﾗｯﾄﾌｫｰﾑｴﾝｼﾞﾆｱﾘﾝｸﾞ",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733824141375,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "新規でご参加いただく方々がスムーズに開発に入れるようにするためのプラットフォーム構築・開発標準などについて話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743461
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [],
+    "num_members": 5
+  },
+  {
+    "id": "C082X3YCK6H",
+    "name": "40_go-to-market_field",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878370,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "40_go-to-market_field",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732878370964,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 5
+  },
+  {
+    "id": "C082ZRFK6JX",
+    "name": "23_agile_coe",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878018,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "23_agile_coe",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743740152,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Agileに関する情報収集をしたり、開発での悩みをみんなで解決するチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743740
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C082ZS0NSMR",
+    "name": "92_コンプライアンス",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878280,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "92_ｺﾝﾌﾟﾗｲｱﾝｽ",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743575888,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "社内コンプライアンスの対策などについて話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743575
+    },
+    "previous_names": [
+      "93_コンプライアンス"
+    ],
+    "num_members": 6
+  },
+  {
+    "id": "C082ZSG4UFM",
+    "name": "50_information-and-platform_field",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878516,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "50_information-and-platform_field",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732878516835,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C082ZU8DPEW",
+    "name": "53_社内情報資源活用",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878120,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "53_社内情報資源活用",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743481620,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "SlackやNotionなどの整備について話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743481
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [],
+    "num_members": 6
+  },
+  {
+    "id": "C082ZUH841G",
+    "name": "82_経理",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878247,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "82_経理",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743545237,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "経理全般について話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743545
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C082ZV3BT4J",
+    "name": "60_corporate-operation_field",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878557,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "60_corporate-operation_field",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732878557029,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 5
+  },
+  {
+    "id": "C082ZVBA4JW",
+    "name": "70_strategy-coordination_field",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878681,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "70_strategy-coordination_field",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732878682012,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 6
+  },
+  {
+    "id": "C0832DU7TL4",
+    "name": "51_情報システム",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878044,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "51_情報ｼｽﾃﾑ",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743443453,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "導入するPCなどについて話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743443
+    },
+    "previous_names": [],
+    "num_members": 5
+  },
+  {
+    "id": "C0832ENJXA8",
+    "name": "10_product_field-teams",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878457,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "10_product_field-teams",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743668876,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "Product Field全体についての連絡をするチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743668
+    },
+    "previous_names": [],
+    "num_members": 5
+  },
+  {
+    "id": "C083CJRAUGH",
+    "name": "22_ui-ux_coe",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732877982,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "22_ui-ux_coe",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743731518,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "UI/UXに関する情報収集をしたり、開発での悩みをみんなで解決するチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743731
+    },
+    "previous_names": [],
+    "num_members": 5
+  },
+  {
+    "id": "C083CK6717T",
+    "name": "62_社内制度管理",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878153,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "62_社内制度管理",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743499643,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "就業規則やワーキングアグリメントなどについて話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743499
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C083CL92MMX",
+    "name": "90_legal-affairs_field",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878718,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "90_legal-affairs_field",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1732878718968,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C083FQ7JC0H",
+    "name": "0_全社リマインダー",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732966732,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "0_全社ﾘﾏｲﾝﾀﾞｰ",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743341683,
+    "parent_conversation": null,
+    "creator": "U07R0SR8MDL",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "手続き系で期限があるものはここでリマインドされます！",
+      "creator": "U07R0SR8MDL",
+      "last_set": 1733117457
+    },
+    "purpose": {
+      "value": "全社的なリマインダーや重要事項を通知するためのチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743341
+    },
+    "previous_names": [
+      "0_全社アナウンス"
+    ],
+    "num_members": 7
+  },
+  {
+    "id": "C083NML4Z96",
+    "name": "02_地方共創事業",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732877842,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "02_地方共創事業",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743649539,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "地方共創事業の事業戦略と予算に関して話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743649
+    },
+    "previous_names": [
+      "02_地方創造事業"
+    ],
+    "num_members": 6
+  },
+  {
+    "id": "C083NNGKFUG",
+    "name": "81_財務",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1732878228,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "81_財務",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733743531945,
+    "parent_conversation": null,
+    "creator": "U06FYMZJ2Q2",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "財務全般について話すチャンネルです。",
+      "creator": "U06FYMZJ2Q2",
+      "last_set": 1733743531
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [],
+    "num_members": 4
+  },
+  {
+    "id": "C084RCV03PE",
+    "name": "999_times_こうせい",
+    "is_channel": true,
+    "is_group": false,
+    "is_im": false,
+    "is_mpim": false,
+    "is_private": false,
+    "created": 1733932526,
+    "is_archived": false,
+    "is_general": false,
+    "unlinked": 0,
+    "name_normalized": "999_times_こうせい",
+    "is_shared": false,
+    "is_org_shared": false,
+    "is_pending_ext_shared": false,
+    "pending_shared": [],
+    "context_team_id": "T0688JH4ALV",
+    "updated": 1733932806146,
+    "parent_conversation": null,
+    "creator": "U068Q5LCTG9",
+    "is_ext_shared": false,
+    "shared_team_ids": [
+      "T0688JH4ALV"
+    ],
+    "pending_connected_team_ids": [],
+    "is_member": true,
+    "topic": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "purpose": {
+      "value": "",
+      "creator": "",
+      "last_set": 0
+    },
+    "properties": {
+      "tabs": [
+        {
+          "type": "files",
+          "label": "",
+          "id": "files"
+        }
+      ],
+      "tabz": [
+        {
+          "type": "files"
+        }
+      ]
+    },
+    "previous_names": [],
+    "num_members": 9
   }
 ]

@@ -1,22 +1,166 @@
 {
   "channels": {
-    "C0840RM98MV": {
-      "messages": 4
+    "C0684T23NS2": {
+      "messages": 7
     },
-    "C084F99GCJF": {
+    "C0688JH4REZ": {
+      "messages": 33
+    },
+    "C068BGFFE0J": {
+      "messages": 3
+    },
+    "C06DPRNJ6UW": {
+      "messages": 8
+    },
+    "C06DRJG450D": {
+      "messages": 9
+    },
+    "C06DUGCCRMG": {
+      "messages": 36
+    },
+    "C06FBJUA5PZ": {
+      "messages": 2
+    },
+    "C06FLJW45P0": {
+      "messages": 20
+    },
+    "C06FQ698EBX": {
+      "fullyDownloaded": true,
+      "messages": 3
+    },
+    "C06RZ972667": {
+      "messages": 24
+    },
+    "C06RZJXAPT6": {
+      "fullyDownloaded": true,
       "messages": 1
     },
-    "C084F9BSP19": {
+    "C06S6FU323B": {
+      "messages": 2
+    },
+    "C06SKGRSEH1": {
+      "messages": 9
+    },
+    "C06T8280E59": {
       "messages": 3
+    },
+    "C06UZFMB8RK": {
+      "fullyDownloaded": true,
+      "messages": 0
+    },
+    "C070B6YE3NU": {
+      "messages": 3
+    },
+    "C0799S35F7U": {
+      "messages": 3
+    },
+    "C07A1L9UV2T": {
+      "messages": 25
+    },
+    "C07A21HLYR5": {
+      "messages": 15
+    },
+    "C07ADKWBG2H": {
+      "fullyDownloaded": true,
+      "messages": 9
+    },
+    "C07ADNKR1CM": {
+      "fullyDownloaded": true,
+      "messages": 4
+    },
+    "C07AG2UFTQT": {
+      "messages": 8
+    },
+    "C07AGKD0UJE": {
+      "messages": 37
+    },
+    "C07AV2T7A6M": {
+      "fullyDownloaded": true,
+      "messages": 10
+    },
+    "C07AV9WM78R": {
+      "messages": 41
+    },
+    "C07B5CBMZFA": {
+      "messages": 16
+    },
+    "C07R58LQBLP": {
+      "messages": 18
+    },
+    "C07RE0EK1JS": {
+      "messages": 91
+    },
+    "C07TUN6AYDT": {
+      "messages": 11
+    },
+    "C081990PVMW": {
+      "messages": 8
+    },
+    "C082JN7M5T2": {
+      "messages": 16
+    },
+    "C082TA3SBP0": {
+      "messages": 9
+    },
+    "C082X3YCK6H": {
+      "messages": 5
+    },
+    "C082ZRFK6JX": {
+      "messages": 7
+    },
+    "C082ZS0NSMR": {
+      "messages": 10
+    },
+    "C082ZSG4UFM": {
+      "messages": 4
+    },
+    "C082ZU8DPEW": {
+      "messages": 23
+    },
+    "C082ZUH841G": {
+      "messages": 7
+    },
+    "C082ZV3BT4J": {
+      "messages": 6
+    },
+    "C082ZVBA4JW": {
+      "messages": 6
+    },
+    "C0832DU7TL4": {
+      "messages": 10
+    },
+    "C0832ENJXA8": {
+      "messages": 10
+    },
+    "C083CJRAUGH": {
+      "messages": 8
+    },
+    "C083CK6717T": {
+      "messages": 8
+    },
+    "C083CL92MMX": {
+      "messages": 4
+    },
+    "C083FQ7JC0H": {
+      "messages": 10
+    },
+    "C083NML4Z96": {
+      "messages": 15
+    },
+    "C083NNGKFUG": {
+      "messages": 12
+    },
+    "C084RCV03PE": {
+      "messages": 10
     }
   },
   "auth": {
     "ok": true,
-    "url": "https://test-iq62317.slack.com/",
-    "team": "test",
-    "user": "matsutake502",
-    "team_id": "T084FBS2YHG",
-    "user_id": "U084F99EDM1",
+    "url": "https://idea-iko1320.slack.com/",
+    "team": "iDea Inc.",
+    "user": "g2124046",
+    "team_id": "T0688JH4ALV",
+    "user_id": "U081Q6XTNHZ",
     "is_enterprise_install": false,
     "response_metadata": {
       "scopes": [

@@ -1,0 +1,452 @@
+[
+  {
+    "subtype": "channel_archive",
+    "user": "U06FYMZJ2Q2",
+    "text": "チャンネルをアーカイブしました",
+    "type": "message",
+    "ts": "1733129258.751859"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "41_marketing_general",
+    "name": "41_マーケティング_general",
+    "text": "チャンネル名を「41_marketing_general」から「41_マーケティング_general」に変更しました",
+    "type": "message",
+    "ts": "1733129253.781569"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732882743.244969"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "70_marketing_general",
+    "name": "41_marketing_general",
+    "text": "チャンネル名を「70_marketing_general」から「41_marketing_general」に変更しました",
+    "type": "message",
+    "ts": "1732878742.523089"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732607083.384029"
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1732413591.555069",
+    "client_msg_id": "af53899a-8b80-48ec-a56a-904b2dc38f41",
+    "text": "<@U068Q5LCTG9> <https://www.notion.so/20241124_-6-_-317a7e0bb86b4f0796fe45c6ff6adfb3?pvs=4>",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BFjR3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20241124_-6-_-317a7e0bb86b4f0796fe45c6ff6adfb3?pvs=4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732410492.898929",
+    "client_msg_id": "CEEAD9FC-9E8D-493E-8CC6-698C1560451F",
+    "text": "<@U06RD6MGVK9> 今からにずらして、やっちゃえるならやろう",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7R+C3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06RD6MGVK9"
+              },
+              {
+                "type": "text",
+                "text": " 今からにずらして、やっちゃえるならやろう"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "pray",
+        "users": [
+          "U06RD6MGVK9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U068Q5LCTG9",
+    "thread_ts": "1731670599.153829",
+    "root": {
+      "user": "U068Q5LCTG9",
+      "type": "message",
+      "ts": "1731670599.153829",
+      "client_msg_id": "321bbb19-e266-4019-9c7f-7e5a8c20a17d",
+      "text": "<@U06RD6MGVK9> 今週のマーケ戦略だが午前中千葉行っているから、以下の日程のどこかで移動可能？\n• 11/18(月)：12:00〜13:00、18:00〜19:00",
+      "team": "T0688JH4ALV",
+      "thread_ts": "1731670599.153829",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1731685911.510569",
+      "reply_users": [
+        "U06RD6MGVK9",
+        "U068Q5LCTG9"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t5RtU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U06RD6MGVK9"
+                },
+                {
+                  "type": "text",
+                  "text": " 今週のマーケ戦略だが午前中千葉行っているから、以下の日程のどこかで移動可能？\n"
+                }
+              ]
+            },
+            {
+              "type": "rich_text_list",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "11/18(月)：12:00〜13:00、18:00〜19:00"
+                    }
+                  ]
+                }
+              ],
+              "style": "bullet",
+              "indent": 0,
+              "border": 0
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1731685911.510569",
+    "client_msg_id": "62BABB2E-2A58-4980-841F-983D029E5D80",
+    "text": "ok！\n11/18(月)：18:00〜19:00で！",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q/mwZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ok！\n11/18(月)：18:00〜19:00で！"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06RD6MGVK9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731670599.153829",
+    "client_msg_id": "321bbb19-e266-4019-9c7f-7e5a8c20a17d",
+    "text": "<@U06RD6MGVK9> 今週のマーケ戦略だが午前中千葉行っているから、以下の日程のどこかで移動可能？\n• 11/18(月)：12:00〜13:00、18:00〜19:00",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1731670599.153829",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1731685911.510569",
+    "reply_users": [
+      "U06RD6MGVK9",
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "t5RtU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06RD6MGVK9"
+              },
+              {
+                "type": "text",
+                "text": " 今週のマーケ戦略だが午前中千葉行っているから、以下の日程のどこかで移動可能？\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "11/18(月)：12:00〜13:00、18:00〜19:00"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06RD6MGVK9",
+        "type": "message",
+        "ts": "1731685188.001649",
+        "client_msg_id": "ccb5e778-3385-43ec-8f1b-9ffeb97956e9",
+        "text": "どっちでも対応可能！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731670599.153829",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "ZPKb5",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "どっちでも対応可能！"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtype": "thread_broadcast",
+        "user": "U068Q5LCTG9",
+        "thread_ts": "1731670599.153829",
+        "root": {
+          "user": "U068Q5LCTG9",
+          "type": "message",
+          "ts": "1731670599.153829",
+          "client_msg_id": "321bbb19-e266-4019-9c7f-7e5a8c20a17d",
+          "text": "<@U06RD6MGVK9> 今週のマーケ戦略だが午前中千葉行っているから、以下の日程のどこかで移動可能？\n• 11/18(月)：12:00〜13:00、18:00〜19:00",
+          "team": "T0688JH4ALV",
+          "thread_ts": "1731670599.153829",
+          "reply_count": 2,
+          "reply_users_count": 2,
+          "latest_reply": "1731685911.510569",
+          "reply_users": [
+            "U06RD6MGVK9",
+            "U068Q5LCTG9"
+          ],
+          "is_locked": false,
+          "subscribed": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "t5RtU",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U06RD6MGVK9"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 今週のマーケ戦略だが午前中千葉行っているから、以下の日程のどこかで移動可能？\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "11/18(月)：12:00〜13:00、18:00〜19:00"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                }
+              ]
+            }
+          ]
+        },
+        "type": "message",
+        "ts": "1731685911.510569",
+        "client_msg_id": "62BABB2E-2A58-4980-841F-983D029E5D80",
+        "text": "ok！\n11/18(月)：18:00〜19:00で！",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "Q/mwZ",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ok！\n11/18(月)：18:00〜19:00で！"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06RD6MGVK9"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1729389562.447479",
+    "client_msg_id": "57f7a25c-be21-45b2-a5d8-f136b5b18d55",
+    "text": "<@U06RD6MGVK9>\n議事録：<https://www.notion.so/20241020_-02-_-2b86bfb79f1e4b6ab00df91ce80b90c1?pvs=4>\n\nzoom：\n```参加 Zoom ミーティング\n<https://us06web.zoom.us/j/81245183975?pwd=qIXwEuoZPNvgbtjjb6PtACcnE1hMSt.1>\n\nミーティング ID: 812 4518 3975\nパスコード: 528687```",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1729389360,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/20241020_-02-_-2b86bfb79f1e4b6ab00df91ce80b90c1?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "20241020_第02回_マーケティング戦略会議",
+        "text": "※ 会議の時間は1時間以内",
+        "title": "20241020_第02回_マーケティング戦略会議",
+        "title_link": "https://www.notion.so/20241020_-02-_-2b86bfb79f1e4b6ab00df91ce80b90c1?pvs=6&utm_content=2b86bfb7-9f1e-4b6a-b00d-f91ce80b90c1&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7Xyke",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06RD6MGVK9"
+              },
+              {
+                "type": "text",
+                "text": "\n議事録："
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20241020_-02-_-2b86bfb79f1e4b6ab00df91ce80b90c1?pvs=4"
+              },
+              {
+                "type": "text",
+                "text": "\n\nzoom：\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "参加 Zoom ミーティング\n"
+              },
+              {
+                "type": "link",
+                "url": "https://us06web.zoom.us/j/81245183975?pwd=qIXwEuoZPNvgbtjjb6PtACcnE1hMSt.1"
+              },
+              {
+                "type": "text",
+                "text": "\n\nミーティング ID: 812 4518 3975\nパスコード: 528687"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ]
+  }
+]

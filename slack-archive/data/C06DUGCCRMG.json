@@ -1,0 +1,3723 @@
+[
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733584342.569499",
+    "client_msg_id": "6A1DD5FD-AD5B-4B21-A8B1-FDB121319206",
+    "text": "羽田着\n危うく終電乗り遅れて空港野宿になるところだった:sweat_smile:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yn0/y",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "羽田着\n危うく終電乗り遅れて空港野宿になるところだった"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "unicode": "1f605"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "innocent",
+        "users": [
+          "U06RD6MGVK9",
+          "U07R0SR8MDL"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "text": "着きました！\nそれではおやすみなさい:zzz:",
+    "files": [
+      {
+        "id": "F0841637M4J",
+        "created": 1733505258,
+        "timestamp": 1733505258,
+        "name": "IMG_1853.jpg",
+        "title": "IMG_1853",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1050596,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F0841637M4J/img_1853.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0841637M4J/download/img_1853.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841637M4J-9c4e838f72/img_1853_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACTOxRTsUYoAbRS4pKAEopaKAJxGT0FO8ojtWoV7CmlBSuMyzGaTYwQ4XIPetTy19BSlFI6CgDHKEdjSbD6VqGIZ60nkj1/SmBCdRH90/nTf7QP92qNJSsI0RqCnqh/OnC7RujY+tZlFMDV30m/61mh3UYDED60vmv8A32/OgZ//2Q==",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0841637M4J/img_1853.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F0841637M4J-a5a80e072d",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "PzuIt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "着きました！\nそれではおやすみなさい"
+              },
+              {
+                "type": "emoji",
+                "name": "zzz",
+                "unicode": "1f4a4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733505275.255339",
+    "client_msg_id": "9BC138DD-6FFD-4150-B87D-989994A58517"
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1733494804.987079",
+    "client_msg_id": "21cdc1a5-54ab-4809-b061-10c01e10add3",
+    "text": "気をつけてなー",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "9gpUG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "気をつけてなー"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "saluting_face",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "札幌行きます\n雪すごい",
+    "files": [
+      {
+        "id": "F083TDXT88N",
+        "created": 1733493479,
+        "timestamp": 1733493479,
+        "name": "IMG_1849.jpg",
+        "title": "IMG_1849",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1007976,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083TDXT88N/img_1849.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083TDXT88N/download/img_1849.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F083TDXT88N-d1d11b0a78/img_1849_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACTOopcUYoAbRS0UAJRRRQA8Cl21cFpS/Z8dKQyiRSGrb25FQNERQBFRTtpo2mmI2tygcU0svrWP5r/3z+dJ5j/3jSsO5sHBqGVUrOE0g6OfzpftEnds/WiwEzAZpOKZ547rR54/ummI/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083TDXT88N/img_1849.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F083TDXT88N-38ff6fb35f",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Nv7UV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "札幌行きます\n雪すごい"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733493497.909159",
+    "client_msg_id": "EEE28A08-A5B9-44C9-827E-FE0FB04FB0B1"
+  },
+  {
+    "text": "社長の貫禄出てました。",
+    "files": [
+      {
+        "id": "F083EG16W7M",
+        "created": 1733228331,
+        "timestamp": 1733228331,
+        "name": "IMG_3167.jpg",
+        "title": "IMG_3167",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U07PN4G7FEX",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 795249,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083EG16W7M/img_3167.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083EG16W7M/download/img_3167.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F083EG16W7M-1b7f14a3cd/img_3167_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACSXYcdqTyjnOf0qUc0c1IxgjzjJNKIwKd0zTd59G/KgBdoo2ijk/wB6k5/2vzpgPXvRwDyagS6BeRSpG2mTTFmIUABATzg8igC0etB+7VSO7eSTbsHTNT+b8yKBwwznPSgBaKTevrj60b19aAMyKVlfGeG4PGaViytwcAjHHcUyNd0igAk+1XJoR5YXocdTQBULknrT0IwD6mogKsQwqyZ34Oe4piFZtpxkik3/AO0anECDOWHX3pfJj9RSuOx//9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U07PN4G7FEX/F083EG16W7M/img_3167.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F083EG16W7M-cd1afbe251",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U07PN4G7FEX",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fEVCP",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "社長の貫禄出てました。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733228355.033929",
+    "client_msg_id": "3B86CFA1-8562-4A3C-AF2E-359189A22CA0",
+    "reactions": [
+      {
+        "name": "love_hotel",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "嬉しそうでなにより",
+    "files": [
+      {
+        "id": "F0843CCGTKJ",
+        "created": 1733228213,
+        "timestamp": 1733228213,
+        "name": "IMG_1813.jpg",
+        "title": "IMG_1813",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 969486,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F0843CCGTKJ/img_1813.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0843CCGTKJ/download/img_1813.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F0843CCGTKJ-e793abd3ac/img_1813_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACQzR9alaA/wmo2jdeqmpGOSbA2vytPIKEMvINV/WnxuV4Iyp7UATFN3K9DR5Z9DQFOMxn5aNsnrQAAgdDj6Gl8xgMA/jWU7c8GnBzwDnocd6dgNBgX6/wAqYU9Kq+c4z8xzinfaTuHzHGP1oFctbR/k0bR6/rUQYsoKkdOc0fP6r+VVzeQuXzKTrhAR600OQ27vjvUkKs77VwfXPSrT2rL8zRr7lakopF2Y+ppzpscjqAcZqcRASbuvtR5eXy4yCSaLisRtCwPUUnkt7UkhzI2OmabSGf/Z",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0843CCGTKJ/img_1813.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F0843CCGTKJ-32cf3655ba",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F083H43UTM2",
+        "created": 1733228213,
+        "timestamp": 1733228213,
+        "name": "IMG_1814.jpg",
+        "title": "IMG_1814",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 789185,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083H43UTM2/img_1814.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083H43UTM2/download/img_1814.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F083H43UTM2-9907b45ecd/img_1814_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACR3QAYP5Ur3aoArIDx2qbHWq9ygGH4z0qSieOdGAKllBp5kUf8ALT9KqxeWEOCM55FLjccIOcUxEhmjzwpb3JpPOT/nn/49SCBsckUeQfUflQArTICBnk1C0AkYsztkmqygud5P3SKshnoGOW3jQZwSe3NGWPOce1IXcDrTfMY8n8OKLCuXAQeRS5qmHQceao9jnil8xP8Ansn60hiWsaSIAwzxUX2hFJVsgg4PFSL8owOgqBFSWaRs5UjH40AWFkRwCvP9KNyg8kfiagsxhnB61YKDuPrQFyjJ/rXx602rhgQnoPzxSfZ1/u/rQI//2Q==",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083H43UTM2/img_1814.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F083H43UTM2-2593b11bea",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4LxLE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "嬉しそうでなにより"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733228225.581019",
+    "client_msg_id": "C38AD003-6715-4111-A01F-F4B3DBCD0B54",
+    "reactions": [
+      {
+        "name": "dab_parrot",
+        "users": [
+          "U07PN4G7FEX"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "広い...",
+    "files": [
+      {
+        "id": "F083RKSLETB",
+        "created": 1733205428,
+        "timestamp": 1733205428,
+        "name": "IMG_1808.jpg",
+        "title": "IMG_1808",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 957991,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083RKSLETB/img_1808.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083RKSLETB/download/img_1808.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F083RKSLETB-035e19dc5f/img_1808_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACQp6gngU7avruPoKazqvVgPZaQx5XZ97mkbcwwSFX3qFrg/wj8TyaiZ2Y5Yk0AT5hXgsT9BRvh9WqvgnnB/Cjaf7poAlIYn73WkMRpxkCtgnnHTFBmQAEZb2HagByRx5+YN+dSbUH3UH1NQfaY+wYkDpinrcIVJIIx2PegCXc3bb+VG5/8AZ/Kq5vYx2Jo+2x/3T+dADbgIUGV/ixx1qN2MQUZxjpinGSQLtRiB3wKa0jMMKgz6nmkMeMuoBPEnBJp4txK3GMDgnFRLumIEmPcgc1eUhVAAwKBDRbwqANgPuaXyIf8Anmv5U7NGRQB//9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083RKSLETB/img_1808.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F083RKSLETB-b89a4932e7",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F0841NY0RG8",
+        "created": 1733205428,
+        "timestamp": 1733205428,
+        "name": "IMG_1811.jpg",
+        "title": "IMG_1811",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 213439,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F0841NY0RG8/img_1811.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0841NY0RG8/download/img_1811.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 600,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841NY0RG8-6e937d7419/img_1811_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "original_w": 1477,
+        "original_h": 1108,
+        "thumb_tiny": "AwAkADC02GFRDcrZU1K2SBx3pmMLnmosUOMkhUgqtQ4I5JAx3NPVmJ5Bx796bMcoNv8AFQBVeTc59PepIZdkLHGcCq4GQQT+dOH+ofnGWA5qiTQ84Dkg1C9y2DsTj1NNY4UnI6d6pM53DknFTBtlSSRfKs6ZeRs46dKi81I5EQkkg/lT4zIYFfA57etOSxGd7Y34zjOQKoRXZgHIxz0NGB5KArnLk02eNlfcUZR06ULnGQeaAH/61iW7dh0queGIHrViP+Kq7ffP1qugjRPFguDghM5FFi7PF8xzg4zQ3/HgP+uf9Kbp3+rP1qXsMkvz+4P1FUeh4q7ff6g/UVSPWmI//9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0841NY0RG8/img_1811.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F0841NY0RG8-9e053db656",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F083CUX6C02",
+        "created": 1733205429,
+        "timestamp": 1733205429,
+        "name": "IMG_1810.jpg",
+        "title": "IMG_1810",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 916666,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083CUX6C02/img_1810.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083CUX6C02/download/img_1810.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F083CUX6C02-18ddf41be3/img_1810_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACRVbcyjHHWlY80sP3eh6dRSlO+akZFnr0qRRzuPAoCqOnzH9KY8iA5J3n0HQUwJ/OAHyhsewo872b8qpmdyfvbfYCjzn/56H8qAHKhwCDinh3AxuB+tN3YXJ4x1zQJEZgAwzQAhVjxnrSGI96d5qqSpP14pzzRpjJPPoKAE2J/cP50bE/uH86XzYiB84FHmxf31/OgA++MNyPekWONDkKB70DApHYgUgI7hFYqc4bH500MAMbBgjBHrT3eJiilGLjgEnNMljcgunCjrzigBCsTHOzH0NJsi/uH86UxSJw5OfY5o2n1egD//2Q==",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F083CUX6C02/img_1810.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F083CUX6C02-6be7e63da6",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "W3c8e",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "広い..."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733205455.466949",
+    "client_msg_id": "7C4780E9-B0E9-416C-B57E-6A9DC0545278",
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U07PN4G7FEX"
+        ],
+        "count": 1
+      },
+      {
+        "name": "heart_eyes",
+        "users": [
+          "U081Q6XTNHZ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732555749.196489",
+    "client_msg_id": "B0E59688-66C2-4E6B-88F6-1114C82A6BC7",
+    "text": "仕事が終わらなさすぎる:expressionless:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Fpvuc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "仕事が終わらなさすぎる"
+              },
+              {
+                "type": "emoji",
+                "name": "expressionless",
+                "unicode": "1f611"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "懐かしの掘り出し物を見つけた笑",
+    "files": [
+      {
+        "id": "F0825PPQB28",
+        "created": 1732290298,
+        "timestamp": 1732290298,
+        "name": "-5264401310658133127hackathon_cm______.MP4",
+        "title": "-5264401310658133127hackathon_cm______",
+        "mimetype": "video/mp4",
+        "filetype": "mp4",
+        "pretty_type": "MPEG 4ビデオ",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 84690996,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "transcription": {
+          "status": "complete",
+          "locale": "en-US",
+          "preview": {
+            "content": "今日は待ちに待った正月思いっきり楽しむぞ！明けましておめでとうおでお年玉じゃありがとうおじいちゃん今年もお年玉ゲットだぜ。でも、じいちゃんの",
+            "has_more": true
+          }
+        },
+        "mp4": "https://files.slack.com/files-tmb/T0688JH4ALV-F0825PPQB28-9d14e78078/-5264401310658133127hackathon_cm______.mp4",
+        "url_private": "https://files.slack.com/files-tmb/T0688JH4ALV-F0825PPQB28-9d14e78078/-5264401310658133127hackathon_cm______.mp4",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0825PPQB28/download/-5264401310658133127hackathon_cm______.mp4",
+        "vtt": "https://files.slack.com/files-tmb/T0688JH4ALV-F0825PPQB28-9d14e78078/file.vtt?_xcb=5dec6",
+        "hls": "https://files.slack.com/files-tmb/T0688JH4ALV-F0825PPQB28-9d14e78078/file.m3u8?_xcb=5dec6",
+        "hls_embed": "data:application/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9MTc0MzE0NyxBVkVSQUdFLUJBTkRXSURUSD02OTQ5NTUsQ09ERUNTPSJhdmMxLjY0MDAyOCxtcDRhLjQwLjUiLFJFU09MVVRJT049MTkyMHgxMDgwLEZSQU1FLVJBVEU9MjkuOTcwLFNVQlRJVExFUz0ic3VicyIKZGF0YTphcHBsaWNhdGlvbi92bmQuYXBwbGUubXBlZ3VybDtiYXNlNjQsSTBWWVZFMHpWUW9qUlZoVUxWZ3RWa1ZTVTBsUFRqb3pDaU5GV0ZRdFdDMVVRVkpIUlZSRVZWSkJWRWxQVGpvM0NpTkZXRlF0V0MxTlJVUkpRUzFUUlZGVlJVNURSVG94Q2lORldGUXRXQzFRVEVGWlRFbFRWQzFVV1ZCRk9sWlBSQW9qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTJPRGhLU0RSQlRGWXRSakE0TWpWUVVGRkNNamd0T1dReE5HVTNPREEzT0M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNUzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEyT0RoS1NEUkJURll0UmpBNE1qVlFVRkZDTWpndE9XUXhOR1UzT0RBM09DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TWk1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk9EaEtTRFJCVEZZdFJqQTRNalZRVUZGQ01qZ3RPV1F4TkdVM09EQTNPQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd015NTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTJPRGhLU0RSQlRGWXRSakE0TWpWUVVGRkNNamd0T1dReE5HVTNPREEzT0M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdOQzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEyT0RoS1NEUkJURll0UmpBNE1qVlFVRkZDTWpndE9XUXhOR1UzT0RBM09DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TlM1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk9EaEtTRFJCVEZZdFJqQTRNalZRVUZGQ01qZ3RPV1F4TkdVM09EQTNPQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd05pNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTJPRGhLU0RSQlRGWXRSakE0TWpWUVVGRkNNamd0T1dReE5HVTNPREEzT0M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdOeTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEyT0RoS1NEUkJURll0UmpBNE1qVlFVRkZDTWpndE9XUXhOR1UzT0RBM09DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3T0M1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk9EaEtTRFJCVEZZdFJqQTRNalZRVUZGQ01qZ3RPV1F4TkdVM09EQTNPQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd09TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTJPRGhLU0RSQlRGWXRSakE0TWpWUVVGRkNNamd0T1dReE5HVTNPREEzT0M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXhNQzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEyT0RoS1NEUkJURll0UmpBNE1qVlFVRkZDTWpndE9XUXhOR1UzT0RBM09DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF4TVM1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk9EaEtTRFJCVEZZdFJqQTRNalZRVUZGQ01qZ3RPV1F4TkdVM09EQTNPQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBeE1pNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTJPRGhLU0RSQlRGWXRSakE0TWpWUVVGRkNNamd0T1dReE5HVTNPREEzT0M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXhNeTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEyT0RoS1NEUkJURll0UmpBNE1qVlFVRkZDTWpndE9XUXhOR1UzT0RBM09DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF4TkM1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk9EaEtTRFJCVEZZdFJqQTRNalZRVUZGQ01qZ3RPV1F4TkdVM09EQTNPQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBeE5TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTJPRGhLU0RSQlRGWXRSakE0TWpWUVVGRkNNamd0T1dReE5HVTNPREEzT0M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXhOaTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEyT0RoS1NEUkJURll0UmpBNE1qVlFVRkZDTWpndE9XUXhOR1UzT0RBM09DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF4Tnk1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk9EaEtTRFJCVEZZdFJqQTRNalZRVUZGQ01qZ3RPV1F4TkdVM09EQTNPQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBeE9DNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQTJPRGhLU0RSQlRGWXRSakE0TWpWUVVGRkNNamd0T1dReE5HVTNPREEzT0M5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXhPUzUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREEyT0RoS1NEUkJURll0UmpBNE1qVlFVRkZDTWpndE9XUXhOR1UzT0RBM09DOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF5TUM1MGN3b2pSVmhVU1U1R09qSXVOVFk1TEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBMk9EaEtTRFJCVEZZdFJqQTRNalZRVUZGQ01qZ3RPV1F4TkdVM09EQTNPQzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBeU1TNTBjd29qUlZoVUxWZ3RSVTVFVEVsVFZBbz0KI0VYVC1YLU1FRElBOlRZUEU9U1VCVElUTEVTLEdST1VQLUlEPSJzdWJzIixOQU1FPSJFbmdsaXNoIixERUZBVUxUPVlFUyxBVVRPU0VMRUNUPVlFUyxGT1JDRUQ9Tk8sTEFOR1VBR0U9ImVuZyIsVVJJPSJkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8yTURBS0kwVllWQzFZTFUxRlJFbEJMVk5GVVZWRlRrTkZPakVLSTBWWVZDMVlMVkJNUVZsTVNWTlVMVlJaVUVVNlZrOUVDaU5GV0ZSSlRrWTZNVEl5TGpZNE9Td0thSFIwY0hNNkx5OW1hV3hsY3k1emJHRmpheTVqYjIwdlptbHNaWE10ZEcxaUwxUXdOamc0U2tnMFFVeFdMVVl3T0RJMVVGQlJRakk0TFRsa01UUmxOemd3TnpndlptbHNaUzUyZEhRS0kwVllWQzFZTFVWT1JFeEpVMVE9Igo=",
+        "mp4_low": "https://files.slack.com/files-tmb/T0688JH4ALV-F0825PPQB28-9d14e78078/-5264401310658133127hackathon_cm_______trans.mp4",
+        "duration_ms": 122689,
+        "media_display_type": "video",
+        "thumb_video": "https://files.slack.com/files-tmb/T0688JH4ALV-F0825PPQB28-9d14e78078/-5264401310658133127hackathon_cm_______thumb_video.jpeg",
+        "thumb_video_w": 1920,
+        "thumb_video_h": 1080,
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0825PPQB28/-5264401310658133127hackathon_cm______.mp4",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F0825PPQB28-97f13c41f9",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible",
+        "media_progress": {
+          "offset_ms": 11017,
+          "max_offset_ms": 11017,
+          "duration_ms": 122689,
+          "media_watched": false
+        }
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RXo",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "懐かしの掘り出し物を見つけた笑"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1732290402.687859",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06RD6MGVK9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731992386.244419",
+    "client_msg_id": "15647A84-8873-4D38-97D4-45288E6367E0",
+    "text": "函館着\nこっち全然雪積もってないですね:eyes:",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1731992386.244419",
+    "reply_count": 3,
+    "reply_users_count": 3,
+    "latest_reply": "1731996540.818189",
+    "reply_users": [
+      "U07RF4825M1",
+      "U068Q5LCTG9",
+      "U07R0SR8MDL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VA3mS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "函館着\nこっち全然雪積もってないですね"
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "unicode": "1f440"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1731992432.806829",
+        "client_msg_id": "C42422BF-0828-42D1-8203-5897FDA0D25E",
+        "text": "朝はうっすら積もってましたが、さすがに溶けましたね。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731992386.244419",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "RDErQ",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "朝はうっすら積もってましたが、さすがに溶けましたね。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1731992775.432589",
+        "client_msg_id": "05255737-EDD9-44D1-B67C-3005681CFBB0",
+        "text": "意外とあったかい感じで良かったです\nスピード出しすぎないように気をつけます",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731992386.244419",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "0KpI0",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "意外とあったかい感じで良かったです\nスピード出しすぎないように気をつけます"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1731996540.818189",
+        "client_msg_id": "45FDCD3B-5B02-44CC-BEAC-D27C1EA0D644",
+        "text": "(あれ、わしのタイヤ交換12月なのまずいか、、、？)",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731992386.244419",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "s/ENU",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "("
+                  },
+                  {
+                    "type": "text",
+                    "text": "あれ、わしのタイヤ交換12月なのまずいか、、、？"
+                  },
+                  {
+                    "type": "text",
+                    "text": ")"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "sweat_smile",
+            "users": [
+              "U07RF4825M1",
+              "U068Q5LCTG9"
+            ],
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731975665.996899",
+    "client_msg_id": "C7B141DF-585F-4C7D-8ED2-9C266153B9B4",
+    "text": "バッチリ新品のに履き替えてます:wheel:",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qrL/z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "バッチリ新品のに履き替えてます"
+              },
+              {
+                "type": "emoji",
+                "name": "wheel",
+                "unicode": "1f6de"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U07RF4825M1",
+    "type": "message",
+    "ts": "1731975057.839669",
+    "client_msg_id": "6f1e5859-ce55-4fa6-aba7-03c59b4887eb",
+    "text": "運転お気をつけて。\nスタッドレスには替えてますよね？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "x5NNF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "運転お気をつけて。\nスタッドレスには替えてますよね？"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "saluting_face",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "函館向かいます\nツルツルでアウトです",
+    "files": [
+      {
+        "id": "F081T2HGZR7",
+        "created": 1731974990,
+        "timestamp": 1731974990,
+        "name": "IMG_1650.jpg",
+        "title": "IMG_1650",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 972212,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F081T2HGZR7/img_1650.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F081T2HGZR7/download/img_1650.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F081T2HGZR7-2dee8f5cad/img_1650_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACRcH2/CnlyxHXpTccngClV0LqoPzY5qkSwxjqKXNPkKou5ieKhNwjYzkke1XdE2Y/5j3xRhv736VC0hZiUYgelN3P8A3/0pXQWZYERHQCozbt5hJYDPT1qxI20ccn0qNFZm3Makoabf1Yn8aje2BOFYD2NWs4YilIzQBU+zyjgAY+tHkTeg/OrO0DuR9DSYH95vzpAQmfnIIz9RTTcY7nn3qphvX9KTDeo/KgZfVi3/AC1XP1p+Jx0ZWrOxxzj8qUHHQ4+hxQI0PMkXhojn2o85v+eTflVESSDo7f8AfVHmy/8APR/++qAP/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F081T2HGZR7/img_1650.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F081T2HGZR7-2ae761d392",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ffRWW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "函館向かいます\nツルツルでアウトです"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1731975010.662279",
+    "client_msg_id": "BB128CA1-D5C8-4DEA-AB1D-41A915882F5A",
+    "reactions": [
+      {
+        "name": "snowman",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731938341.290849",
+    "client_msg_id": "01C7DAA1-138D-48F3-BB98-8E1189267DDA",
+    "text": "札幌到着\n雪積もって寒すぎ-2℃",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ryErE",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "札幌到着\n雪積もって寒すぎ-2℃"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731919936.103109",
+    "client_msg_id": "66e5a96a-ccfb-46a2-b0fa-730b5fc22dd4",
+    "text": "<https://www.zenshinhoren.or.jp/>",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZZhN7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.zenshinhoren.or.jp/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731791158.280229",
+    "client_msg_id": "CDA8B87D-BDFB-4F13-B16E-1F48B7CA794E",
+    "text": "千葉行ってきこりに会ってきます",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "8cXn3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "千葉行ってきこりに会ってきます"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "999_1_times_翔太",
+    "name": "999_times_翔太",
+    "text": "チャンネル名を「999_1_times_翔太」から「999_times_翔太」に変更しました",
+    "type": "message",
+    "ts": "1731475925.048119"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731456033.207959",
+    "client_msg_id": "1162D69D-3868-4B07-97E4-6324265D1CC7",
+    "text": "<https://chatgpt-lab.com/n/nccc10e804eba|https://chatgpt-lab.com/n/nccc10e804eba>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "image_url": "https://assets.st-note.com/production/uploads/images/160943136/rectangle_large_type_2_41b6444e583d9bc9991fbb297fe3177d.png?fit=bounds&quality=85&width=1280",
+        "image_width": 1280,
+        "image_height": 670,
+        "image_bytes": 273951,
+        "from_url": "https://chatgpt-lab.com/n/nccc10e804eba",
+        "service_icon": "https://s3-ap-northeast-1.amazonaws.com/poc-image/production/7e809e46a245c22cb69b4e828921b14dcf69d60931a62dfa7c7e5110e7a6.png",
+        "id": 1,
+        "original_url": "https://chatgpt-lab.com/n/nccc10e804eba",
+        "fallback": "ChatGPT研究所: 最強AI開発ツール出現！Replit Agentを徹底解説｜ChatGPT研究所",
+        "text": "最近、Cursor、Vercelのv0、Bolt.newなど、AI によるコード生成やUI 作成を支援する開発ツールが注目を集めています。 今回紹介するReplitは、AIエージェント「Replit Agent」を備え、さらに進化した機能を活用することができます。 Replit Agentの大きな強みとして、バックエンドを実装することが可能であり、下記のようなウェブアプリを簡単に作成することができます。 KPT Board 求人サイト 以下のように求人掲載/応募/メッセージ送信が可能です(左が企業側のサイト/右が求職者側のサイト)： Replitの主な特徴は次のとおりで",
+        "title": "最強AI開発ツール出現！Replit Agentを徹底解説｜ChatGPT研究所",
+        "title_link": "https://chatgpt-lab.com/n/nccc10e804eba",
+        "service_name": "ChatGPT研究所"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bOcZI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://chatgpt-lab.com/n/nccc10e804eba",
+                "text": "https://chatgpt-lab.com/n/nccc10e804eba"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731455959.021779",
+    "client_msg_id": "8037B239-E899-4CBC-BC52-8893AF76794F",
+    "text": "こりゃ凄い\n<https://docs.replit.com/replitai/agent|https://docs.replit.com/replitai/agent>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://docs.replit.com/replitai/agent",
+        "service_icon": "https://docs.replit.com/image/favicon-2.png",
+        "id": 1,
+        "original_url": "https://docs.replit.com/replitai/agent",
+        "fallback": "Replit Agent | Replit Docs",
+        "text": "The Replit Agent is currently available through an early access program.",
+        "title": "Replit Agent | Replit Docs",
+        "title_link": "https://docs.replit.com/replitai/agent",
+        "service_name": "docs.replit.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Vu9wZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "こりゃ凄い\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.replit.com/replitai/agent",
+                "text": "https://docs.replit.com/replitai/agent"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "あ、マイナンバーカードで出来るみたいですが僕はマイナンバーカードをめんどくさがって作ってなかったのでこの際作成します…",
+    "files": [
+      {
+        "id": "F0807BCRVGV",
+        "created": 1731314539,
+        "timestamp": 1731314539,
+        "name": "スクリーンショット 2024-11-11 17.42.14.png",
+        "title": "スクリーンショット 2024-11-11 17.42.14.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 407872,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F0807BCRVGV/____________________________2024-11-11_17.42.14.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0807BCRVGV/download/____________________________2024-11-11_17.42.14.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 335,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 447,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 671,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 745,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_960.png",
+        "thumb_960_w": 960,
+        "thumb_960_h": 894,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F0807BCRVGV-37c6626cec/____________________________2024-11-11_17.42.14_1024.png",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 954,
+        "original_w": 1750,
+        "original_h": 1630,
+        "thumb_tiny": "AwAsADDSz7GkPPrSHp+NN+b1NADsHPVqTafVqOfU/lRg/wB4/lQA5eM8sfrS59jTOvc/kaUfd65oADnHHrSZb/IpSSKA3qf1oAQb6XDeopdw9TRkeppgHzetHOOaMj1NJnPQmkAEenrSBTinbc0bBQAgU+o/KjDdsUuwUoUDpQA3De1B6U7HuaQjjrQB/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0807BCRVGV/____________________________2024-11-11_17.42.14.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F0807BCRVGV-072b32408c",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "a9cEA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "あ、マイナンバーカードで出来るみたいですが僕はマイナンバーカードをめんどくさがって作ってなかったのでこの際作成します…"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1731314574.859249",
+    "client_msg_id": "116adedc-19ef-47b6-a842-1a7d77bdfb62"
+  },
+  {
+    "user": "U07RF4825M1",
+    "type": "message",
+    "ts": "1731314545.094419",
+    "client_msg_id": "6033AC7A-B71C-4DD0-8248-2A61180D3D67",
+    "text": "この手の申請業務を行うには、Windowsじゃないとスムーズにできない場面が多いですね。",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1731314545.094419",
+    "reply_count": 11,
+    "reply_users_count": 4,
+    "latest_reply": "1731369796.162119",
+    "reply_users": [
+      "U068Q5LCTG9",
+      "U07RF4825M1",
+      "U06FYMZJ2Q2",
+      "U07R0SR8MDL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qlwDp",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "この手の申請業務を行うには、Windowsじゃないとスムーズにできない場面が多いですね。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1731314611.230599",
+        "client_msg_id": "23b8fb3c-2d73-4834-b0a7-7d1895b59e39",
+        "text": "お国はwindows信者なんですかね…:thinking_face:",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "fa021",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "お国はwindows信者なんですかね…"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "thinking_face",
+                    "unicode": "1f914"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1731314674.365519",
+        "client_msg_id": "016FEC4A-DD77-4681-A07A-1B674D01BCDF",
+        "text": "シェアの関係でしょうかね。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "KKoYt",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "シェアの関係でしょうかね。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1731315108.763179",
+        "client_msg_id": "3b0d08a1-e355-4813-95aa-5a606d01b4aa",
+        "text": "そうなんでしょうけど、このご時世mac使いの人も増加しているのに除外されているのはいかがなものかなと…",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "VKdff",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "そうなんでしょうけど、このご時世mac使いの人も増加しているのに除外されているのはいかがなものかなと…"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1731316499.217669",
+        "client_msg_id": "ED886010-E949-46CF-8B39-3A3074686A92",
+        "text": "一度商標登録申請した際に紙で申請したのですが、90%以上Windowsからの申請だったようで、2021年頃にMacから申請できなくなりましたね。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "DPkHw",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "一度商標登録申請した際に紙で申請したのですが、90%以上Windowsからの申請だったようで、2021年頃にMacから申請できなくなりましたね。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "eyes",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1731321583.392099",
+        "client_msg_id": "bec8aace-3eba-41ed-838f-b38f3bd96fb2",
+        "text": "WindowsVM立ち上げればいけるでな。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "76ieO",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "WindowsVM立ち上げればいけるでな。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          },
+          {
+            "name": "open_mouth",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1731321662.120229",
+        "client_msg_id": "1733a433-aa3f-457f-a0c8-417c7ce5ccc6",
+        "text": "<@U068Q5LCTG9> Apple Silicon？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "96hpZ",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U068Q5LCTG9"
+                  },
+                  {
+                    "type": "text",
+                    "text": " Apple Silicon？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1731321821.399569",
+        "client_msg_id": "62DA24A1-14A1-4C88-9DBD-8A945051BE2D",
+        "text": "Apple SiliconでもParallelsを使ってArm版Windows11なら入れられるか。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "EfCGY",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Apple SiliconでもParallelsを使ってArm版Windows11なら入れられるか。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "open_mouth",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1731321967.633699",
+        "client_msg_id": "BA904911-8E6A-478D-BE94-86615413376B",
+        "text": "<https://support.microsoft.com/ja-jp/windows/apple-m1-m2-m3-%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F-mac-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7windows-11%E3%82%92%E4%BD%BF%E7%94%A8-%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-cd15fd62-9b34-4b78-b0bc-121baa3c568c|https://support.microsoft.com/ja-jp/windows/apple-m1-m2-m3-チップを搭載した-mac-コンピューターでwindows-11を使用-するためのオプション-cd15fd62-9b34-4b78-b0bc-121baa3c568c>",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "attachments": [
+          {
+            "from_url": "https://support.microsoft.com/ja-jp/windows/apple-m1-m2-m3-%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F-mac-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7windows-11%E3%82%92%E4%BD%BF%E7%94%A8-%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-cd15fd62-9b34-4b78-b0bc-121baa3c568c",
+            "service_icon": "https://support.microsoft.com/apple-touch-icon.png",
+            "id": 1,
+            "original_url": "https://support.microsoft.com/ja-jp/windows/apple-m1-m2-m3-%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F-mac-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7windows-11%E3%82%92%E4%BD%BF%E7%94%A8-%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-cd15fd62-9b34-4b78-b0bc-121baa3c568c",
+            "fallback": "Apple M1®、M2™、M3™ チップを搭載した Mac® コンピューターでWindows 11を使用®するためのオプション  - Microsoft サポート",
+            "text": "Windows 11は、Windows 用に設計された PC で最適に動作します。 使用できない場合は、Windows 365 クラウド PCまたは Parallels Desktop で Mac で Windows を使用できます。",
+            "title": "Apple M1®、M2™、M3™ チップを搭載した Mac® コンピューターでWindows 11を使用®するためのオプション  - Microsoft サポート",
+            "title_link": "https://support.microsoft.com/ja-jp/windows/apple-m1-m2-m3-%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F-mac-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7windows-11%E3%82%92%E4%BD%BF%E7%94%A8-%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-cd15fd62-9b34-4b78-b0bc-121baa3c568c",
+            "service_name": "support.microsoft.com"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "HlF2U",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://support.microsoft.com/ja-jp/windows/apple-m1-m2-m3-%E3%83%81%E3%83%83%E3%83%97%E3%82%92%E6%90%AD%E8%BC%89%E3%81%97%E3%81%9F-mac-%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%81%A7windows-11%E3%82%92%E4%BD%BF%E7%94%A8-%E3%81%99%E3%82%8B%E3%81%9F%E3%82%81%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3-cd15fd62-9b34-4b78-b0bc-121baa3c568c",
+                    "text": "https://support.microsoft.com/ja-jp/windows/apple-m1-m2-m3-チップを搭載した-mac-コンピューターでwindows-11を使用-するためのオプション-cd15fd62-9b34-4b78-b0bc-121baa3c568c"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1731322854.635889",
+        "client_msg_id": "c64f5d42-504a-4d9b-bf11-97714b85f9ab",
+        "text": "Parallelsというものがあるんですね、知りませんでした！\nUTMとかのVMを用いて、その上でWindowsを動かすイメージをしてましたー\n<https://www.maclab.tokyo/document/utm-windows11/10731/>",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "attachments": [
+          {
+            "from_url": "https://www.maclab.tokyo/document/utm-windows11/10731/",
+            "image_url": "https://www.maclab.tokyo/wp-content/uploads/2023/11/utm-windows11.png",
+            "image_width": 1200,
+            "image_height": 630,
+            "image_bytes": 7666,
+            "service_icon": "https://www.maclab.tokyo/wp-content/uploads/2023/02/cropped-cropped-site_icon-1-180x180.png",
+            "id": 1,
+            "original_url": "https://www.maclab.tokyo/document/utm-windows11/10731/",
+            "fallback": "Mac修理はMacLab（マックラボ）: UTMで M2 Macに Windows11 をインストール",
+            "text": "macOS 14 Sonomaと仮想化 ソフトウェア の「UTM」4.4.4 (92)でWindows 11を簡単にインストールする方法をご紹介致します。ISOイメージ作成ソフトウェア「CrystalFetch」を使用することで、より簡単にインストールができるようになっています。",
+            "title": "UTMで M2 Macに Windows11 をインストール",
+            "title_link": "https://www.maclab.tokyo/document/utm-windows11/10731/",
+            "service_name": "Mac修理はMacLab（マックラボ）"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "jBR4p",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Parallelsというものがあるんですね、知りませんでした！\nUTMとかのVMを用いて、その上でWindowsを動かすイメージをしてましたー\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://www.maclab.tokyo/document/utm-windows11/10731/"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1731322878.026349",
+        "client_msg_id": "baf8088a-71cc-4a43-a82c-60f8399baf67",
+        "text": "ただ、今後のことを考えると、会社専用のWindowsPCは一台あった方が良さそうですね。。。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "En6k7",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ただ、今後のことを考えると、会社専用のWindowsPCは一台あった方が良さそうですね。。。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1731369796.162119",
+        "client_msg_id": "309f7a47-598a-4e0b-a852-e47411c68678",
+        "text": "ParallelsにしてもUTMにしても、仮想化環境を作ってWindowsを仮想マシンとして動作させることは変わりないので、やってることは同じですね。\nIntel Macの頃は私も各種仮想化ソフトを使って、Mac上でWindowsを動かしていましたが、Apple SiliconになってからはCPUのアーキテクチャが異なるのでどうなってるんだっけ、と思っていました。\n\nまぁ会社用に1台WindowsPCはあった方がよい、というのは私も同意です。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731314545.094419",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "GjxPG",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ParallelsにしてもUTMにしても、仮想化環境を作ってWindowsを仮想マシンとして動作させることは変わりないので、やってることは同じですね。\nIntel Macの頃は私も各種仮想化ソフトを使って、Mac上でWindowsを動かしていましたが、Apple SiliconになってからはCPUのアーキテクチャが異なるのでどうなってるんだっけ、と思っていました。\n\nまぁ会社用に1台WindowsPCはあった方がよい、というのは私も同意です。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "saluting_face",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "電子証明書がwindows版しかなくて詰みです。電子申請するのは夢のまた夢になりそう\n<https://www.moj.go.jp/MINJI/minji06_00028.html>",
+    "files": [
+      {
+        "id": "F080CMR78P6",
+        "created": 1731314449,
+        "timestamp": 1731314449,
+        "name": "スクリーンショット 2024-11-11 17.40.47.png",
+        "title": "スクリーンショット 2024-11-11 17.40.47.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 964417,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F080CMR78P6/____________________________2024-11-11_17.40.47.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F080CMR78P6/download/____________________________2024-11-11_17.40.47.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_360.png",
+        "thumb_360_w": 258,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_480.png",
+        "thumb_480_w": 345,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_720.png",
+        "thumb_720_w": 517,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1115,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_960.png",
+        "thumb_960_w": 689,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CMR78P6-97a134a88c/____________________________2024-11-11_17.40.47_1024.png",
+        "thumb_1024_w": 735,
+        "thumb_1024_h": 1024,
+        "original_w": 1460,
+        "original_h": 2034,
+        "thumb_tiny": "AwAwACK66HOeKbsPqPzqV/1pvPtUhZDNh9R+dGwk9qfzinA44JGTQFkQl1yfmFG9f7wphhOT836Unkn+9+lGpOpafGeabx705+tJg0Fh8opflOOBkdKTBpQKBER6milPU0lMQ+RMtnJ596Tyxj7xqUjJ6kUjAgcE0WKuyPywf4mzSiL/AGmp/LdiKAoHvRZBdkR6mkqQgZPFGB6UCP/Z",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F080CMR78P6/____________________________2024-11-11_17.40.47.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F080CMR78P6-739639e3ba",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/JYRK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "電子証明書がwindows版しかなくて詰みです。電子申請するのは夢のまた夢になりそう\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.moj.go.jp/MINJI/minji06_00028.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1731314475.680969",
+    "client_msg_id": "a9f3dd35-174f-4a1b-9d32-2e20d1893af6"
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1730740724.542509",
+    "client_msg_id": "eff7c6de-c042-4dd6-97e8-401554b6bec3",
+    "text": "がんばえー",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ulOM+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "がんばえー"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "heart_on_fire",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "デマンドプランがハードモードなので、自分への3日間のご褒美に晩酌しながら残りの仕事片付けます:sake:",
+    "files": [
+      {
+        "id": "F07USGH5U9Z",
+        "created": 1730739316,
+        "timestamp": 1730739316,
+        "name": "IMG_1496.jpg",
+        "title": "IMG_1496",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 900707,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07USGH5U9Z/img_1496.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07USGH5U9Z/download/img_1496.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07USGH5U9Z-6d54dc07fe/img_1496_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACSVQn98/lTncIo2nJz6VCtzD6H8qWSVXwFGAKkZeibcgJp9QQyKI/cc4FO+0R+pqkJktFRefH6mj7RH6mgDGCnPQ/lT1LA9Kd5QVCWOD2waj2n+8PzpDs0TLKVbjgijzKb5WD94Uwk5I54/lQDJTIaPMNQFgDzmjePf86YiSZuMGoht7U+Qdz0pgx61KKe44Yz1/SlYY524BAwTnFMJC9T+VPZ9+MDGBTBjG5bgY9jSc+1OxRigk//Z",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07USGH5U9Z/img_1496.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07USGH5U9Z-7e2aa1de37",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "++UJQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "デマンドプランがハードモードなので、自分への3日間のご褒美に晩酌しながら残りの仕事片付けます"
+              },
+              {
+                "type": "emoji",
+                "name": "sake",
+                "unicode": "1f376"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1730739373.193319",
+    "client_msg_id": "48A04AB0-B446-4DCD-B3A2-E9CB6D385165"
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1730292553.185669",
+    "client_msg_id": "D5BA29C8-9268-4B24-9CB5-61CF7F7198B4",
+    "text": "やばすぎるwww",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "81mJl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "やばすぎるwww"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "jp",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      },
+      {
+        "name": "fire",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730289215.440949",
+    "client_msg_id": "b50417d4-8720-4286-9e6d-9568e2b940ad",
+    "text": "出来るだけ風呂敷は大きく広げた状況で問題解決に取り組みたいですね。\nスコープの問題は自分たちだけでコントロール可能だと嬉しいんですが、大体の場合(ほとんどの場合)は外部の状況が関わるのでコントロールが難しいです:sweat_smile:\n外部状況をうまくコントロールするのが、経営者でありマネジメント層の役割でもあると思っています笑\nただ、政治/経済等のどうしようもない部分もあるので、早く <@U06FYMZJ2Q2> を政治家にして、経済の部分では会社を市場の中で影響力がある位置まで持っていって対処しようと思ってます",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "hM4q/",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "出来るだけ風呂敷は大きく広げた状況で問題解決に取り組みたいですね。\nスコープの問題は自分たちだけでコントロール可能だと嬉しいんですが、大体の場合(ほとんどの場合)は外部の状況が関わるのでコントロールが難しいです"
+              },
+              {
+                "type": "emoji",
+                "name": "sweat_smile",
+                "unicode": "1f605"
+              },
+              {
+                "type": "text",
+                "text": "\n外部状況をうまくコントロールするのが、経営者でありマネジメント層の役割でもあると思っています笑\nただ、政治/経済等のどうしようもない部分もあるので、早く "
+              },
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " を政治家にして、経済の部分では会社を市場の中で影響力がある位置まで持っていって対処しようと思ってます"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1730288054.031029",
+    "client_msg_id": "80ddafec-c9db-4d0b-85b4-53c5736b470a",
+    "text": "大体の問題は、スコープの広さ次第でSimpleにもChaosにもなるんすよねー\nスコープをいかに上手に調整しながら物事に取り組むのか、みたいなのが大切になると思ってます。",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/VBER",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "大体の問題は、スコープの広さ次第でSimpleにもChaosにもなるんすよねー\nスコープをいかに上手に調整しながら物事に取り組むのか、みたいなのが大切になると思ってます。"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "&gt; うーん、その考え方はメリットもあるしデメリットもあるからなぁ。\n&gt; \n&gt; 久末は、最初のアイデア自体（机上の空論段階で考える）は別に大きくてもいいと思っている派です。\n&gt; で、実行する際にそのアイデアを現実に持ってくるためにどうすればいいか、という工夫を凝らすことが必要になるかと思います。\n僕も最初の段階では空想段階で良いと考えています。そちらの方が面白いですが、ただ変数が無限にあるため、それらを定義できない人がフレームワークを単なるツールとして使うのは難しいですよね…。\n\n&gt; その時に、いろんな専門家たちが集まり、議論し、現実的にできるところから少しずつ形にしていく、というのが理想系ではないでしょうか？\n僕の会社は、さまざまなスペシャリストがチームを組んで、少人数精鋭で多様な事業を展開していきたいと考えています。その分野の現実を深く理解しているのが専門家だと思うので、そうした力は今後も必要になってきます。\n\n&gt; ・・・というのが、アジャイル開発の考えのベースになっていると僕は思いますよ:wink:\n&gt; クネビンフレームワーク、Complexな問題、アジャイル、みたいなワードで調べると、何かヒントがもらえるかもっすね。\nクネビンフレームワークについて先ほど調べました。これは、状況を分類し観測するためのフレームワークで、複雑な世界そのものを観測可能なものとして捉える方法だと理解しました。同時に、このフレームワークを使ってどのように複雑な問題を見極め、整理するかも考えてみました。\n\n*1枚目の枠をプロジェクトと定義したときの考え*\n```フレームワークの概要\n\nこのフレームワークは、プロジェクトやアイデアを異なるフェーズやコンセプトに応じて整理し、それぞれの段階で適切なアプローチを選択できるように設計されています。基本的な要素（A、B、C、Dなど）は、プロジェクトのアイデアや要件、リソース、ステークホルダーなど、さまざまなエンティティを表しており、これらがどのように構成されているかに応じて、プロジェクト全体の構造が異なってきます。\n\n各フェーズの説明\n構想段階（左）\n\n最初の図（A、B、C、Dの要素が自由に配置されている領域）は、アイデアや構想がまだ抽象的で、具体的な形が定まっていない「空想」や「発想」段階を示しています。この段階では、制約にとらわれずに新しいアイデアを自由に出し合うことが求められます。\nクネビンフレームワークの\"Chaos\"や\"Complex\"に対応し、まだ確立された構造や明確なゴールがない中で、可能性を探るための試行錯誤が行われます。\n\n抽象から具体への移行（中央）\n2つ目の図は、構想を現実に持ってくるために要素が再配置され、より具体的な形を帯び始めているフェーズを示しています。この段階では、各要素の関係性や役割を定義し、どの部分から取り組むべきかを探りながらプロジェクト全体を形作っていきます。\nこのフェーズは\"Complicated\"領域に対応しており、具体的な分析やシミュレーションが行われ、関係者やリソースの整理が進められます。\n\n現実的な構造形成（右）\n最後の図は、プロジェクトが実行段階に進む前に、各要素が整理され、具体的な構造が決まっている状態を示しています。ここでは、アイデアをプロトタイプやモデルに落とし込むフェーズで、各要素が相互にどのように作用するかを見定めながら、確実な基盤を築くことが求められます。\nクネビンフレームワークの\"Simple\"領域にあたるこの段階では、確立されたベストプラクティスや定型化された手順を適用し、プロジェクトの実現可能性を確認していきます。\n\nフレームワークの応用と目的\nこのフレームワークは、プロジェクトの各段階において異なるアプローチを取ることの重要性を示しています。最初は自由な発想を重視し、次第に具体化しながら、最終的にシステムやプロセスの安定した実行を目指します。また、各フェーズでの要素（A、B、Cなど）がどのように再構築されるかを観察することで、アイデアが現実的なプロジェクトへと成長していく過程を視覚的に理解できる仕組みになっています。\n\nこのフレームワークを用いることで、プロジェクトの初期段階から実行段階まで、最適なアプローチを選択できるだけでなく、関係者との認識の共有や課題の発見も容易になります。特に、抽象的なアイデアから具体的なアクションプランに移行する際のギャップを埋めるための強力なツールとなります。\n\n以上のように、このフレームワークは単なる思考ツールとしてではなく、実際のプロジェクト推進やチーム内のコミュニケーションの土台としても活用できるものです。```\n*1枚目の枠を世の中と定義したときの考え(上記の拡張版)*\n```世の中の複雑性と多様な構成要素の相互作用\nこの図は、世の中を構成するさまざまな要素（A、B、C、D…）が、相互に影響を与え合いながら存在している状態を表しています。各要素は、企業、組織、人、情報、文化、技術、環境など、社会におけるさまざまなエンティティを象徴しています。それらは、特定のルールや秩序の中に完全に収まることなく、状況に応じて自由に変化・発展しているのです。\n\n1枚目の図は、この「秩序と無秩序が同居する社会の姿」を示しており、世の中が一枚岩ではなく、複雑なネットワークや相互作用によって成り立っていることを視覚化しています。\n\n社会の階層と段階的な秩序形成\n図の3つのエリアは、社会が「カオス」「複雑」「秩序」といった段階にまたがって存在していることを表しています。\n\nカオス領域（左の図）\nこの領域は、世の中の「無秩序」や「混沌」を表しています。ここでは、構成要素が不規則で予測不可能な形で相互作用しており、ルールや法則も不安定です。例えば、自然災害や経済の突然の変動、予測不能な技術革新などは、社会においてカオス的な要素として影響を及ぼします。こうした状況では、一般的なルールや方法が通用しないため、即時対応や即興的なアプローチが必要です。\n\n複雑領域（中央の図）\nこの領域は、社会の中である程度の秩序が形成され始めた状態を表します。個々の構成要素が独自のルールや枠組みを持ちながらも、全体としては秩序と無秩序が共存しており、解決策を探るにはプロトタイピングや実験的なアプローチが求められます。例えば、異なる業界や文化が交差するグローバル社会、複雑なビジネスエコシステムなどは、分析を通じて相互関係を探る必要がある「複雑」な領域に該当します。\n\n秩序領域（右の図）\n最終的に、ある程度のルールやベストプラクティスが確立された「秩序」の状態に移行します。この段階では、各要素が明確な役割を持ち、既存のルールに基づいて効率よく機能しています。例えば、日常のルーチン業務や確立されたビジネスプロセス、定型化された社会インフラはこの秩序領域に属します。この領域では、標準化された方法やプロセスが機能しやすくなります。\n\n世の中における柔軟な適応と変化への対応\nこの図からわかるのは、世の中が常に秩序ある「単純な状態」にとどまっているわけではなく、カオスと秩序が流動的に入り混じりながら、様々な要因によって変化しているということです。人々や組織は、この変動する社会の中で、状況に応じた対応や適応を行う必要があります。例えば、新しい技術や外部からのインパクトによって、社会が突然カオスに転じることもあります。このような状況に備えるために、柔軟な思考と多様なアプローチが求められます。\n\n世の中の理解と戦略的対応のためのフレームワーク\nこの図を通して、世の中の複雑性を理解するためのフレームワークを提供しています。特に、企業や組織が新しいアイデアや戦略を立てる際に、このような世の中のカオスと秩序を捉え、適切な領域に応じた対応を選択することで、現実的なプロジェクトや戦略を効果的に実行できるようになるでしょう。\n\nこの図は、世の中の複雑で動的な性質を可視化し、社会が常に一定の法則に従って動いているわけではないことを示しています。このような複雑な環境の中で、秩序とカオスのバランスを取りながら柔軟に対応する力が、現代社会で成功するためには重要です。```\n僕の会社としても、この考え方をDX事業部のコンサルタントのために導入できるようにしたいと考えています:eyes:\n\n&gt; もちろん、案件次第なので、最初から制約を確定した上で進めるのも、あえて自由な発想から少しずつ形にするのも、適宜使い分けができるといいっすね\n受託案件の多くは、最初からコストやスケジュールが決まっていて、制約の中でストレスを感じながらも、アジャイル的な思考で柔軟に開発を進められればと思っています。ただ、クライアントにその理解を求めるのは難しく、日本企業ではウォーターフォール型の進め方が主流で、予定通りに進行することが求められがちです。頭では「やってみないとわからない」ことの重要性が理解されていても、実際には納得されていない部分が多いと感じます。\n\n&gt; というか、iDeaって「ぱっとみ実現不可能っぽいアイデアを実現するためのプロダクトを創出して、それを使ったユーザーが新しい体験をできるようにする」ための会社なのかな、とかも思ったり。\n僕たちの会社では、「実現不可能」と思われているアイデアでも、新しい視点や特徴を見つけることで実現に向けた道筋を探したいです。そのためにも、自社プロダクトを作り、自由に発想したアイデアが形になる環境を自分たちで築いていきたいと考えています！",
+    "files": [
+      {
+        "id": "F07UH3N8Q2D",
+        "created": 1730286652,
+        "timestamp": 1730286652,
+        "name": "IMG_1433 2.JPG",
+        "title": "IMG_1433 2.JPG",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1913236,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07UH3N8Q2D/img_1433_2.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07UH3N8Q2D/download/img_1433_2.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACRti2Ek/OroqhY8mQf7NXgflBpDHZpAc0lJkDk0AOFFJRQBS0//AFjf7tXcfIKoWB/ff8BrQ7UCEPTFIRkYFFGcdaBimijOaKAM+yOJvwNaNZMMhjcMBmtCKYOuThT6ZoYiSkIyMUhkT+8v503zY/76/nQMkXgc0uR61Hlf7woyn94UAf/Z",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07UH3N8Q2D/img_1433_2.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07UH3N8Q2D-e087e24721",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F07UH3NNMDF",
+        "created": 1730286660,
+        "timestamp": 1730286660,
+        "name": "IMG_1432 2.JPG",
+        "title": "IMG_1432 2.JPG",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 3466772,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07UH3NNMDF/img_1432_2.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07UH3NNMDF/download/img_1432_2.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACSzjKA0YH93NJ/AufSnBcjPSkMawHrtpQB65pcDAzk0zHzdKAHbB60bB60DgYpcigBgzgAelPB49KYp5Ap+0UAJkYFNz8xzj8acV44pR05oAaW+lG72pHPzUmT60ARiRR/+qnpJuNZO9vU/nThIw/iP50xGxuoDZNZHmv8A3m/OlE8g6O350gNJpI88uv50nmRf31/OsvNJmmB//9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07UH3NNMDF/img_1432_2.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07UH3NNMDF-0aa4df346a",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tj9GU",
+        "elements": [
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": "うーん、その考え方はメリットもあるしデメリットもあるからなぁ。\n\n久末は、最初のアイデア自体（机上の空論段階で考える）は別に大きくてもいいと思っている派です。\nで、実行する際にそのアイデアを現実に持ってくるためにどうすればいいか、という工夫を凝らすことが必要になるかと思います。"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "僕も最初の段階では空想段階で良いと考えています。そちらの方が面白いですが、ただ変数が無限にあるため、それらを定義できない人がフレームワークを単なるツールとして使うのは難しいですよね…。\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": "その時に、いろんな専門家たちが集まり、議論し、現実的にできるところから少しずつ形にしていく、というのが理想系ではないでしょうか？"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "僕の会社は、さまざまなスペシャリストがチームを組んで、少人数精鋭で多様な事業を展開していきたいと考えています。その分野の現実を深く理解しているのが専門家だと思うので、そうした力は今後も必要になってきます。\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": "・・・というのが、アジャイル開発の考えのベースになっていると僕は思いますよ"
+              },
+              {
+                "type": "emoji",
+                "name": "wink",
+                "unicode": "1f609"
+              },
+              {
+                "type": "text",
+                "text": "\nクネビンフレームワーク、Complexな問題、アジャイル、みたいなワードで調べると、何かヒントがもらえるかもっすね。"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "クネビンフレームワークについて先ほど調べました。これは、状況を分類し観測するためのフレームワークで、複雑な世界そのものを観測可能なものとして捉える方法だと理解しました。同時に、このフレームワークを使ってどのように複雑な問題を見極め、整理するかも考えてみました。\n\n"
+              },
+              {
+                "type": "text",
+                "text": "1枚目の枠をプロジェクトと定義したときの考え",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "フレームワークの概要\n\nこのフレームワークは、プロジェクトやアイデアを異なるフェーズやコンセプトに応じて整理し、それぞれの段階で適切なアプローチを選択できるように設計されています。基本的な要素（A、B、C、Dなど）は、プロジェクトのアイデアや要件、リソース、ステークホルダーなど、さまざまなエンティティを表しており、これらがどのように構成されているかに応じて、プロジェクト全体の構造が異なってきます。\n\n各フェーズの説明\n構想段階（左）\n\n最初の図（A、B、C、Dの要素が自由に配置されている領域）は、アイデアや構想がまだ抽象的で、具体的な形が定まっていない「空想」や「発想」段階を示しています。この段階では、制約にとらわれずに新しいアイデアを自由に出し合うことが求められます。\nクネビンフレームワークの\"Chaos\"や\"Complex\"に対応し、まだ確立された構造や明確なゴールがない中で、可能性を探るための試行錯誤が行われます。\n\n抽象から具体への移行（中央）\n2つ目の図は、構想を現実に持ってくるために要素が再配置され、より具体的な形を帯び始めているフェーズを示しています。この段階では、各要素の関係性や役割を定義し、どの部分から取り組むべきかを探りながらプロジェクト全体を形作っていきます。\nこのフェーズは\"Complicated\"領域に対応しており、具体的な分析やシミュレーションが行われ、関係者やリソースの整理が進められます。\n\n現実的な構造形成（右）\n最後の図は、プロジェクトが実行段階に進む前に、各要素が整理され、具体的な構造が決まっている状態を示しています。ここでは、アイデアをプロトタイプやモデルに落とし込むフェーズで、各要素が相互にどのように作用するかを見定めながら、確実な基盤を築くことが求められます。\nクネビンフレームワークの\"Simple\"領域にあたるこの段階では、確立されたベストプラクティスや定型化された手順を適用し、プロジェクトの実現可能性を確認していきます。\n\nフレームワークの応用と目的\nこのフレームワークは、プロジェクトの各段階において異なるアプローチを取ることの重要性を示しています。最初は自由な発想を重視し、次第に具体化しながら、最終的にシステムやプロセスの安定した実行を目指します。また、各フェーズでの要素（A、B、Cなど）がどのように再構築されるかを観察することで、アイデアが現実的なプロジェクトへと成長していく過程を視覚的に理解できる仕組みになっています。\n\nこのフレームワークを用いることで、プロジェクトの初期段階から実行段階まで、最適なアプローチを選択できるだけでなく、関係者との認識の共有や課題の発見も容易になります。特に、抽象的なアイデアから具体的なアクションプランに移行する際のギャップを埋めるための強力なツールとなります。\n\n以上のように、このフレームワークは単なる思考ツールとしてではなく、実際のプロジェクト推進やチーム内のコミュニケーションの土台としても活用できるものです。"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "1枚目の枠を世の中と定義したときの考え(上記の拡張版)",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "世の中の複雑性と多様な構成要素の相互作用\nこの図は、世の中を構成するさまざまな要素（A、B、C、D…）が、相互に影響を与え合いながら存在している状態を表しています。各要素は、企業、組織、人、情報、文化、技術、環境など、社会におけるさまざまなエンティティを象徴しています。それらは、特定のルールや秩序の中に完全に収まることなく、状況に応じて自由に変化・発展しているのです。\n\n1枚目の図は、この「秩序と無秩序が同居する社会の姿」を示しており、世の中が一枚岩ではなく、複雑なネットワークや相互作用によって成り立っていることを視覚化しています。\n\n社会の階層と段階的な秩序形成\n図の3つのエリアは、社会が「カオス」「複雑」「秩序」といった段階にまたがって存在していることを表しています。\n\nカオス領域（左の図）\nこの領域は、世の中の「無秩序」や「混沌」を表しています。ここでは、構成要素が不規則で予測不可能な形で相互作用しており、ルールや法則も不安定です。例えば、自然災害や経済の突然の変動、予測不能な技術革新などは、社会においてカオス的な要素として影響を及ぼします。こうした状況では、一般的なルールや方法が通用しないため、即時対応や即興的なアプローチが必要です。\n\n複雑領域（中央の図）\nこの領域は、社会の中である程度の秩序が形成され始めた状態を表します。個々の構成要素が独自のルールや枠組みを持ちながらも、全体としては秩序と無秩序が共存しており、解決策を探るにはプロトタイピングや実験的なアプローチが求められます。例えば、異なる業界や文化が交差するグローバル社会、複雑なビジネスエコシステムなどは、分析を通じて相互関係を探る必要がある「複雑」な領域に該当します。\n\n秩序領域（右の図）\n最終的に、ある程度のルールやベストプラクティスが確立された「秩序」の状態に移行します。この段階では、各要素が明確な役割を持ち、既存のルールに基づいて効率よく機能しています。例えば、日常のルーチン業務や確立されたビジネスプロセス、定型化された社会インフラはこの秩序領域に属します。この領域では、標準化された方法やプロセスが機能しやすくなります。\n\n世の中における柔軟な適応と変化への対応\nこの図からわかるのは、世の中が常に秩序ある「単純な状態」にとどまっているわけではなく、カオスと秩序が流動的に入り混じりながら、様々な要因によって変化しているということです。人々や組織は、この変動する社会の中で、状況に応じた対応や適応を行う必要があります。例えば、新しい技術や外部からのインパクトによって、社会が突然カオスに転じることもあります。このような状況に備えるために、柔軟な思考と多様なアプローチが求められます。\n\n世の中の理解と戦略的対応のためのフレームワーク\nこの図を通して、世の中の複雑性を理解するためのフレームワークを提供しています。特に、企業や組織が新しいアイデアや戦略を立てる際に、このような世の中のカオスと秩序を捉え、適切な領域に応じた対応を選択することで、現実的なプロジェクトや戦略を効果的に実行できるようになるでしょう。\n\nこの図は、世の中の複雑で動的な性質を可視化し、社会が常に一定の法則に従って動いているわけではないことを示しています。このような複雑な環境の中で、秩序とカオスのバランスを取りながら柔軟に対応する力が、現代社会で成功するためには重要です。"
+              }
+            ],
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "僕の会社としても、この考え方をDX事業部のコンサルタントのために導入できるようにしたいと考えています"
+              },
+              {
+                "type": "emoji",
+                "name": "eyes",
+                "unicode": "1f440"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": "もちろん、案件次第なので、最初から制約を確定した上で進めるのも、あえて自由な発想から少しずつ形にするのも、適宜使い分けができるといいっすね"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "受託案件の多くは、最初からコストやスケジュールが決まっていて、制約の中でストレスを感じながらも、アジャイル的な思考で柔軟に開発を進められればと思っています。ただ、クライアントにその理解を求めるのは難しく、日本企業ではウォーターフォール型の進め方が主流で、予定通りに進行することが求められがちです。頭では「やってみないとわからない」ことの重要性が理解されていても、実際には納得されていない部分が多いと感じます。\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_quote",
+            "elements": [
+              {
+                "type": "text",
+                "text": "というか、iDeaって「ぱっとみ実現不可能っぽいアイデアを実現するためのプロダクトを創出して、それを使ったユーザーが新しい体験をできるようにする」ための会社なのかな、とかも思ったり。"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "僕たちの会社では、「実現不可能」と思われているアイデアでも、新しい視点や特徴を見つけることで実現に向けた道筋を探したいです。そのためにも、自社プロダクトを作り、自由に発想したアイデアが形になる環境を自分たちで築いていきたいと考えています！"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subtype": "thread_broadcast",
+    "root": {
+      "user": "U068Q5LCTG9",
+      "type": "message",
+      "ts": "1730219525.279729",
+      "client_msg_id": "17F042FF-BA0D-4417-B5CD-842280A03174",
+      "text": "<https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1|https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1>",
+      "team": "T0688JH4ALV",
+      "thread_ts": "1730219525.279729",
+      "reply_count": 9,
+      "reply_users_count": 3,
+      "latest_reply": "1730286889.237579",
+      "reply_users": [
+        "U07R0SR8MDL",
+        "U068Q5LCTG9",
+        "U07RF4825M1"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/YFWGyOmzKpE/hqdefault.jpg",
+          "thumb_width": 480,
+          "thumb_height": 360,
+          "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/YFWGyOmzKpE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 225,
+          "id": 1,
+          "original_url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+          "fallback": "YouTube Video: 【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】",
+          "title": "【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】",
+          "title_link": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+          "author_name": "FNNプライムオンライン",
+          "author_link": "https://www.youtube.com/@FNNnewsCH",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fEW19",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+                  "text": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1730286889.237579",
+    "client_msg_id": "9f44340e-aedb-4719-a9c5-2fd8f9684208",
+    "thread_ts": "1730219525.279729",
+    "parent_user_id": "U068Q5LCTG9"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730219525.279729",
+    "client_msg_id": "17F042FF-BA0D-4417-B5CD-842280A03174",
+    "text": "<https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1|https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1>",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1730219525.279729",
+    "reply_count": 9,
+    "reply_users_count": 3,
+    "latest_reply": "1730286889.237579",
+    "reply_users": [
+      "U07R0SR8MDL",
+      "U068Q5LCTG9",
+      "U07RF4825M1"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "from_url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+        "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+        "thumb_url": "https://i.ytimg.com/vi/YFWGyOmzKpE/hqdefault.jpg",
+        "thumb_width": 480,
+        "thumb_height": 360,
+        "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/YFWGyOmzKpE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】\"></iframe>",
+        "video_html_width": 400,
+        "video_html_height": 225,
+        "id": 1,
+        "original_url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+        "fallback": "YouTube Video: 【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】",
+        "title": "【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】",
+        "title_link": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+        "author_name": "FNNプライムオンライン",
+        "author_link": "https://www.youtube.com/@FNNnewsCH",
+        "service_name": "YouTube",
+        "service_url": "https://www.youtube.com/"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fEW19",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+                "text": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1730219566.648889",
+        "client_msg_id": "18C59B19-AAC8-474D-8700-F91E9C2CE212",
+        "text": "QRのやつ？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "VsZ8p",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "QRのやつ？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730219667.180089",
+        "client_msg_id": "42C2FFDE-53BC-4790-836C-ED52E0A87CF8",
+        "text": "そうです！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "XOZm6",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "そうです！"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730219900.800869",
+        "edited": {
+          "user": "U068Q5LCTG9",
+          "ts": "1730219941.000000"
+        },
+        "client_msg_id": "73671C74-B29F-4924-9F37-2DA63AC134ED",
+        "text": "『制約は創造の母』と言うのを先ほど見て、なるほどと思い色々漁ってたら、この動画に行き着いてみてました\n\n\n<https://blog.btrax.com/jp/limitations/|https://blog.btrax.com/jp/limitations/>\n<https://spctrm.design/jp/columns/a-design-in-the-life-07/|https://spctrm.design/jp/columns/a-design-in-the-life-07/>",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9",
+        "attachments": [
+          {
+            "image_url": "https://blog.btrax.com/jp/files/2021/04/constrain-main.jpg",
+            "image_width": 1200,
+            "image_height": 630,
+            "image_bytes": 102164,
+            "from_url": "https://blog.btrax.com/jp/limitations/",
+            "service_icon": "https://blog.btrax.com/favicon.ico",
+            "id": 1,
+            "original_url": "https://blog.btrax.com/jp/limitations/",
+            "fallback": "なぜ制約があった方が人はクリエイティブになれるのか？ デザイン会社 ビートラックス: ブログ",
+            "text": "イノベーションとは、制約に対する創造的なアプローチ。一見すると邪魔くさいように思える制約が、実はイノベーションを生み出すため不可欠な要因となっている。制約によって想像力が解き放たれ、よりユニークな手法が思いつく。制約は創造的な領域で役割を果たしていて、現代の最も革新的な創造的製品の多くに見られる。",
+            "title": "なぜ制約があった方が人はクリエイティブになれるのか？ デザイン会社 ビートラックス: ブログ",
+            "title_link": "https://blog.btrax.com/jp/limitations/",
+            "service_name": "blog.btrax.com"
+          },
+          {
+            "from_url": "https://spctrm.design/jp/columns/a-design-in-the-life-07/",
+            "ts": 1678232700,
+            "image_url": "https://spctrm.design/jp/wp-content/uploads/2023/03/columns_ando_007_jp.jpg",
+            "image_width": 1200,
+            "image_height": 630,
+            "image_bytes": 637881,
+            "service_icon": "https://spctrm.design/apple-touch-icon.png",
+            "id": 2,
+            "original_url": "https://spctrm.design/jp/columns/a-design-in-the-life-07/",
+            "fallback": "Spectrum Tokyo - Surfing New Waves in Digital Design: 制約の中から生まれる創造性 - Spectrum Tokyo",
+            "text": "無限の予算、無限のリソース、無限の時間があれば本当に良いものは作れるのでしょうか？実は「制約」こそがアイデアを生み出すための刺激となり、創造性を引き出すことも多くあります。そんなデザインにおける「制約」について考察してみました。",
+            "title": "制約の中から生まれる創造性 - Spectrum Tokyo",
+            "title_link": "https://spctrm.design/jp/columns/a-design-in-the-life-07/",
+            "service_name": "Spectrum Tokyo - Surfing New Waves in Digital Design",
+            "fields": [
+              {
+                "value": "安藤 幸央",
+                "title": "Written by",
+                "short": true
+              }
+            ]
+          }
+        ],
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "+Y4jD",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "『制約は創造の母』と言うのを先ほど見て、なるほどと思い色々漁ってたら、この動画"
+                  },
+                  {
+                    "type": "text",
+                    "text": "に行き着いて"
+                  },
+                  {
+                    "type": "text",
+                    "text": "みてました\n\n\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://blog.btrax.com/jp/limitations/",
+                    "text": "https://blog.btrax.com/jp/limitations/"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://spctrm.design/jp/columns/a-design-in-the-life-07/",
+                    "text": "https://spctrm.design/jp/columns/a-design-in-the-life-07/"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1730248995.839039",
+        "client_msg_id": "f65d44cc-b722-4c73-b6c9-e07d2faefb25",
+        "text": "<@U068Q5LCTG9>\nおはようございます。\nホームドアの事例は既に知っていましたが、リソースを湯水のように使えない制約があることで、アイディアの方向性が定めやすくなることは多々経験しており、良い事例だと思います。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "CfOIm",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U068Q5LCTG9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nおはようございます。\nホームドアの事例は既に知っていましたが、リソースを湯水のように使えない制約があることで、アイディアの方向性が定めやすくなることは多々経験しており、良い事例だと思います。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "eyes",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730266177.271039",
+        "client_msg_id": "CC639185-3FB3-4CD6-AC91-D5DDE74594CD",
+        "text": "現実世界では、湯水のごとくリソースがあるわけではないですよね...\n今後も会社のコンサルティングやシステム開発においては、机上の空論段階で考えるフィールドを絞り込み、その範囲内でアイデアを創出していきたいと考えています。実現不可能なアイデアを出しても、結局、実行しなければ企業として利益を生み出すことがないので。\n最初から制約を確定した上で進める方が良いと思い、今回の記事のように知恵を絞るきっかけにもなるため、意識して取り組んでいきたいです。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "NI2/o",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "現実世界では、湯水のごとくリソースがあるわけではないですよね...\n今後も会社のコンサルティングやシステム開発においては、机上の空論段階で考えるフィールドを絞り込み、その範囲内でアイデアを創出していきたいと考えています。実現不可能なアイデアを出しても、結局、実行しなければ企業として利益を生み出すことがないので。\n最初から制約を確定した上で進める方が良いと思い、今回の記事のように知恵を絞るきっかけにもなるため、意識して取り組んでいきたいです。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1730267275.299289",
+        "edited": {
+          "user": "U07R0SR8MDL",
+          "ts": "1730267303.000000"
+        },
+        "client_msg_id": "0c877cf2-1c78-4e15-839f-3de2325e6e5d",
+        "text": "> 最初から制約を確定した上で進める方が良いと思い、今回の記事のように知恵を絞るきっかけにもなるため、意識して取り組んでいきたい\nうーん、その考え方はメリットもあるしデメリットもあるからなぁ。\n\n久末は、最初のアイデア自体（机上の空論段階で考える）は別に大きくてもいいと思っている派です。\nで、実行する際にそのアイデアを現実に持ってくるためにどうすればいいか、という工夫を凝らすことが必要になるかと思います。\n特に、現実世界にあるQCDSの観点は大きな制約になると思っていて、その制約をいかに取り払うかが鍵になります。\nその時に、いろんな専門家たちが集まり、議論し、現実的にできるところから少しずつ形にしていく、というのが理想系ではないでしょうか？\n\n実際に作りながらじゃないと「できると思っていたことができない」とか「できないと思っていたことができる」とかがわからないし、手戻りとかも起こりやすくなると思うので！\n\n・・・というのが、アジャイル開発の考えのベースになっていると僕は思いますよ:wink:\nクネビンフレームワーク、Complexな問題、アジャイル、みたいなワードで調べると、何かヒントがもらえるかもっすね。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "MSzmi",
+            "elements": [
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "最初から制約を確定した上で進める方が良いと思い、今回の記事のように知恵を絞るきっかけにもなるため、意識して取り組んでいきたい"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "うーん、その考え方はメリットもあるしデメリットもあるからなぁ。\n\n久末は、最初のアイデア自体（机上の空論段階で考える）は別に大きくてもいいと思っている派です。\nで、実行する際にそのアイデアを現実に持ってくるためにどうすればいいか、という工夫を凝らすことが必要になるかと思います。\n特に、現実世界にあるQCDSの観点は大きな制約になると思っていて、その制約をいかに取り払うかが鍵になります。\nその時に、いろんな専門家たちが集まり、議論し、現実的にできるところから少しずつ形にしていく、というのが理想系ではないでしょうか？\n\n実際に作りながらじゃないと「できると思っていたことができない」とか「できないと思っていたことができる」とかがわからないし、手戻りとかも起こりやすくなると思うので！\n\n・・・というのが、アジャイル開発の考えのベースになっていると僕は思いますよ"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "wink",
+                    "unicode": "1f609"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nクネビンフレームワーク、Complexな問題、アジャイル、みたいなワードで調べると、何かヒントがもらえるかもっすね。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1730267364.925769",
+        "client_msg_id": "2b6bc9d3-6ce1-4a6a-9edc-dc2e33299119",
+        "text": "もちろん、案件次第なので、最初から制約を確定した上で進めるのも、あえて自由な発想から少しずつ形にするのも、適宜使い分けができるといいっすね",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "KgSCN",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "もちろん、案件次第なので、最初から制約を確定した上で進めるのも、あえて自由な発想から少しずつ形にするのも、適宜使い分けができるといいっすね"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1730267611.292769",
+        "client_msg_id": "76dd0e3e-97b0-4839-b2a2-b2362575fdda",
+        "text": "というか、iDeaって「ぱっとみ実現不可能っぽいアイデアを実現するためのプロダクトを創出して、それを使ったユーザーが新しい体験をできるようにする」ための会社なのかな、とかも思ったり。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "eaatf",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "というか、iDeaって「ぱっとみ実現不可能っぽいアイデアを実現するためのプロダクトを創出して、それを使ったユーザーが新しい体験をできるようにする」ための会社なのかな、とかも思ったり。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "eyes",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "text": "&gt; うーん、その考え方はメリットもあるしデメリットもあるからなぁ。\n&gt; \n&gt; 久末は、最初のアイデア自体（机上の空論段階で考える）は別に大きくてもいいと思っている派です。\n&gt; で、実行する際にそのアイデアを現実に持ってくるためにどうすればいいか、という工夫を凝らすことが必要になるかと思います。\n僕も最初の段階では空想段階で良いと考えています。そちらの方が面白いですが、ただ変数が無限にあるため、それらを定義できない人がフレームワークを単なるツールとして使うのは難しいですよね…。\n\n&gt; その時に、いろんな専門家たちが集まり、議論し、現実的にできるところから少しずつ形にしていく、というのが理想系ではないでしょうか？\n僕の会社は、さまざまなスペシャリストがチームを組んで、少人数精鋭で多様な事業を展開していきたいと考えています。その分野の現実を深く理解しているのが専門家だと思うので、そうした力は今後も必要になってきます。\n\n&gt; ・・・というのが、アジャイル開発の考えのベースになっていると僕は思いますよ:wink:\n&gt; クネビンフレームワーク、Complexな問題、アジャイル、みたいなワードで調べると、何かヒントがもらえるかもっすね。\nクネビンフレームワークについて先ほど調べました。これは、状況を分類し観測するためのフレームワークで、複雑な世界そのものを観測可能なものとして捉える方法だと理解しました。同時に、このフレームワークを使ってどのように複雑な問題を見極め、整理するかも考えてみました。\n\n*1枚目の枠をプロジェクトと定義したときの考え*\n```フレームワークの概要\n\nこのフレームワークは、プロジェクトやアイデアを異なるフェーズやコンセプトに応じて整理し、それぞれの段階で適切なアプローチを選択できるように設計されています。基本的な要素（A、B、C、Dなど）は、プロジェクトのアイデアや要件、リソース、ステークホルダーなど、さまざまなエンティティを表しており、これらがどのように構成されているかに応じて、プロジェクト全体の構造が異なってきます。\n\n各フェーズの説明\n構想段階（左）\n\n最初の図（A、B、C、Dの要素が自由に配置されている領域）は、アイデアや構想がまだ抽象的で、具体的な形が定まっていない「空想」や「発想」段階を示しています。この段階では、制約にとらわれずに新しいアイデアを自由に出し合うことが求められます。\nクネビンフレームワークの\"Chaos\"や\"Complex\"に対応し、まだ確立された構造や明確なゴールがない中で、可能性を探るための試行錯誤が行われます。\n\n抽象から具体への移行（中央）\n2つ目の図は、構想を現実に持ってくるために要素が再配置され、より具体的な形を帯び始めているフェーズを示しています。この段階では、各要素の関係性や役割を定義し、どの部分から取り組むべきかを探りながらプロジェクト全体を形作っていきます。\nこのフェーズは\"Complicated\"領域に対応しており、具体的な分析やシミュレーションが行われ、関係者やリソースの整理が進められます。\n\n現実的な構造形成（右）\n最後の図は、プロジェクトが実行段階に進む前に、各要素が整理され、具体的な構造が決まっている状態を示しています。ここでは、アイデアをプロトタイプやモデルに落とし込むフェーズで、各要素が相互にどのように作用するかを見定めながら、確実な基盤を築くことが求められます。\nクネビンフレームワークの\"Simple\"領域にあたるこの段階では、確立されたベストプラクティスや定型化された手順を適用し、プロジェクトの実現可能性を確認していきます。\n\nフレームワークの応用と目的\nこのフレームワークは、プロジェクトの各段階において異なるアプローチを取ることの重要性を示しています。最初は自由な発想を重視し、次第に具体化しながら、最終的にシステムやプロセスの安定した実行を目指します。また、各フェーズでの要素（A、B、Cなど）がどのように再構築されるかを観察することで、アイデアが現実的なプロジェクトへと成長していく過程を視覚的に理解できる仕組みになっています。\n\nこのフレームワークを用いることで、プロジェクトの初期段階から実行段階まで、最適なアプローチを選択できるだけでなく、関係者との認識の共有や課題の発見も容易になります。特に、抽象的なアイデアから具体的なアクションプランに移行する際のギャップを埋めるための強力なツールとなります。\n\n以上のように、このフレームワークは単なる思考ツールとしてではなく、実際のプロジェクト推進やチーム内のコミュニケーションの土台としても活用できるものです。```\n*1枚目の枠を世の中と定義したときの考え(上記の拡張版)*\n```世の中の複雑性と多様な構成要素の相互作用\nこの図は、世の中を構成するさまざまな要素（A、B、C、D…）が、相互に影響を与え合いながら存在している状態を表しています。各要素は、企業、組織、人、情報、文化、技術、環境など、社会におけるさまざまなエンティティを象徴しています。それらは、特定のルールや秩序の中に完全に収まることなく、状況に応じて自由に変化・発展しているのです。\n\n1枚目の図は、この「秩序と無秩序が同居する社会の姿」を示しており、世の中が一枚岩ではなく、複雑なネットワークや相互作用によって成り立っていることを視覚化しています。\n\n社会の階層と段階的な秩序形成\n図の3つのエリアは、社会が「カオス」「複雑」「秩序」といった段階にまたがって存在していることを表しています。\n\nカオス領域（左の図）\nこの領域は、世の中の「無秩序」や「混沌」を表しています。ここでは、構成要素が不規則で予測不可能な形で相互作用しており、ルールや法則も不安定です。例えば、自然災害や経済の突然の変動、予測不能な技術革新などは、社会においてカオス的な要素として影響を及ぼします。こうした状況では、一般的なルールや方法が通用しないため、即時対応や即興的なアプローチが必要です。\n\n複雑領域（中央の図）\nこの領域は、社会の中である程度の秩序が形成され始めた状態を表します。個々の構成要素が独自のルールや枠組みを持ちながらも、全体としては秩序と無秩序が共存しており、解決策を探るにはプロトタイピングや実験的なアプローチが求められます。例えば、異なる業界や文化が交差するグローバル社会、複雑なビジネスエコシステムなどは、分析を通じて相互関係を探る必要がある「複雑」な領域に該当します。\n\n秩序領域（右の図）\n最終的に、ある程度のルールやベストプラクティスが確立された「秩序」の状態に移行します。この段階では、各要素が明確な役割を持ち、既存のルールに基づいて効率よく機能しています。例えば、日常のルーチン業務や確立されたビジネスプロセス、定型化された社会インフラはこの秩序領域に属します。この領域では、標準化された方法やプロセスが機能しやすくなります。\n\n世の中における柔軟な適応と変化への対応\nこの図からわかるのは、世の中が常に秩序ある「単純な状態」にとどまっているわけではなく、カオスと秩序が流動的に入り混じりながら、様々な要因によって変化しているということです。人々や組織は、この変動する社会の中で、状況に応じた対応や適応を行う必要があります。例えば、新しい技術や外部からのインパクトによって、社会が突然カオスに転じることもあります。このような状況に備えるために、柔軟な思考と多様なアプローチが求められます。\n\n世の中の理解と戦略的対応のためのフレームワーク\nこの図を通して、世の中の複雑性を理解するためのフレームワークを提供しています。特に、企業や組織が新しいアイデアや戦略を立てる際に、このような世の中のカオスと秩序を捉え、適切な領域に応じた対応を選択することで、現実的なプロジェクトや戦略を効果的に実行できるようになるでしょう。\n\nこの図は、世の中の複雑で動的な性質を可視化し、社会が常に一定の法則に従って動いているわけではないことを示しています。このような複雑な環境の中で、秩序とカオスのバランスを取りながら柔軟に対応する力が、現代社会で成功するためには重要です。```\n僕の会社としても、この考え方をDX事業部のコンサルタントのために導入できるようにしたいと考えています:eyes:\n\n&gt; もちろん、案件次第なので、最初から制約を確定した上で進めるのも、あえて自由な発想から少しずつ形にするのも、適宜使い分けができるといいっすね\n受託案件の多くは、最初からコストやスケジュールが決まっていて、制約の中でストレスを感じながらも、アジャイル的な思考で柔軟に開発を進められればと思っています。ただ、クライアントにその理解を求めるのは難しく、日本企業ではウォーターフォール型の進め方が主流で、予定通りに進行することが求められがちです。頭では「やってみないとわからない」ことの重要性が理解されていても、実際には納得されていない部分が多いと感じます。\n\n&gt; というか、iDeaって「ぱっとみ実現不可能っぽいアイデアを実現するためのプロダクトを創出して、それを使ったユーザーが新しい体験をできるようにする」ための会社なのかな、とかも思ったり。\n僕たちの会社では、「実現不可能」と思われているアイデアでも、新しい視点や特徴を見つけることで実現に向けた道筋を探したいです。そのためにも、自社プロダクトを作り、自由に発想したアイデアが形になる環境を自分たちで築いていきたいと考えています！",
+        "files": [
+          {
+            "id": "F07UH3N8Q2D",
+            "created": 1730286652,
+            "timestamp": 1730286652,
+            "name": "IMG_1433 2.JPG",
+            "title": "IMG_1433 2.JPG",
+            "mimetype": "image/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 1913236,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07UH3N8Q2D/img_1433_2.jpg",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07UH3N8Q2D/download/img_1433_2.jpg",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_64.jpg",
+            "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_80.jpg",
+            "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_360.jpg",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_480.jpg",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_160.jpg",
+            "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_720.jpg",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_800.jpg",
+            "thumb_800_w": 800,
+            "thumb_800_h": 1067,
+            "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_960.jpg",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3N8Q2D-0eac31a26d/img_1433_2_1024.jpg",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "original_w": 3024,
+            "original_h": 4032,
+            "thumb_tiny": "AwAwACRti2Ek/OroqhY8mQf7NXgflBpDHZpAc0lJkDk0AOFFJRQBS0//AFjf7tXcfIKoWB/ff8BrQ7UCEPTFIRkYFFGcdaBimijOaKAM+yOJvwNaNZMMhjcMBmtCKYOuThT6ZoYiSkIyMUhkT+8v503zY/76/nQMkXgc0uR61Hlf7woyn94UAf/Z",
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07UH3N8Q2D/img_1433_2.jpg",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F07UH3N8Q2D-e087e24721",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          },
+          {
+            "id": "F07UH3NNMDF",
+            "created": 1730286660,
+            "timestamp": 1730286660,
+            "name": "IMG_1432 2.JPG",
+            "title": "IMG_1432 2.JPG",
+            "mimetype": "image/jpeg",
+            "filetype": "jpg",
+            "pretty_type": "JPEG",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 3466772,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07UH3NNMDF/img_1432_2.jpg",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07UH3NNMDF/download/img_1432_2.jpg",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_64.jpg",
+            "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_80.jpg",
+            "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_360.jpg",
+            "thumb_360_w": 270,
+            "thumb_360_h": 360,
+            "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_480.jpg",
+            "thumb_480_w": 360,
+            "thumb_480_h": 480,
+            "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_160.jpg",
+            "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_720.jpg",
+            "thumb_720_w": 540,
+            "thumb_720_h": 720,
+            "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_800.jpg",
+            "thumb_800_w": 800,
+            "thumb_800_h": 1067,
+            "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_960.jpg",
+            "thumb_960_w": 720,
+            "thumb_960_h": 960,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07UH3NNMDF-c526043df9/img_1432_2_1024.jpg",
+            "thumb_1024_w": 768,
+            "thumb_1024_h": 1024,
+            "original_w": 3024,
+            "original_h": 4032,
+            "thumb_tiny": "AwAwACSzjKA0YH93NJ/AufSnBcjPSkMawHrtpQB65pcDAzk0zHzdKAHbB60bB60DgYpcigBgzgAelPB49KYp5Ap+0UAJkYFNz8xzj8acV44pR05oAaW+lG72pHPzUmT60ARiRR/+qnpJuNZO9vU/nThIw/iP50xGxuoDZNZHmv8A3m/OlE8g6O350gNJpI88uv50nmRf31/OsvNJmmB//9k=",
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07UH3NNMDF/img_1432_2.jpg",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F07UH3NNMDF-0aa4df346a",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          }
+        ],
+        "upload": false,
+        "user": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "tj9GU",
+            "elements": [
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "うーん、その考え方はメリットもあるしデメリットもあるからなぁ。\n\n久末は、最初のアイデア自体（机上の空論段階で考える）は別に大きくてもいいと思っている派です。\nで、実行する際にそのアイデアを現実に持ってくるためにどうすればいいか、という工夫を凝らすことが必要になるかと思います。"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "僕も最初の段階では空想段階で良いと考えています。そちらの方が面白いですが、ただ変数が無限にあるため、それらを定義できない人がフレームワークを単なるツールとして使うのは難しいですよね…。\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "その時に、いろんな専門家たちが集まり、議論し、現実的にできるところから少しずつ形にしていく、というのが理想系ではないでしょうか？"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "僕の会社は、さまざまなスペシャリストがチームを組んで、少人数精鋭で多様な事業を展開していきたいと考えています。その分野の現実を深く理解しているのが専門家だと思うので、そうした力は今後も必要になってきます。\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "・・・というのが、アジャイル開発の考えのベースになっていると僕は思いますよ"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "wink",
+                    "unicode": "1f609"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nクネビンフレームワーク、Complexな問題、アジャイル、みたいなワードで調べると、何かヒントがもらえるかもっすね。"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "クネビンフレームワークについて先ほど調べました。これは、状況を分類し観測するためのフレームワークで、複雑な世界そのものを観測可能なものとして捉える方法だと理解しました。同時に、このフレームワークを使ってどのように複雑な問題を見極め、整理するかも考えてみました。\n\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "1枚目の枠をプロジェクトと定義したときの考え",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_preformatted",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "フレームワークの概要\n\nこのフレームワークは、プロジェクトやアイデアを異なるフェーズやコンセプトに応じて整理し、それぞれの段階で適切なアプローチを選択できるように設計されています。基本的な要素（A、B、C、Dなど）は、プロジェクトのアイデアや要件、リソース、ステークホルダーなど、さまざまなエンティティを表しており、これらがどのように構成されているかに応じて、プロジェクト全体の構造が異なってきます。\n\n各フェーズの説明\n構想段階（左）\n\n最初の図（A、B、C、Dの要素が自由に配置されている領域）は、アイデアや構想がまだ抽象的で、具体的な形が定まっていない「空想」や「発想」段階を示しています。この段階では、制約にとらわれずに新しいアイデアを自由に出し合うことが求められます。\nクネビンフレームワークの\"Chaos\"や\"Complex\"に対応し、まだ確立された構造や明確なゴールがない中で、可能性を探るための試行錯誤が行われます。\n\n抽象から具体への移行（中央）\n2つ目の図は、構想を現実に持ってくるために要素が再配置され、より具体的な形を帯び始めているフェーズを示しています。この段階では、各要素の関係性や役割を定義し、どの部分から取り組むべきかを探りながらプロジェクト全体を形作っていきます。\nこのフェーズは\"Complicated\"領域に対応しており、具体的な分析やシミュレーションが行われ、関係者やリソースの整理が進められます。\n\n現実的な構造形成（右）\n最後の図は、プロジェクトが実行段階に進む前に、各要素が整理され、具体的な構造が決まっている状態を示しています。ここでは、アイデアをプロトタイプやモデルに落とし込むフェーズで、各要素が相互にどのように作用するかを見定めながら、確実な基盤を築くことが求められます。\nクネビンフレームワークの\"Simple\"領域にあたるこの段階では、確立されたベストプラクティスや定型化された手順を適用し、プロジェクトの実現可能性を確認していきます。\n\nフレームワークの応用と目的\nこのフレームワークは、プロジェクトの各段階において異なるアプローチを取ることの重要性を示しています。最初は自由な発想を重視し、次第に具体化しながら、最終的にシステムやプロセスの安定した実行を目指します。また、各フェーズでの要素（A、B、Cなど）がどのように再構築されるかを観察することで、アイデアが現実的なプロジェクトへと成長していく過程を視覚的に理解できる仕組みになっています。\n\nこのフレームワークを用いることで、プロジェクトの初期段階から実行段階まで、最適なアプローチを選択できるだけでなく、関係者との認識の共有や課題の発見も容易になります。特に、抽象的なアイデアから具体的なアクションプランに移行する際のギャップを埋めるための強力なツールとなります。\n\n以上のように、このフレームワークは単なる思考ツールとしてではなく、実際のプロジェクト推進やチーム内のコミュニケーションの土台としても活用できるものです。"
+                  }
+                ],
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "1枚目の枠を世の中と定義したときの考え(上記の拡張版)",
+                    "style": {
+                      "bold": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_preformatted",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "世の中の複雑性と多様な構成要素の相互作用\nこの図は、世の中を構成するさまざまな要素（A、B、C、D…）が、相互に影響を与え合いながら存在している状態を表しています。各要素は、企業、組織、人、情報、文化、技術、環境など、社会におけるさまざまなエンティティを象徴しています。それらは、特定のルールや秩序の中に完全に収まることなく、状況に応じて自由に変化・発展しているのです。\n\n1枚目の図は、この「秩序と無秩序が同居する社会の姿」を示しており、世の中が一枚岩ではなく、複雑なネットワークや相互作用によって成り立っていることを視覚化しています。\n\n社会の階層と段階的な秩序形成\n図の3つのエリアは、社会が「カオス」「複雑」「秩序」といった段階にまたがって存在していることを表しています。\n\nカオス領域（左の図）\nこの領域は、世の中の「無秩序」や「混沌」を表しています。ここでは、構成要素が不規則で予測不可能な形で相互作用しており、ルールや法則も不安定です。例えば、自然災害や経済の突然の変動、予測不能な技術革新などは、社会においてカオス的な要素として影響を及ぼします。こうした状況では、一般的なルールや方法が通用しないため、即時対応や即興的なアプローチが必要です。\n\n複雑領域（中央の図）\nこの領域は、社会の中である程度の秩序が形成され始めた状態を表します。個々の構成要素が独自のルールや枠組みを持ちながらも、全体としては秩序と無秩序が共存しており、解決策を探るにはプロトタイピングや実験的なアプローチが求められます。例えば、異なる業界や文化が交差するグローバル社会、複雑なビジネスエコシステムなどは、分析を通じて相互関係を探る必要がある「複雑」な領域に該当します。\n\n秩序領域（右の図）\n最終的に、ある程度のルールやベストプラクティスが確立された「秩序」の状態に移行します。この段階では、各要素が明確な役割を持ち、既存のルールに基づいて効率よく機能しています。例えば、日常のルーチン業務や確立されたビジネスプロセス、定型化された社会インフラはこの秩序領域に属します。この領域では、標準化された方法やプロセスが機能しやすくなります。\n\n世の中における柔軟な適応と変化への対応\nこの図からわかるのは、世の中が常に秩序ある「単純な状態」にとどまっているわけではなく、カオスと秩序が流動的に入り混じりながら、様々な要因によって変化しているということです。人々や組織は、この変動する社会の中で、状況に応じた対応や適応を行う必要があります。例えば、新しい技術や外部からのインパクトによって、社会が突然カオスに転じることもあります。このような状況に備えるために、柔軟な思考と多様なアプローチが求められます。\n\n世の中の理解と戦略的対応のためのフレームワーク\nこの図を通して、世の中の複雑性を理解するためのフレームワークを提供しています。特に、企業や組織が新しいアイデアや戦略を立てる際に、このような世の中のカオスと秩序を捉え、適切な領域に応じた対応を選択することで、現実的なプロジェクトや戦略を効果的に実行できるようになるでしょう。\n\nこの図は、世の中の複雑で動的な性質を可視化し、社会が常に一定の法則に従って動いているわけではないことを示しています。このような複雑な環境の中で、秩序とカオスのバランスを取りながら柔軟に対応する力が、現代社会で成功するためには重要です。"
+                  }
+                ],
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "僕の会社としても、この考え方をDX事業部のコンサルタントのために導入できるようにしたいと考えています"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "eyes",
+                    "unicode": "1f440"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "もちろん、案件次第なので、最初から制約を確定した上で進めるのも、あえて自由な発想から少しずつ形にするのも、適宜使い分けができるといいっすね"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "受託案件の多くは、最初からコストやスケジュールが決まっていて、制約の中でストレスを感じながらも、アジャイル的な思考で柔軟に開発を進められればと思っています。ただ、クライアントにその理解を求めるのは難しく、日本企業ではウォーターフォール型の進め方が主流で、予定通りに進行することが求められがちです。頭では「やってみないとわからない」ことの重要性が理解されていても、実際には納得されていない部分が多いと感じます。\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "というか、iDeaって「ぱっとみ実現不可能っぽいアイデアを実現するためのプロダクトを創出して、それを使ったユーザーが新しい体験をできるようにする」ための会社なのかな、とかも思ったり。"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "僕たちの会社では、「実現不可能」と思われているアイデアでも、新しい視点や特徴を見つけることで実現に向けた道筋を探したいです。そのためにも、自社プロダクトを作り、自由に発想したアイデアが形になる環境を自分たちで築いていきたいと考えています！"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "subtype": "thread_broadcast",
+        "root": {
+          "user": "U068Q5LCTG9",
+          "type": "message",
+          "ts": "1730219525.279729",
+          "client_msg_id": "17F042FF-BA0D-4417-B5CD-842280A03174",
+          "text": "<https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1|https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1>",
+          "team": "T0688JH4ALV",
+          "thread_ts": "1730219525.279729",
+          "reply_count": 9,
+          "reply_users_count": 3,
+          "latest_reply": "1730286889.237579",
+          "reply_users": [
+            "U07R0SR8MDL",
+            "U068Q5LCTG9",
+            "U07RF4825M1"
+          ],
+          "is_locked": false,
+          "subscribed": false,
+          "attachments": [
+            {
+              "from_url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+              "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+              "thumb_url": "https://i.ytimg.com/vi/YFWGyOmzKpE/hqdefault.jpg",
+              "thumb_width": 480,
+              "thumb_height": 360,
+              "video_html": "<iframe width=\"400\" height=\"225\" src=\"https://www.youtube.com/embed/YFWGyOmzKpE?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】\"></iframe>",
+              "video_html_width": 400,
+              "video_html_height": 225,
+              "id": 1,
+              "original_url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+              "fallback": "YouTube Video: 【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】",
+              "title": "【Mr.サンデー】約20億円を約270万円に予算削減 都営地下鉄が行った “ホームドア革命”とは【リアルストーリー】",
+              "title_link": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+              "author_name": "FNNプライムオンライン",
+              "author_link": "https://www.youtube.com/@FNNnewsCH",
+              "service_name": "YouTube",
+              "service_url": "https://www.youtube.com/"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "fEW19",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1",
+                      "text": "https://youtu.be/YFWGyOmzKpE?si=4Z80PXm5zQXpsTa1"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "type": "message",
+        "ts": "1730286889.237579",
+        "client_msg_id": "9f44340e-aedb-4719-a9c5-2fd8f9684208",
+        "thread_ts": "1730219525.279729",
+        "parent_user_id": "U068Q5LCTG9"
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730005510.616069",
+    "edited": {
+      "user": "U068Q5LCTG9",
+      "ts": "1730005919.000000"
+    },
+    "client_msg_id": "58bdfcff-0038-4e59-8167-b77d7528e470",
+    "text": "溜まってる返信順次返していきます\n某プロジェクトの合宿全然出れなかった\nすまん、こうせい:pray:",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1730005510.616069",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1730100895.764029",
+    "reply_users": [
+      "U07PN4G7FEX",
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kPhJc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "溜まってる返信順次返していきます\n某プロジェクトの合宿全然出れなかった\nすまん、こうせい"
+              },
+              {
+                "type": "emoji",
+                "name": "pray",
+                "unicode": "1f64f"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U07PN4G7FEX",
+        "type": "message",
+        "ts": "1730080691.476789",
+        "client_msg_id": "C9445005-2420-4CBC-8793-F0B3062126B3",
+        "text": "2月こそ来てください :saluting_face: ",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730005510.616069",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "FgjiW",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "2月こそ来てください "
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "saluting_face",
+                    "unicode": "1fae1"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730100895.764029",
+        "client_msg_id": "134262a5-f04b-4218-b14d-9da2f9e94767",
+        "text": "2月はそれぞれの企業でやるんでしょ？\nあと、2年後には我々の会社でも発表できるような環境になっていて欲しいねぇ",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730005510.616069",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "t6xB6",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "2月はそれぞれの企業でやるんでしょ？\nあと、2年後には我々の会社でも発表できるような環境になっていて欲しいねぇ"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "",
+    "files": [
+      {
+        "id": "F07TPJ3R19P",
+        "created": 1729762164,
+        "timestamp": 1729762164,
+        "name": "IMG_1331.jpg",
+        "title": "IMG_1331",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1362480,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07TPJ3R19P/img_1331.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07TPJ3R19P/download/img_1331.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TPJ3R19P-24cd4165d7/img_1331_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACSC1UIhlYA54UH+dPOXk6kk85NDABUQ/dCjP86TfjaRn8u1TJ20RSVwKtzwDTudm187T3/u0jOfvKv509fnjHqaSkwaKwnltyYxjg9+aX7bN6j8qmFukwyzYK/LR9ii/vVQhB86K3qooUEjGPxpls+RsBw2cr/hS+YysQR1qZK40yRhjotOjUqx9OtNWXC5HWo2uGHyrjJ/MVNh3GeY2WKE4Jo8yT1pmccCjdVakjBU32gMMSqW/wBoHn/69LFCGXJNQuoycVVwLEJD9GI/4DUyrHtOMehJGT9Kq2+VXcD3NTplZMHH0pX6FNdSCa3KyfIMimeTJ/dq1POqSYPXFR/alpkn/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07TPJ3R19P/img_1331.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07TPJ3R19P-4c55c8998e",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F07T493R4PQ",
+        "created": 1729762164,
+        "timestamp": 1729762164,
+        "name": "IMG_1330.jpg",
+        "title": "IMG_1330",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 844462,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07T493R4PQ/img_1330.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07T493R4PQ/download/img_1330.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07T493R4PQ-b77b05f1ad/img_1330_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACSFYRJGCvHuad9jjQDcSc++KsZAAbgY96VzycHBAzx1pAlYg+xxnplf+BVDJasBlDuHp3q22HClsgN0PQg0D5cdBmgZmUVoSWqSsWDbc9cDrTfsSf8APQ/lQBKURSwU/MR0zUfm524z82ByOop6yZckIcZABBpDCoVk5BGSCo60gGKsvzgy/MCCMdPepw7bTg7yR26ZqKNAxV04DfK244ximlWRjHH9wH1oAmThQMflS59jQCqgB3APvRvj/wCei/nVWAYYw3zKQR7VHsbIDbgvsaprKyHKsQfY1ILyYfxA/UUrILlkwAjHzE9snOKcxSEZPLelVFupWYbm49BxSu3HAwKAGyOXcsxyTTaTNGaLgf/Z",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07T493R4PQ/img_1330.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07T493R4PQ-8883d43ae7",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1729762173.112689",
+    "client_msg_id": "9600CF4F-544D-44B4-A0DE-C4DAD76D1019",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "<@U06V5GMK005> 使い古されてるぞ笑\n<@U07A2T2A1B6> 教科書出品します",
+    "files": [
+      {
+        "id": "F07RH8VVAN9",
+        "created": 1728713041,
+        "timestamp": 1728713041,
+        "name": "IMG_0969.jpg",
+        "title": "IMG_0969",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1173207,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07RH8VVAN9/img_0969.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07RH8VVAN9/download/img_0969.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 600,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07RH8VVAN9-009281c683/img_0969_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "original_w": 4032,
+        "original_h": 3024,
+        "thumb_tiny": "AwAkADBk0j7lI6DpmpY5l289SKQwIBkuPzzURz6UWuF7FkvgZKjBNLuGMcr/ACqsJdqhfXsRViMK6ktuOe4qbF8wySU78Dt1pPOHcGnm2DH5JAT6HrUMkLR/eH41RBWLNjAzUjLI4AAwO5zT1X5uADUwQsMMTjritJe7oRH3tSm8RjYAkH6VJDIwIGelNuMb8LjA9O9IjLtJxj35NQnYpouCcE/MufenOFmAAfGOgNVs4A7j1pw56VGpZKYwj4GelU5XYsVLEgGr0n+sH0rPk++31rRu5mtBhPX2oUkAqDwaD3oFJFFqI/In1xSuoB44yKbF9xP96nydR9KQ46s//9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07RH8VVAN9/img_0969.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07RH8VVAN9-1e699b658b",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "1YuBJ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06V5GMK005"
+              },
+              {
+                "type": "text",
+                "text": " 使い古されてるぞ笑\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U07A2T2A1B6"
+              },
+              {
+                "type": "text",
+                "text": " 教科書出品します"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1728713063.427799",
+    "client_msg_id": "38B1A9FF-9686-456A-A552-6A65B39D843E"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1727652433.619459",
+    "client_msg_id": "9DB06B56-78C8-4C37-82EA-7C43EF3B4309",
+    "text": "函館着\n札幌向かいます",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Rg60c",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "函館着\n札幌向かいます"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1727102584.821209",
+    "client_msg_id": "64e1f95f-b775-47aa-b367-68f028e2ef5a",
+    "text": "<https://kazeniwa.net/penguin/697>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://kazeniwa.net/penguin/697",
+        "ts": 1665993600,
+        "image_url": "https://kazeniwa.net/penguin/asset/Twitterコミュニティ機能方法-9.png",
+        "image_width": 1200,
+        "image_height": 630,
+        "image_bytes": 721859,
+        "service_icon": "https://kazeniwa.net/penguin/share/images/ios.png",
+        "id": 1,
+        "original_url": "https://kazeniwa.net/penguin/697",
+        "fallback": "ペンギン: 「6次の隔たり」とは？「5人を介すと誰とでも繋がれる」理論はSNSでどう変わったのか",
+        "text": "誰とでも5人を介せば繋がれる。あなたの知っている有名人や、あの著名な作家ともたった5人で繋がることのできる世界。そんな世界があったらどうしますか？実は、私たちはもうそんな世界にいるのかもしれません。",
+        "title": "「6次の隔たり」とは？「5人を介すと誰とでも繋がれる」理論はSNSでどう変わったのか",
+        "title_link": "https://kazeniwa.net/penguin/697",
+        "service_name": "ペンギン"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Ygs4a",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://kazeniwa.net/penguin/697"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1727100487.054319",
+    "client_msg_id": "ba1b8487-201b-4296-93cf-c527af768b0a",
+    "text": "<https://note.com/kshinzawa/n/nb8df99015714>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://note.com/kshinzawa/n/nb8df99015714",
+        "image_url": "https://assets.st-note.com/production/uploads/images/93148297/rectangle_large_type_2_baf199a0a12b384b772161dd069c6f15.png?fit=bounds&quality=85&width=1280",
+        "image_width": 1280,
+        "image_height": 670,
+        "image_bytes": 356777,
+        "service_icon": "https://assets.st-note.com/poc-image/manual/note-common-images/production/icons/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://note.com/kshinzawa/n/nb8df99015714",
+        "fallback": "note（ノート）: 人生の成功は才能ではなく運で決まる｜新澤健一郎",
+        "text": "2022イグノーベル賞、経済学賞テーマ『「能力ある人ではなく運のいい人が成功する理由を数学的に説明』の解説動画。 最近見た中で一番面白かった～ 動画で扱っている論文ははこちら。 \n\nTALENT VERSUS LUCK: THE ROLE OF RANDOMNESS IN SUCCESS AND FAILURE | Advances in Complex Systems\n\n<http://www.worldscientific.com|www.worldscientific.com>\n\n \n イグ・ノーベル賞って面白いですね。 \n\n面白くて考えさせられる研究に贈られるイグノーベル賞2022年度受賞者まとめ、連続16人目の日本人",
+        "title": "人生の成功は才能ではなく運で決まる｜新澤健一郎",
+        "title_link": "https://note.com/kshinzawa/n/nb8df99015714",
+        "service_name": "note（ノート）"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "yUQR7",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://note.com/kshinzawa/n/nb8df99015714"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1726736146.039989",
+    "client_msg_id": "eaa3090a-3b1c-4056-89ab-8865d20ebeab",
+    "text": "<https://www.daiwahouse.co.jp/sustainable/sustainable_journey/about_ethical/#:~:text=%E3%82%A8%E3%82%B7%E3%82%AB%E3%83%AB%E3%81%A8%E3%81%AF%E3%80%81%E3%80%8C%E6%B3%95%E5%BE%8B%E3%81%A7,%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%88%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%80%82|https://www.daiwahouse.co.jp/sustainable/sustainable_journey/about_ethical/#:~:text=%E3%82%A8%E3%82%B7%E3%82%A[…]E3%81%97%E3%82%87%E3%81%86%E3%80%82>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://www.daiwahouse.co.jp/sustainable/sustainable_journey/about_ethical/#:~:text=%E3%82%A8%E3%82%B7%E3%82%AB%E3%83%AB%E3%81%A8%E3%81%AF%E3%80%81%E3%80%8C%E6%B3%95%E5%BE%8B%E3%81%A7,%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%88%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%80%82",
+        "image_url": "https://www.daiwahouse.co.jp/sustainable/sustainable_journey/topics/ethical/images/___facebook.jpg",
+        "image_width": 1200,
+        "image_height": 630,
+        "image_bytes": 232224,
+        "service_icon": "https://www.daiwahouse.co.jp/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.daiwahouse.co.jp/sustainable/sustainable_journey/about_ethical/#:~:text=%E3%82%A8%E3%82%B7%E3%82%AB%E3%83%AB%E3%81%A8%E3%81%AF%E3%80%81%E3%80%8C%E6%B3%95%E5%BE%8B%E3%81%A7,%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%88%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%80%82",
+        "fallback": "大和ハウス工業オフィシャルサイト: エシカルとは？〜エシカル消費の押さえておきたい4つのポイント！〜｜サステナブルジャーニー｜大和ハウス工業",
+        "text": "「倫理的な」を意味する「エシカル」という言葉。最近は、環境保全や地域・社会への考慮という文脈で用いられています。では「エシカル消費」とは一体なんでしょうか？実は「エシカル」を心がけるだけで社会問題解決の第一歩につながっているようです。",
+        "title": "エシカルとは？〜エシカル消費の押さえておきたい4つのポイント！〜｜サステナブルジャーニー｜大和ハウス工業",
+        "title_link": "https://www.daiwahouse.co.jp/sustainable/sustainable_journey/about_ethical/#:~:text=%E3%82%A8%E3%82%B7%E3%82%AB%E3%83%AB%E3%81%A8%E3%81%AF%E3%80%81%E3%80%8C%E6%B3%95%E5%BE%8B%E3%81%A7,%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%88%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%80%82",
+        "service_name": "大和ハウス工業オフィシャルサイト"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Rdyr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.daiwahouse.co.jp/sustainable/sustainable_journey/about_ethical/#:~:text=%E3%82%A8%E3%82%B7%E3%82%AB%E3%83%AB%E3%81%A8%E3%81%AF%E3%80%81%E3%80%8C%E6%B3%95%E5%BE%8B%E3%81%A7,%E3%81%A0%E3%81%A8%E8%A8%80%E3%81%88%E3%82%8B%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%80%82",
+                "text": "https://www.daiwahouse.co.jp/sustainable/sustainable_journey/about_ethical/#:~:text=%E3%82%A8%E3%82%B7%E3%82%A[…]E3%81%97%E3%82%87%E3%81%86%E3%80%82"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

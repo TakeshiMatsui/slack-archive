@@ -1,0 +1,3734 @@
+[
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733899698.112479",
+    "edited": {
+      "user": "U068Q5LCTG9",
+      "ts": "1733900017.000000"
+    },
+    "client_msg_id": "d1ce9a84-47c3-4314-9883-c4fbd439acdc",
+    "text": "<@U06FYMZJ2Q2>\nテキストで都度進捗しているとはいえ、全体の話や現状の問題点/今後のタスクを整理する時間を佐々木も一緒に確認して整理する時間が欲しいので、財務/会計/経理の時間をまとめて30分〜1時間は毎週欲しいです。",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1733899698.112479",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1733900116.352729",
+    "reply_users": [
+      "U068Q5LCTG9",
+      "U06FYMZJ2Q2"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "TwQ0+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nテキストで都度進捗しているとはいえ、全体の話や現状の問題点/今後のタスクを整理する時間を佐々木も一緒に確認して整理する時間が欲しいので、財務/会計/経理の時間をまとめて30分〜1時間は毎週欲しいです。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1733899936.477519",
+        "client_msg_id": "8a31cf97-3652-40f4-b290-e87fcaf26d15",
+        "text": "いつがよろしいですか？\nそして、:frog:さんから差し入れのペローチェコーヒーとお菓子がありますよ",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733899698.112479",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "16o0T",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "いつがよろしいですか？\nそして、"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "frog",
+                    "unicode": "1f438"
+                  },
+                  {
+                    "type": "text",
+                    "text": "さんから差し入れのペローチェコーヒーとお菓子がありますよ"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1733900033.145129",
+        "client_msg_id": "5c59b659-0785-4037-880d-903e01062148",
+        "text": "今週は厳しいですね",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733899698.112479",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "OJ08V",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "今週は厳しいですね"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1733900116.352729",
+        "client_msg_id": "469db5c4-2034-424d-a9f6-b8e5ac59ad3b",
+        "text": "毎週設定してください。\nというか君のスケジュールがパンパンすぎるから、会社として優先順位を付けて削除して欲しいのもあるし、他の人にタスクを振れるならそうして欲しいので、一度作業をしない全体整理する時間を設けましょう",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733899698.112479",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "uFSr3",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "毎週設定してください。\nというか君のスケジュールがパンパンすぎるから、会社として優先順位を付けて削除して欲しいのもあるし、他の人にタスクを振れるならそうして欲しいので、一度作業をしない全体整理する時間を設けましょう"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "80_financal_management_field",
+    "name": "80_financal-management_field",
+    "text": "チャンネル名を「80_financal_management_field」から「80_financal-management_field」に変更しました",
+    "type": "message",
+    "ts": "1732878962.675749"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "80_accounting-financal_management_field",
+    "name": "80_financal_management_field",
+    "text": "チャンネル名を「80_accounting-financal_management_field」から「80_financal_management_field」に変更しました",
+    "type": "message",
+    "ts": "1732877083.190629"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "40_accounting-finance_general",
+    "name": "80_accounting-financal_management_field",
+    "text": "チャンネル名を「40_accounting-finance_general」から「80_accounting-financal_management_field」に変更しました",
+    "type": "message",
+    "ts": "1732877074.075789"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732779031.940499",
+    "client_msg_id": "1a10e79f-6959-43c0-83ae-ec1968a7118d",
+    "text": "ないです",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "BmrII",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ないです"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732778909.568249",
+    "client_msg_id": "11a70254-1fc9-48ea-b9eb-a515daf5088b",
+    "text": "<@U068Q5LCTG9>\nお疲れさまです。\n勘定科目の設定の件で1点ご確認です。\n<@U081Q6XTNHZ> くんに効率良く勘定科目のリストを作成していただくために、何か既存のものを活用したいのですが、GoogleDrive上に活用できるファイルが格納されてないでしょうか？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "gr927",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": "\nお疲れさまです。\n勘定科目の設定の件で1点ご確認です。\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U081Q6XTNHZ"
+              },
+              {
+                "type": "text",
+                "text": " くんに効率良く勘定科目のリストを作成していただくために、何か既存のものを活用したいのですが、GoogleDrive上に活用できるファイルが格納されてないでしょうか？"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732604397.239969",
+    "client_msg_id": "a91da332-9525-41bd-ba41-54e4d27e5179",
+    "text": "<@U06FYMZJ2Q2>\n松尾研の節税についてのまとめ\n<https://www.notion.so/Deep-SU-735f8bd4b65347a48ac6b7576cb9f1ce?pvs=4>\n\n割と今期黒字になる可能性ありなので、赤字になるように来期以降の投資に回しちゃいたい。\n経営セーフティーネット共済という制度があるみたい。来年度からどうせ税金で取られるなら活用することも視野に入れたいので、確認しておいて。\n<https://kyosai-web.smrj.go.jp/index.html>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://kyosai-web.smrj.go.jp/index.html",
+        "service_icon": "https://kyosai-web.smrj.go.jp/content/000003334.png",
+        "id": 1,
+        "original_url": "https://kyosai-web.smrj.go.jp/index.html",
+        "fallback": "共済サポート navi | 共済サポート navi",
+        "text": "皆様の安心をサポートする国の共済制度です。中小機構は、国の中小企業政策の中核的な実施機関として、起業・創業期から成長期、成熟期に至るまで、企業の成長ステージに合わせた幅広い支援メニューを提供しています。",
+        "title": "共済サポート navi | 共済サポート navi",
+        "title_link": "https://kyosai-web.smrj.go.jp/index.html",
+        "service_name": "kyosai-web.smrj.go.jp"
+      },
+      {
+        "id": 2,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1732604100,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/Deep-SU-735f8bd4b65347a48ac6b7576cb9f1ce?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "【Deepα企業/松尾研発SU限定】節税についてまとめ",
+        "text": "このドキュメントの位置づけ",
+        "title": "【Deepα企業/松尾研発SU限定】節税についてまとめ",
+        "title_link": "https://www.notion.so/Deep-SU-735f8bd4b65347a48ac6b7576cb9f1ce?pvs=6&utm_content=735f8bd4-b653-47a4-8ac6-b7576cb9f1ce&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "pnQ/S",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n松尾研の節税についてのまとめ\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/Deep-SU-735f8bd4b65347a48ac6b7576cb9f1ce?pvs=4"
+              },
+              {
+                "type": "text",
+                "text": "\n\n割と今期黒字になる可能性ありなので、赤字になるように来期以降の投資に回しちゃいたい。\n経営セーフティーネット共済という制度があるみたい。来年度からどうせ税金で取られるなら活用することも視野に入れたいので、確認しておいて。\n"
+              },
+              {
+                "type": "link",
+                "url": "https://kyosai-web.smrj.go.jp/index.html"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732604218.112699"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732603332.483999",
+    "client_msg_id": "7965b4a8-8e32-4004-ad9f-5ac3690dba90",
+    "text": "<@U06FYMZJ2Q2> 昨日できなかった会議の別日で日程調整したい。そして、確実に行ける日を教えて。\n流石にリスケが多すぎる。その時間確保して別な仕事の打ち合わせを入れなかったりして、仕事が進まんから頼みます。\n研究も忙しいのわかるが、一報の連絡だけはお願いします",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1732603332.483999",
+    "reply_count": 3,
+    "reply_users_count": 2,
+    "latest_reply": "1732630517.795729",
+    "reply_users": [
+      "U06FYMZJ2Q2",
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2Bsp5",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " 昨日できなかった会議の別日で日程調整したい。そして、確実に行ける日を教えて。\n流石にリスケが多すぎる。その時間確保して別な仕事の打ち合わせを入れなかったりして、仕事が進まんから頼みます。\n研究も忙しいのわかるが、一報の連絡だけはお願いします"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732613742.213469",
+        "client_msg_id": "66612037-997c-4364-9573-257d1817b0f1",
+        "text": "<@U068Q5LCTG9>\nこちらも\n・木曜日の19:15〜21:30\n・金曜日の10:15〜21:30\nのいずれかでいかがでしょうか...？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732603332.483999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "sxrA9",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U068Q5LCTG9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nこちらも\n・木曜日の19:15〜21:30\n・金曜日の10:15〜21:30\nのいずれかでいかがでしょうか...？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732628093.957859",
+        "client_msg_id": "1340ee6e-e3b3-40af-b21a-42cdd184016e",
+        "text": "<@U06FYMZJ2Q2>\n金曜の空いてる時間で大丈夫",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732603332.483999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "ZbbB2",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n金曜の空いてる時間で大丈夫"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "white_check_mark",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732630517.795729",
+        "client_msg_id": "F662B24E-B20D-4010-8B8A-1F932DB97E87",
+        "text": "午前中に入れておきます",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732603332.483999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "hAHwB",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "午前中に入れておきます"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "saluting_face",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732603249.313749"
+  },
+  {
+    "text": "<@U06FYMZJ2Q2> ちょっとここまで来たらめんどいから、とりあえず場所はセットアップしたのでこの後どのように申請するかはそちらでよろしく",
+    "files": [
+      {
+        "id": "F080CQZJH7W",
+        "created": 1731315911,
+        "timestamp": 1731315911,
+        "name": "スクリーンショット 2024-11-11 18.05.08.png",
+        "title": "スクリーンショット 2024-11-11 18.05.08.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 777108,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F080CQZJH7W/____________________________2024-11-11_18.05.08.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F080CQZJH7W/download/____________________________2024-11-11_18.05.08.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_360.png",
+        "thumb_360_w": 335,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_480.png",
+        "thumb_480_w": 447,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_720.png",
+        "thumb_720_w": 670,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 860,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_960.png",
+        "thumb_960_w": 893,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CQZJH7W-14d3f92ef8/____________________________2024-11-11_18.05.08_1024.png",
+        "thumb_1024_w": 953,
+        "thumb_1024_h": 1024,
+        "original_w": 1950,
+        "original_h": 2096,
+        "thumb_tiny": "AwAwACy/nBpuJf74/wC+afihvvdaSAjMcp6uv5Unkyf31/Kpfqf5UD6/yosIg+zv/fFSRoY1wTnmn5Pr+tKaaVgCkYgNzilpG4PQH8KEMTcPb86UY9vzpOvO0flSgH0H5UCAjnt+dOppbB5H6GnUDEpSCe5pKRuvX9aEAu0+po2n1NNB5+9+tO4/vGgQhyOzH8RTqYSexH50+gZ//9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F080CQZJH7W/____________________________2024-11-11_18.05.08.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F080CQZJH7W-6194cbf5d2",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "drmVZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " ちょっとここまで来たらめんどいから、とりあえず場所はセットアップしたのでこの後どのように申請するかはそちらでよろしく"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1731315963.535839",
+    "client_msg_id": "d2b3f9b2-26e2-4f9b-84cf-8cbf4257ee10",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731312972.710819",
+    "client_msg_id": "ff39596e-de5d-4d0e-93d2-b715c3801202",
+    "text": "<@U06FYMZJ2Q2>\nインボイス取得することにしました。\n稲場さんのところなどハッカソン関連で受ける案件が多くなり、今後会社として信用をどんどん得ていきたいので。消費税10％は痛いが、その分確保して資金繰りを考えれば良いだけの話。\n\nメリット、デメリット等をまとめてあるので共有します。\n<https://www.notion.so/027f6606194c481592df78e3978edaa7?pvs=4>\n\nそれに際して、インボイスの申請をネット(e-Tax)から出来るようなので申請します。\n<https://www.e-tax.nta.go.jp/start/index.htm#tabs_2>",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1731312972.710819",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1731315419.091159",
+    "reply_users": [
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "from_url": "https://www.e-tax.nta.go.jp/start/index.htm#tabs_2",
+        "service_icon": "https://www.e-tax.nta.go.jp/assets/imgs/common/apple-touch-icon-180x180.png",
+        "id": 1,
+        "original_url": "https://www.e-tax.nta.go.jp/start/index.htm#tabs_2",
+        "fallback": "ご利用の流れ | 【e-Tax】国税電子申告・納税システム(イータックス)",
+        "text": "国税電子申告・納税システム(e-Tax)の概要や手続の流れ、法令等に規定する事項など、e-Taxを利用して申告、納税及び申請・届出等を行うために必要な情報やe-Taxについてのお知らせを掲載しています。",
+        "title": "ご利用の流れ | 【e-Tax】国税電子申告・納税システム(イータックス)",
+        "title_link": "https://www.e-tax.nta.go.jp/start/index.htm#tabs_2",
+        "service_name": "e-tax.nta.go.jp"
+      },
+      {
+        "id": 2,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1731305640,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/027f6606194c481592df78e3978edaa7?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "インボイス対応",
+        "text": "ステップ1: 適格請求書発行事業者の登録申請",
+        "title": "インボイス対応",
+        "title_link": "https://www.notion.so/027f6606194c481592df78e3978edaa7?pvs=6&utm_content=027f6606-194c-4815-92df-78e3978edaa7&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Imss4",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nインボイス取得することにしました。\n稲場さんのところなどハッカソン関連で受ける案件が多くなり、今後会社として信用をどんどん得ていきたいので。消費税10％は痛いが、その分確保して資金繰りを考えれば良いだけの話。\n\nメリット、デメリット等をまとめてあるので共有します。\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/027f6606194c481592df78e3978edaa7?pvs=4"
+              },
+              {
+                "type": "text",
+                "text": "\n\nそれに際して、インボイスの申請をネット(e-Tax)から出来るようなので申請します。\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.e-tax.nta.go.jp/start/index.htm#tabs_2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1731315227.530899",
+        "client_msg_id": "70ef120b-563b-4bab-b2da-07acc7ceb2fb",
+        "text": "把握しておいて、このインボイス関連の必要な書類や作業等を\n<https://www.keisan.nta.go.jp/kyoutu/ky/sm/top#bsctrl>",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731312972.710819",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "UWaQy",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "把握しておいて、このインボイス関連の必要な書類や作業等を\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://www.keisan.nta.go.jp/kyoutu/ky/sm/top#bsctrl"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "text": "ダウンロード版ではmacは使えないから、web版で申請する税に応じてサイトを変えていく必要あり\n<https://www.e-tax.nta.go.jp/software/software.htm>",
+        "files": [
+          {
+            "id": "F080CPN3GP6",
+            "created": 1731315394,
+            "timestamp": 1731315394,
+            "name": "スクリーンショット 2024-11-11 17.56.33.png",
+            "title": "スクリーンショット 2024-11-11 17.56.33.png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 226789,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F080CPN3GP6/____________________________2024-11-11_17.56.33.png",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F080CPN3GP6/download/____________________________2024-11-11_17.56.33.png",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 207,
+            "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 277,
+            "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_160.png",
+            "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 415,
+            "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_800.png",
+            "thumb_800_w": 800,
+            "thumb_800_h": 461,
+            "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_960.png",
+            "thumb_960_w": 960,
+            "thumb_960_h": 553,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F080CPN3GP6-806da40f69/____________________________2024-11-11_17.56.33_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 590,
+            "original_w": 2402,
+            "original_h": 1384,
+            "thumb_tiny": "AwAbADCWWO6MrFC23PHzU3yrz+83/fdXiPr+FGPrSsKxSEV33L/990nlXnq//fdXgO4JozzjPNFgsUfKvP7zf990qx3YdSzNjPPzVfpD0osFg5xxRjjnFAo60xgeBxRjiiigAwcUEYFFB6UAf//Z",
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F080CPN3GP6/____________________________2024-11-11_17.56.33.png",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F080CPN3GP6-edfe5dc9d5",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          },
+          {
+            "id": "F080NUU6SSD",
+            "created": 1731315405,
+            "timestamp": 1731315405,
+            "name": "スクリーンショット 2024-11-11 17.56.43.png",
+            "title": "スクリーンショット 2024-11-11 17.56.43.png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 336375,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F080NUU6SSD/____________________________2024-11-11_17.56.43.png",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F080NUU6SSD/download/____________________________2024-11-11_17.56.43.png",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 288,
+            "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 385,
+            "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_160.png",
+            "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 577,
+            "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_800.png",
+            "thumb_800_w": 800,
+            "thumb_800_h": 641,
+            "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_960.png",
+            "thumb_960_w": 960,
+            "thumb_960_h": 769,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUU6SSD-6e0cf3993e/____________________________2024-11-11_17.56.43_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 820,
+            "original_w": 2262,
+            "original_h": 1812,
+            "thumb_tiny": "AwAmADDSHSlpB0o5HvQAtI3TjrS0hwBnFACDI5NKOR2pAQckD8aXORxQAAgAZpcim8YGcUvGPagBaT8aWigBBz3pe1JkHoRQOBQADGBmlpB0ooAWkPIxRRQAAAdKBwKKKAP/2Q==",
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F080NUU6SSD/____________________________2024-11-11_17.56.43.png",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F080NUU6SSD-6656bb97e8",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          },
+          {
+            "id": "F080NUUT8GH",
+            "created": 1731315415,
+            "timestamp": 1731315415,
+            "name": "スクリーンショット 2024-11-11 17.56.54.png",
+            "title": "スクリーンショット 2024-11-11 17.56.54.png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 187866,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F080NUUT8GH/____________________________2024-11-11_17.56.54.png",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F080NUUT8GH/download/____________________________2024-11-11_17.56.54.png",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 137,
+            "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 182,
+            "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_160.png",
+            "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 274,
+            "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_800.png",
+            "thumb_800_w": 800,
+            "thumb_800_h": 304,
+            "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_960.png",
+            "thumb_960_w": 960,
+            "thumb_960_h": 365,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F080NUUT8GH-6a2aa24833/____________________________2024-11-11_17.56.54_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 389,
+            "original_w": 2320,
+            "original_h": 882,
+            "thumb_tiny": "AwASADDSHQc0uKTGQOcUAUABGe+KNv8AtGgjI4OKTa396gBcYHUmgdKQAgcnNO7UAIOgpaQdBS0AFFFFABRRRQB//9k=",
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F080NUUT8GH/____________________________2024-11-11_17.56.54.png",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F080NUUT8GH-a87accd510",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          }
+        ],
+        "upload": false,
+        "user": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "9lVQM",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ダウンロード版ではmacは使えないから、web版で申請する税に応じてサイトを変えていく必要あり\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://www.e-tax.nta.go.jp/software/software.htm"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "message",
+        "ts": "1731315419.091159",
+        "client_msg_id": "8b476f65-fc9a-4707-aed5-f92f47819525",
+        "thread_ts": "1731312972.710819",
+        "parent_user_id": "U068Q5LCTG9",
+        "attachments": [
+          {
+            "from_url": "https://www.e-tax.nta.go.jp/software/software.htm",
+            "service_icon": "https://www.e-tax.nta.go.jp/assets/imgs/common/apple-touch-icon-180x180.png",
+            "id": 1,
+            "original_url": "https://www.e-tax.nta.go.jp/software/software.htm",
+            "fallback": "各ソフト・コーナー | 【e-Tax】国税電子申告・納税システム(イータックス)",
+            "text": "国税電子申告・納税システム(e-Tax)の概要や手続の流れ、法令等に規定する事項など、e-Taxを利用して申告、納税及び申請・届出等を行うために必要な情報やe-Taxについてのお知らせを掲載しています。",
+            "title": "各ソフト・コーナー | 【e-Tax】国税電子申告・納税システム(イータックス)",
+            "title_link": "https://www.e-tax.nta.go.jp/software/software.htm",
+            "service_name": "e-tax.nta.go.jp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730968906.991159",
+    "client_msg_id": "02a622f4-b679-4bdd-8359-397f993a4611",
+    "text": "<@U06FYMZJ2Q2>\nあれ、11/11(月)の定例経理会計財務のリスケって話したっけ？\n11時からフォーバルの目黒で打ち合わせあるから7時からにして欲しいって話",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1730968906.991159",
+    "reply_count": 8,
+    "reply_users_count": 2,
+    "latest_reply": "1730969040.252869",
+    "reply_users": [
+      "U06FYMZJ2Q2",
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "V2Ag0",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nあれ、11/11(月)の定例経理会計財務のリスケって話したっけ？\n11時からフォーバルの目黒で打ち合わせあるから7時からにして欲しいって話"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1730968936.629459",
+        "client_msg_id": "8afe964c-29ca-4622-a9fc-9567e983ee8f",
+        "text": "聞いてません。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968906.991159",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "a37bi",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "聞いてません。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1730968945.692779",
+        "client_msg_id": "368edf00-21e0-4e24-9392-31dff8c930e9",
+        "text": "7時ですか？19時ですか？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968906.991159",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "+yZ2x",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "7時ですか？19時ですか？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730968993.258399",
+        "client_msg_id": "39fcfd01-5289-4c15-a24d-6948c4e86f39",
+        "text": "朝",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968906.991159",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "w9ZWu",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "朝"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1730969001.407299",
+        "client_msg_id": "70fbbb37-0593-4d94-91f0-df6474815305",
+        "text": "むう。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968906.991159",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "0Lpt6",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "むう。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730969009.525799",
+        "client_msg_id": "e119643a-358b-4289-b7ee-6feb136aa91f",
+        "text": "おけ、頼みます",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968906.991159",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "Crb4k",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "おけ、頼みます"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1730969016.636109",
+        "client_msg_id": "4e2cfae6-9f05-4020-9f2d-421324d7920e",
+        "text": "起きれるなら良いですよ。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968906.991159",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "KLfeI",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "起きれるなら良いですよ。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730969022.620009",
+        "client_msg_id": "1ad3f7d0-68a2-42cb-8acd-b044cf1314b4",
+        "text": "30、30でお願いします",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968906.991159",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "b1T/V",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "30、30でお願いします"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730969040.252869",
+        "client_msg_id": "fb7ea415-868d-44c1-ac50-90d355cd036c",
+        "text": "移動しておきます",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968906.991159",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "gGKch",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "移動しておきます"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730193939.094879",
+    "client_msg_id": "55060be9-b6c2-4640-abca-add16f57b561",
+    "text": "<@U06FYMZJ2Q2>\nGoogleDirveに以下の内容の書類を追加したから確認しておいて、\n経理関係フォーマットの中に入出金に関わるものは全て入っているから、事前にテンプレに透過した角印を添付しておいてくれ\n\n他にも結構使えるものあると思うからざっと目を通しておいて！\n\nGoogleDrive：<https://drive.google.com/drive/folders/1G7NIcfwm6CiCm1RHNltvpGhInDPnuXIj?usp=sharing>\n\n• 経理\n    ◦ 出勤伝票\n    ◦ 経理関係フォーマット\n• 会計\n    ◦ 決算対応",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "RsgqG",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nGoogleDirveに以下の内容の書類を追加したから確認しておいて、\n経理関係フォーマットの中に入出金に関わるものは全て入っているから、事前にテンプレに透過した角印を添付しておいてくれ\n\n他にも結構使えるものあると思うからざっと目を通しておいて！\n\nGoogleDrive："
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1G7NIcfwm6CiCm1RHNltvpGhInDPnuXIj?usp=sharing"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "経理"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "出勤伝票"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "経理関係フォーマット"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "会計"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "決算対応"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730172922.447299",
+    "client_msg_id": "528c884a-0731-4907-9922-70bd3660e77b",
+    "text": "20241029_第03回_会計/財務戦略会議\n\n議事録：<https://www.notion.so/20241029_-03-_-a165d6718732467d9971a4a197b6955c?pvs=4>\n\n会議URL：<http://meet.google.com/rzs-ewfp-qxu|meet.google.com/rzs-ewfp-qxu>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1730172000,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/20241029_-03-_-a165d6718732467d9971a4a197b6955c?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "20241029_第03回_会計/財務戦略会議",
+        "title": "20241029_第03回_会計/財務戦略会議",
+        "title_link": "https://www.notion.so/20241029_-03-_-a165d6718732467d9971a4a197b6955c?pvs=6&utm_content=a165d671-8732-467d-9971-a4a197b6955c&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "f+bb3",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "20241029_第03回_会計/財務戦略会議\n\n議事録："
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20241029_-03-_-a165d6718732467d9971a4a197b6955c?pvs=4"
+              },
+              {
+                "type": "text",
+                "text": "\n\n会議URL："
+              },
+              {
+                "type": "link",
+                "url": "http://meet.google.com/rzs-ewfp-qxu",
+                "text": "meet.google.com/rzs-ewfp-qxu"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730172879.369329",
+    "client_msg_id": "c703bfc5-01c3-4e81-87fb-2545fa0bdd15",
+    "text": "ちょっと経理と会計の話でごっちゃになってきたから、Slackのチャンネルを別で切り離したい\naccounting-finace：会計/財務\nbookkeepin：経理\nで",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FDvE6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ちょっと経理と会計の話でごっちゃになってきたから、Slackのチャンネルを別で切り離したい\naccounting-finace：会計/財務\nbookkeepin：経理\nで"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730171835.530389",
+    "client_msg_id": "1adfc870-b39a-4b30-a150-de19a0e01483",
+    "text": "ビデオ通話のリンク: <https://meet.google.com/mpg-rkih-yuw>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://meet.google.com/mpg-rkih-yuw",
+        "service_icon": "http://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-24dp/logo_meet_2020q4_color_1x_web_24dp.png",
+        "thumb_url": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v1/web-96dp/logo_meet_2020q4_color_2x_web_96dp.png",
+        "thumb_width": 192,
+        "thumb_height": 192,
+        "id": 1,
+        "original_url": "https://meet.google.com/mpg-rkih-yuw",
+        "fallback": "Meet",
+        "text": "Real-time meetings by Google. Using your browser, share your video, desktop, and presentations with teammates and customers.",
+        "title": "Meet",
+        "title_link": "https://meet.google.com/mpg-rkih-yuw",
+        "service_name": "meet.google.com"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jk4SA",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ビデオ通話のリンク: "
+              },
+              {
+                "type": "link",
+                "url": "https://meet.google.com/mpg-rkih-yuw"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730171665.079869",
+    "client_msg_id": "2ed999da-392f-4682-ab18-433ca382a27b",
+    "text": "20241029_第03回_経理戦略MTG\n\n議事録：<https://www.notion.so/20241029_-03-_-ee91c0ff3b4d4d0e86c9473118ba8254?pvs=4>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1730171520,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/20241029_-03-_-ee91c0ff3b4d4d0e86c9473118ba8254?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "20241029_第03回_経理戦略会議",
+        "text": "目次",
+        "title": "20241029_第03回_経理戦略会議",
+        "title_link": "https://www.notion.so/20241029_-03-_-ee91c0ff3b4d4d0e86c9473118ba8254?pvs=6&utm_content=ee91c0ff-3b4d-4d0e-86c9-473118ba8254&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "4Sc2L",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "20241029_第03回_経理戦略MTG\n\n議事録："
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20241029_-03-_-ee91c0ff3b4d4d0e86c9473118ba8254?pvs=4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1730171295.617059",
+    "client_msg_id": "F321BB1E-400D-4A1F-BFD8-DCA57F73E972",
+    "text": ":hankey:したいので15分からでお願いします",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WYwr9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "hankey",
+                "unicode": "1f4a9"
+              },
+              {
+                "type": "text",
+                "text": "したいので15分からでお願いします"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "hankey",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1730170651.980639",
+    "client_msg_id": "ff8d145b-5104-45fd-957a-9d348689c3fb",
+    "text": "顔洗って歯磨くわ",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3bAYM",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "顔洗って歯磨くわ"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730170626.518089",
+    "client_msg_id": "5EFFE55D-A7A9-4509-BB28-E5A2CE68FA91",
+    "text": "<@U06FYMZJ2Q2> 10分から開始で",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "keR79",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " 10分から開始で"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730045101.573889",
+    "client_msg_id": "458ac11e-dcac-40ec-ab55-bd50d65186f9",
+    "text": "<https://biz.moneyforward.com/tax_return/basic/1566/>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://biz.moneyforward.com/tax_return/basic/1566/",
+        "ts": 1421809202,
+        "thumb_url": "https://biz.moneyforward.com/tax_return/basic/wp-content/uploads/2015/01/key_visual_640x384-63.png",
+        "thumb_width": 1280,
+        "thumb_height": 768,
+        "service_icon": "https://assets-biz-portal.moneyforward.com/portal/images/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://biz.moneyforward.com/tax_return/basic/1566/",
+        "fallback": "確定申告の基礎知識｜マネーフォワード クラウド会計・確定申告: 勘定科目の租税公課を簡単に解説！消費税や確定申告の対応法も | マネーフォワード クラウド確定申告",
+        "text": "「租税公課」とは国や地方に納める税金（租税）と公共団体へ納める会費や罰金など（公課）を合わせた名前です。租税公課には、確定申告の際に経費算入が認められるものと、経費とは認められないものがあり、この経費算入が可能か否かということは直接損益に影響する大切な事柄です。",
+        "title": "勘定科目の租税公課を簡単に解説！消費税や確定申告の対応法も | マネーフォワード クラウド確定申告",
+        "title_link": "https://biz.moneyforward.com/tax_return/basic/1566/",
+        "service_name": "確定申告の基礎知識｜マネーフォワード クラウド会計・確定申告"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "j6xdx",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://biz.moneyforward.com/tax_return/basic/1566/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730042093.622699",
+    "client_msg_id": "c39332ef-a6a8-41b1-9fc0-5412684c9fd0",
+    "text": "<https://biz.moneyforward.com/accounting/basic/62/>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://biz.moneyforward.com/accounting/basic/62/",
+        "ts": 1570672579,
+        "thumb_url": "https://biz.moneyforward.com/accounting/basic/wp-content/uploads/2024/02/key_visual_640x384-1.jpg",
+        "thumb_width": 640,
+        "thumb_height": 384,
+        "service_icon": "https://assets-biz-portal.moneyforward.com/portal/images/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://biz.moneyforward.com/accounting/basic/62/",
+        "fallback": "会計の基礎知識｜会計ソフト「マネーフォワード クラウド会計」: 試算表とは？作り方・無料エクセルテンプレート | クラウド会計ソフト マネーフォワード",
+        "text": "試算表は仕訳や転記などの間違いを見つけるのに役立つほか、会社の利益や財務の状況などを確認するのにも役立ちます。試算表といっても、残高試算表、合計試算表、合計残高試算表と3つの種類があり、それぞれで作成方法や見方が異なります。それぞれの作成方法、試算表と貸借対照表、損益計算書など決算書との関係についても詳しく解説します。",
+        "title": "試算表とは？作り方・無料エクセルテンプレート | クラウド会計ソフト マネーフォワード",
+        "title_link": "https://biz.moneyforward.com/accounting/basic/62/",
+        "service_name": "会計の基礎知識｜会計ソフト「マネーフォワード クラウド会計」"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "FMPdV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://biz.moneyforward.com/accounting/basic/62/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "<@U06FYMZJ2Q2>\n\n一旦こちらで損益分岐点を計算するために、以下の記事をもとに仕訳のルールを設定した。ただ仕訳帳はまだ作成していないから、今後絶対作成しないとだめ。面倒なことになるし、財務分析や上記で共有した目標を適切に設定できないので\n<https://biz.moneyforward.com/accounting/basic/44717/#i>",
+    "files": [
+      {
+        "id": "F07TS23HA1J",
+        "created": 1730041758,
+        "timestamp": 1730041758,
+        "name": "https___biz.moneyforward.com_accounting_basic_wp-content_uploads_2020_10_勘定科目一覧表_ダウンロード用 (1).pdf",
+        "title": "https___biz.moneyforward.com_accounting_basic_wp-content_uploads_2020_10_勘定科目一覧表_ダウンロード用 (1).pdf",
+        "mimetype": "application/pdf",
+        "filetype": "pdf",
+        "pretty_type": "PDF",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 369106,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07TS23HA1J/https___biz.moneyforward.com_accounting_basic_wp-content_uploads_2020_10____________________________________________________1_.pdf",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07TS23HA1J/download/https___biz.moneyforward.com_accounting_basic_wp-content_uploads_2020_10____________________________________________________1_.pdf",
+        "media_display_type": "unknown",
+        "thumb_pdf": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TS23HA1J-b2db72ce41/https___biz.moneyforward.com_accounting_basic_wp-content_uploads_2020_10____________________________________________________1__thumb_pdf.png",
+        "thumb_pdf_w": 909,
+        "thumb_pdf_h": 1286,
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07TS23HA1J/https___biz.moneyforward.com_accounting_basic_wp-content_uploads_2020_10____________________________________________________1_.pdf",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07TS23HA1J-51b76c4001",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "rjWvs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n\n一旦こちらで損益分岐点を計算するために、以下の記事をもとに仕訳のルールを設定した。ただ仕訳帳はまだ作成していないから、今後絶対作成しないとだめ。面倒なことになるし、財務分析や上記で共有した目標を適切に設定できないので\n"
+              },
+              {
+                "type": "link",
+                "url": "https://biz.moneyforward.com/accounting/basic/44717/#i"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1730041865.326219",
+    "client_msg_id": "6d984229-d5e5-4c17-a0e4-8ca3d84fd024",
+    "attachments": [
+      {
+        "from_url": "https://biz.moneyforward.com/accounting/basic/44717/#i",
+        "service_icon": "https://assets-biz-portal.moneyforward.com/portal/images/apple-touch-icon.png",
+        "thumb_url": "https://biz.moneyforward.com/accounting/basic/wp-content/uploads/2020/10/key_visual_640x384-9.png",
+        "thumb_width": 1296,
+        "thumb_height": 784,
+        "ts": 1603434203,
+        "id": 1,
+        "original_url": "https://biz.moneyforward.com/accounting/basic/44717/#i",
+        "fallback": "会計の基礎知識｜会計ソフト「マネーフォワード クラウド会計」: 勘定科目とは？仕訳に役立つ科目一覧をわかりやすく解説 | クラウド会計ソフト マネーフォワード",
+        "text": "勘定科目とは、取引の内容をわかりやすく分類するために使われる、簿記の科目のことです。お金や取引内容の性質を表す“見出し”ととらえることができます。",
+        "title": "勘定科目とは？仕訳に役立つ科目一覧をわかりやすく解説 | クラウド会計ソフト マネーフォワード",
+        "title_link": "https://biz.moneyforward.com/accounting/basic/44717/#i",
+        "service_name": "会計の基礎知識｜会計ソフト「マネーフォワード クラウド会計」"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730041450.632409",
+    "client_msg_id": "4dd80f84-76b6-4d09-8541-4efad4910e90",
+    "text": "<@U06FYMZJ2Q2>\n自前でNotion上やエクセルで構築するのにも限界を感じてfreeeやマネーフォワードを契約しようか検討中です。\nただ、何が使えるのかがいまいち把握しきれていないところもあるから調べたい。月額3000円くらいするからそれに見合うんだったら契約しようかなと\n<https://biz.moneyforward.com/accounting>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "image_url": "https://biz.moneyforward.com/portal/images/ogp/ca_web/img_accounting.png",
+        "image_width": 1200,
+        "image_height": 630,
+        "image_bytes": 17664,
+        "from_url": "https://biz.moneyforward.com/accounting",
+        "service_icon": "https://assets-biz-portal.moneyforward.com/portal/images/apple-touch-icon.png",
+        "id": 1,
+        "original_url": "https://biz.moneyforward.com/accounting",
+        "fallback": "バックオフィスの業務効率化なら「マネーフォワード クラウド」: 無料で試せる経理・会計ソフト - マネーフォワード クラウド会計",
+        "text": "「マネーフォワード クラウド会計」は初期費用0円で経営者から経理担当まで使える会計ソフトです。取引入力と仕訳の作業時間を削減、中小企業・法人の帳簿作成や決算書を自動化。リアルタイムレポートで経営状況もわかる！",
+        "title": "無料で試せる経理・会計ソフト - マネーフォワード クラウド会計",
+        "title_link": "https://biz.moneyforward.com/accounting",
+        "service_name": "バックオフィスの業務効率化なら「マネーフォワード クラウド」"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vcWTL",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n自前でNotion上やエクセルで構築するのにも限界を感じてfreeeやマネーフォワードを契約しようか検討中です。\nただ、何が使えるのかがいまいち把握しきれていないところもあるから調べたい。月額3000円くらいするからそれに見合うんだったら契約しようかなと\n"
+              },
+              {
+                "type": "link",
+                "url": "https://biz.moneyforward.com/accounting"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730019812.326069",
+    "client_msg_id": "0b42dbd5-8d7e-458f-8427-71d6016b41a8",
+    "text": "<@U06FYMZJ2Q2>\n会計/財務/経理として導入して欲しいもの一覧\n優先順位、どのような流れで導入するかは要相談。実行したいときにすぐにできるように詳しく把握しておいて\n\n*予実管理：*<https://www.freee.co.jp/kb/kb-business-administration/budget_control_business/>\niDeaで管理している場所：<https://docs.google.com/spreadsheets/d/1S9fPj1T0L2VNk9iCtxTQ9HSSXc_2tkmRW2cTA5T5zBQ/edit?usp=sharing>\n\n*債権管理*(これは後々で良い)：<https://www.freee.co.jp/kb/kb-business-administration/debt_management/>\n\n\n財務分析(今後、導入し分析したい指標群)：<https://www.freee.co.jp/kb/kb-business-administration/financial_analysis/>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "image_url": "https://www.freee.co.jp/assets/image/img_freee_201908.png",
+        "image_width": 630,
+        "image_height": 630,
+        "image_bytes": 9428,
+        "from_url": "https://www.freee.co.jp/kb/kb-business-administration/budget_control_business/",
+        "ts": 1618911422,
+        "id": 1,
+        "original_url": "https://www.freee.co.jp/kb/kb-business-administration/budget_control_business/",
+        "fallback": "freee会計 | 無料から使えるクラウド会計ソフト: 予実管理とは？ 目的や予算管理との違い、作成に役立つツールを解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+        "text": "多くの企業では期初に計画や目標が設定されます。その予算と計画した目標の進捗状況を把握し、コントロールするプロセスが「予実管理」です。",
+        "title": "予実管理とは？ 目的や予算管理との違い、作成に役立つツールを解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+        "title_link": "https://www.freee.co.jp/kb/kb-business-administration/budget_control_business/",
+        "service_name": "freee会計 | 無料から使えるクラウド会計ソフト"
+      },
+      {
+        "image_url": "https://www.freee.co.jp/assets/image/img_freee_201908.png",
+        "image_width": 630,
+        "image_height": 630,
+        "image_bytes": 9428,
+        "from_url": "https://www.freee.co.jp/kb/kb-business-administration/debt_management/",
+        "ts": 1619043148,
+        "id": 2,
+        "original_url": "https://www.freee.co.jp/kb/kb-business-administration/debt_management/",
+        "fallback": "freee会計 | 無料から使えるクラウド会計ソフト: 債権管理の必要性について｜売上回収を確実に行うには | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+        "text": "企業の経営や経理に携わっている人であれば、知っておいた方がいい「債権管理」という言葉。「聞いたことはあるけれど内容は曖昧・・・」という方も、この機会に知っておいて損はありません。なぜなら、債権管理は企業の利益確保において命綱になるからです。難しい単語がずらりと並びますが、今回は一つひとつ分かりやすくご説明します。しっかりと一つひとつの言葉の意味を理解し、経理業務に活かしていきましょう。",
+        "title": "債権管理の必要性について｜売上回収を確実に行うには | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+        "title_link": "https://www.freee.co.jp/kb/kb-business-administration/debt_management/",
+        "service_name": "freee会計 | 無料から使えるクラウド会計ソフト"
+      },
+      {
+        "image_url": "https://www.freee.co.jp/assets/image/img_freee_201908.png",
+        "image_width": 630,
+        "image_height": 630,
+        "image_bytes": 9428,
+        "from_url": "https://www.freee.co.jp/kb/kb-business-administration/financial_analysis/",
+        "ts": 1618911417,
+        "id": 3,
+        "original_url": "https://www.freee.co.jp/kb/kb-business-administration/financial_analysis/",
+        "fallback": "freee会計 | 無料から使えるクラウド会計ソフト: 財務分析とは？4つの視点から指標・やり方を計算例を用いてわかりやすく解説！ | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+        "text": "財務分析とは、貸借対照表や損益計算書などの財務諸表から、必要な数値を用いて企業の現状をさまざまな角度から把握する分析方法です。",
+        "title": "財務分析とは？4つの視点から指標・やり方を計算例を用いてわかりやすく解説！ | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+        "title_link": "https://www.freee.co.jp/kb/kb-business-administration/financial_analysis/",
+        "service_name": "freee会計 | 無料から使えるクラウド会計ソフト"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zjgJQ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n会計/財務/経理として導入して欲しいもの一覧\n優先順位、どのような流れで導入するかは要相談。実行したいときにすぐにできるように詳しく把握しておいて\n\n"
+              },
+              {
+                "type": "text",
+                "text": "予実管理：",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "link",
+                "url": "https://www.freee.co.jp/kb/kb-business-administration/budget_control_business/"
+              },
+              {
+                "type": "text",
+                "text": "\niDeaで管理している場所："
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1S9fPj1T0L2VNk9iCtxTQ9HSSXc_2tkmRW2cTA5T5zBQ/edit?usp=sharing"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "text",
+                "text": "債権管理",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "(これは後々で良い)："
+              },
+              {
+                "type": "link",
+                "url": "https://www.freee.co.jp/kb/kb-business-administration/debt_management/"
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n財務分析(今後、導入し分析したい指標群)："
+              },
+              {
+                "type": "link",
+                "url": "https://www.freee.co.jp/kb/kb-business-administration/financial_analysis/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "<@U06FYMZJ2Q2>\n会社のCVPは今後以下で管理/運用する\n<https://docs.google.com/spreadsheets/d/1v4wdGZ4ZUj-RZGHTJxqI9ycZnEuIEX11/edit?usp=sharing&amp;ouid=104052007342088620889&amp;rtpof=true&amp;sd=true>\n\n損益分岐点周りの知識を把握しておいて\n\n<https://www.freee.co.jp/kb/kb-business-administration/cvp_analysis/#:~:text=%E3%80%8CCVP%E5%88%86%E6%9E%90%E3%80%8D%E3%81%A8%E3%81%AF%E3%80%81,%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82|https://www.freee.co.jp/kb/kb-business-administration/cvp_analysis/#:~:text=%E3%80%8CCVP%E5%88%86%E6%9E%90[…]%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82>",
+    "files": [
+      {
+        "id": "F07TGF3B0RL",
+        "created": 1730018503,
+        "timestamp": 1730018503,
+        "name": "iDea_CVP.xlsx",
+        "title": "iDea_CVP_2024年度.xlsx",
+        "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+        "filetype": "xlsx",
+        "pretty_type": "Excel スプレッドシート",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 110600,
+        "mode": "external",
+        "is_external": true,
+        "external_type": "gdrive",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://docs.google.com/spreadsheets/d/1v4wdGZ4ZUj-RZGHTJxqI9ycZnEuIEX11/edit?usp=sharing&ouid=104052007342088620889&rtpof=true&sd=true",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_360.png",
+        "thumb_360_w": 254,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_480.png",
+        "thumb_480_w": 339,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_720.png",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1132,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_960.png",
+        "thumb_960_w": 678,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TGF3B0RL-7deb94be51/idea_cvp_1024.png",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "original_w": 1024,
+        "original_h": 1449,
+        "thumb_tiny": "AwAwACG+XbzdoAxjOaduP+RTCM3ByP4RT8D0FAC5NNDktinYGOgpi/6z8aAJKKKKAI8HzyccYFPx7UtFABUYH7zp3qSigAooooAKKKKACiiigAooooA//9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07TGF3B0RL/idea_cvp.xlsx",
+        "is_starred": false,
+        "external_id": "1v4wdGZ4ZUj-RZGHTJxqI9ycZnEuIEX11",
+        "external_url": "https://docs.google.com/spreadsheets/d/1v4wdGZ4ZUj-RZGHTJxqI9ycZnEuIEX11/edit?usp=sharing&ouid=104052007342088620889&rtpof=true&sd=true",
+        "has_rich_preview": true,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "x_files": [
+      "F07TGF3B0RL"
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "Q4AuX",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n会社のCVPは今後以下で管理/運用する\n"
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1v4wdGZ4ZUj-RZGHTJxqI9ycZnEuIEX11/edit?usp=sharing&ouid=104052007342088620889&rtpof=true&sd=true"
+              },
+              {
+                "type": "text",
+                "text": "\n\n損益分岐点周りの知識を把握しておいて\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.freee.co.jp/kb/kb-business-administration/cvp_analysis/#:~:text=%E3%80%8CCVP%E5%88%86%E6%9E%90%E3%80%8D%E3%81%A8%E3%81%AF%E3%80%81,%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+                "text": "https://www.freee.co.jp/kb/kb-business-administration/cvp_analysis/#:~:text=%E3%80%8CCVP%E5%88%86%E6%9E%90[…]%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1730018481.609449",
+    "client_msg_id": "38f637c4-49f0-4de0-a501-0e784bedd32e",
+    "attachments": [
+      {
+        "image_url": "https://www.freee.co.jp/assets/image/img_freee_201908.png",
+        "image_width": 630,
+        "image_height": 630,
+        "image_bytes": 9428,
+        "from_url": "https://www.freee.co.jp/kb/kb-business-administration/cvp_analysis/#:~:text=%E3%80%8CCVP%E5%88%86%E6%9E%90%E3%80%8D%E3%81%A8%E3%81%AF%E3%80%81,%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+        "ts": 1618911422,
+        "id": 1,
+        "original_url": "https://www.freee.co.jp/kb/kb-business-administration/cvp_analysis/#:~:text=%E3%80%8CCVP%E5%88%86%E6%9E%90%E3%80%8D%E3%81%A8%E3%81%AF%E3%80%81,%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+        "fallback": "freee会計 | 無料から使えるクラウド会計ソフト: CVP分析（損益分岐点分析）とは｜概要や計算方法、活用方法をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+        "text": "CVP分析（損益分岐点分析）は、企業が製品の販売やサービス提供によって得られる収益や利益に関する定量的な情報を評価するための手法です。",
+        "title": "CVP分析（損益分岐点分析）とは｜概要や計算方法、活用方法をわかりやすく解説 | 経営者から担当者にまで役立つバックオフィス基礎知識 | クラウド会計ソフト freee",
+        "title_link": "https://www.freee.co.jp/kb/kb-business-administration/cvp_analysis/#:~:text=%E3%80%8CCVP%E5%88%86%E6%9E%90%E3%80%8D%E3%81%A8%E3%81%AF%E3%80%81,%E3%81%A8%E3%81%97%E3%81%A6%E4%BD%BF%E7%94%A8%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%80%82",
+        "service_name": "freee会計 | 無料から使えるクラウド会計ソフト"
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "<@U068Q5LCTG9> \n10月20日(日) すなっふるすダイニング ¥ 9,245\n→ 河村さんに755円 or 10,000円返金してください。",
+    "files": [
+      {
+        "id": "F07SH8ZKECX",
+        "created": 1729581623,
+        "timestamp": 1729581623,
+        "name": "IMG_1565.jpg",
+        "title": "IMG_1565",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U06FYMZJ2Q2",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1081704,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07SH8ZKECX/img_1565.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07SH8ZKECX/download/img_1565.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKECX-a9eb50bb66/img_1565_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACSbIqaIjy/xqvUsXIII4FZrctktHSmfKKR3KYwBzVkkMvEjU3NOc72yabioLJMUiS4LBefeq8krMeDgelOiztz700Jk4lbPPNNllPFL2qOTkfjTYkPVlIzS5X1qEcCjNSUQ1JFIFGPeoNw9RRuA7imIueavvTWYMOM1AHX1H50odf7w/OgCTNGaYWUdx+eKN6+o/wC+qQH/2Q==",
+        "permalink": "https://idea-iko1320.slack.com/files/U06FYMZJ2Q2/F07SH8ZKECX/img_1565.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07SH8ZKECX-04b46ee48f",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F07SXR0TDFC",
+        "created": 1729581623,
+        "timestamp": 1729581623,
+        "name": "IMG_1566.jpg",
+        "title": "IMG_1566",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U06FYMZJ2Q2",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1047213,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07SXR0TDFC/img_1566.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07SXR0TDFC/download/img_1566.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_360.jpg",
+        "thumb_360_w": 360,
+        "thumb_360_h": 270,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_480.jpg",
+        "thumb_480_w": 480,
+        "thumb_480_h": 360,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_720.jpg",
+        "thumb_720_w": 720,
+        "thumb_720_h": 540,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 600,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_960.jpg",
+        "thumb_960_w": 960,
+        "thumb_960_h": 720,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SXR0TDFC-4430613061/img_1566_1024.jpg",
+        "thumb_1024_w": 1024,
+        "thumb_1024_h": 768,
+        "original_w": 4032,
+        "original_h": 3024,
+        "thumb_tiny": "AwAkADClhPSkwnpWvipERSgyo/KpUrlNWMTCUhC1ubYh95V/KmME6KigfSncRkRozthFJJrTjXyolXOcU9wAhwMUzfxUSZSREZ3PTA/CpBOwUDI6VWqWM5XmmgZIJAxyetPDev8AKocj1FKXIU80xEj8ofpUKtzijzGx96mZqWUhhqWL/V1Eali+5TQC5zTX+4aXvSP9w/SmIiLELmlUkimt9wUqdKkD/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U06FYMZJ2Q2/F07SXR0TDFC/img_1566.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07SXR0TDFC-2f49d55692",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F07SH8ZKW3Z",
+        "created": 1729581623,
+        "timestamp": 1729581623,
+        "name": "IMG_1567.jpg",
+        "title": "IMG_1567",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U06FYMZJ2Q2",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1097963,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07SH8ZKW3Z/img_1567.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07SH8ZKW3Z/download/img_1567.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SH8ZKW3Z-c08685647a/img_1567_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACSpgn+BvyppUD+8PwrVgPzE+gqbdSTG0YeB/eo2/wC0K2dqFmyoPPcUhhjPWNPyouBjfiKPxFbPkxf881/KjyYv+ea/lQA2AcE1LimRDCD3pGmAOBzSQMBzKQemM0/j0NQCUCQnHapFkBOCAKAGtKysQMcUnnt6CmzcSH3qPmpuVYc1yuAinAHU0zzV7H9KhwKARjtVXFZk+QWzngin8etVwR6il3DHUUrjsT7umeaMj0qvuX1FG5fUUAf/2Q==",
+        "permalink": "https://idea-iko1320.slack.com/files/U06FYMZJ2Q2/F07SH8ZKW3Z/img_1567.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07SH8ZKW3Z-848cb51124",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U06FYMZJ2Q2",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "WuL92",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": " \n10月20日(日) すなっふるすダイニング ¥ 9,245\n→ 河村さんに755円 or 10,000円返金してください。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1729581630.545919",
+    "client_msg_id": "1C7966C3-5FEE-438A-9DDF-21E2A0EB9A9D",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "<@U068Q5LCTG9> \n10月21日(月) 知内かき小屋 ¥ 6,400\n→ 三國に返金してください。",
+    "files": [
+      {
+        "id": "F07SUUTJ621",
+        "created": 1729581443,
+        "timestamp": 1729581443,
+        "name": "IMG_1563.jpg",
+        "title": "IMG_1563",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U06FYMZJ2Q2",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1001829,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07SUUTJ621/img_1563.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07SUUTJ621/download/img_1563.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_360.jpg",
+        "thumb_360_w": 270,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_480.jpg",
+        "thumb_480_w": 360,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_720.jpg",
+        "thumb_720_w": 540,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1067,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_960.jpg",
+        "thumb_960_w": 720,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SUUTJ621-32a0790776/img_1563_1024.jpg",
+        "thumb_1024_w": 768,
+        "thumb_1024_h": 1024,
+        "original_w": 3024,
+        "original_h": 4032,
+        "thumb_tiny": "AwAwACR68KBUsShsk84qIgAkDkDvU0P3T9azW5b2JM0cZpvNMkYquR1qyR7IpOcD8qTy19B+VQ+c3+TR5zf5NK6HZipGWGcgc4qZF2r1zz6UkZCQ5PA61C0zt04HtQkDLHFNkTeuB1qHzHHU5o8xvU0xDWQqcH9KbipC+fvDJpNw9KmxVys8rP1OB6VKh+QVW3p/eFJuGfvimJlzt0NJkkHgiqu4f3xShwDnePzoFqSbj6mjcfU0zzF/vD86PMX1H50ij//Z",
+        "permalink": "https://idea-iko1320.slack.com/files/U06FYMZJ2Q2/F07SUUTJ621/img_1563.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07SUUTJ621-3918f9f73e",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U06FYMZJ2Q2",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "xeKkF",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": " \n10月21日(月)"
+              },
+              {
+                "type": "text",
+                "text": " 知内かき小屋 ¥ 6,400\n→ 三國に返金してください。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1729581529.629649",
+    "client_msg_id": "82D8E26D-9DC9-42AE-9715-06A58371D93B",
+    "thread_ts": "1729581529.629649",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1729584169.120319",
+    "reply_users": [
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1729584169.120319",
+        "client_msg_id": "f98e9192-4a27-477e-b96e-82c5768bbe0b",
+        "text": "<@U06FYMZJ2Q2>\n振り込み完了",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1729581529.629649",
+        "parent_user_id": "U06FYMZJ2Q2",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "ZPQdz",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n振り込み完了"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1729577260.961939",
+    "client_msg_id": "768dae1a-3355-4dd4-a34a-79cfd5bd9e5f",
+    "text": "*領収書更新*\n• 新千歳→羽田 飛行機代\n    ◦ 19159円\n<https://www.notion.so/20241022_-_-7f76488b6c634874869bc13fac981d0c?pvs=4>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1727865180,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/20241022_-_-7f76488b6c634874869bc13fac981d0c?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "20241022_新千歳-羽田_飛行機代",
+        "title": "20241022_新千歳-羽田_飛行機代",
+        "title_link": "https://www.notion.so/20241022_-_-7f76488b6c634874869bc13fac981d0c?pvs=6&utm_content=7f76488b-6c63-4874-869b-c13fac981d0c&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b2kGI",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "領収書更新",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "新千歳→羽田 飛行機代"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "19159円"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20241022_-_-7f76488b6c634874869bc13fac981d0c?pvs=4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "rage",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1728980080.140919",
+    "client_msg_id": "216b771d-f9ef-4e1b-ac09-bac0061b84a5",
+    "text": "<@U068Q5LCTG9>\n↑",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "fmW1q",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": "\n↑"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1728916957.433289",
+    "client_msg_id": "d9f40dbe-f47b-458f-bd10-f4631da3dbb8",
+    "text": "<@U068Q5LCTG9>\nハッカソンの見積書 : <https://docs.google.com/document/d/1vUBHfe8FLWrrsxcc0N367DG3JvrLCQu8FkgnANWr4NE/edit?usp=sharing>\nハッカソンの請求書 : <https://docs.google.com/spreadsheets/d/1hJUD_qJWC1cT5Y4UUIc_mHLgDtuSknVK/edit?usp=sharing&amp;ouid=101330714019255616802&amp;rtpof=true&amp;sd=true>",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "oHcQr",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": "\nハッカソンの見積書 : "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1vUBHfe8FLWrrsxcc0N367DG3JvrLCQu8FkgnANWr4NE/edit?usp=sharing"
+              },
+              {
+                "type": "text",
+                "text": "\nハッカソンの請求書 : "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/spreadsheets/d/1hJUD_qJWC1cT5Y4UUIc_mHLgDtuSknVK/edit?usp=sharing&ouid=101330714019255616802&rtpof=true&sd=true"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1728842743.892079",
+    "client_msg_id": "3ce9a8f8-f686-4827-a31b-14253d7e0852",
+    "text": "<@U06FYMZJ2Q2>\nハッカソン前回の見積書：<https://drive.google.com/drive/folders/1QceDVX-_8eudO1WYIanbmcrBC5BbWr5X?usp=sharing>",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NKA86",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nハッカソン前回の見積書："
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1QceDVX-_8eudO1WYIanbmcrBC5BbWr5X?usp=sharing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1728800732.979439",
+    "client_msg_id": "ecc7d326-763b-4c9b-aa4d-fe9b75697121",
+    "text": "<@U06FYMZJ2Q2> 政策金融公庫の調査のお願い\n\n以下の内容を中心にNotionにまとめて、教えてくれ\n• どのような書類が必要なのか\n• どのような手順で進めるのか(借りるまでの期間も含めて)\n• 自分たちの今の状況であればどれくらい借りれるのか(借りれる金額が多ければ多いほど良い)\n• どのような返済プランになりそうか\n金融公庫で目をつけている制度(その他良さそうなものがあれば教えて欲しい)\n• 新規開業資金（女性、若者/シニア起業家支援関連）\n    ◦ <https://www.jfc.go.jp/n/finance/search/02_zyoseikigyouka_m.html>\n• 新規開業資金\n    ◦ <https://www.jfc.go.jp/n/finance/search/01_sinkikaigyou_m.html>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://www.jfc.go.jp/n/finance/search/02_zyoseikigyouka_m.html",
+        "service_icon": "https://www.jfc.go.jp/favicon.ico",
+        "id": 1,
+        "original_url": "https://www.jfc.go.jp/n/finance/search/02_zyoseikigyouka_m.html",
+        "fallback": "新規開業資金（女性、若者/シニア起業家支援関連）｜日本政策金融公庫",
+        "text": "日本政策金融公庫（略称：「日本公庫」）の融資のご案内をご紹介いたします。",
+        "title": "新規開業資金（女性、若者/シニア起業家支援関連）｜日本政策金融公庫",
+        "title_link": "https://www.jfc.go.jp/n/finance/search/02_zyoseikigyouka_m.html",
+        "service_name": "jfc.go.jp"
+      },
+      {
+        "from_url": "https://www.jfc.go.jp/n/finance/search/01_sinkikaigyou_m.html",
+        "service_icon": "https://www.jfc.go.jp/favicon.ico",
+        "id": 2,
+        "original_url": "https://www.jfc.go.jp/n/finance/search/01_sinkikaigyou_m.html",
+        "fallback": "新規開業資金｜日本政策金融公庫",
+        "text": "日本政策金融公庫（略称：「日本公庫」）の融資のご案内をご紹介いたします。",
+        "title": "新規開業資金｜日本政策金融公庫",
+        "title_link": "https://www.jfc.go.jp/n/finance/search/01_sinkikaigyou_m.html",
+        "service_name": "jfc.go.jp"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "kd6xs",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " 政策金融公庫の調査のお願い\n\n以下の内容を中心にNotionにまとめて、教えてくれ\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "どのような書類が必要なのか"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "どのような手順で進めるのか(借りるまでの期間も含めて)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "自分たちの今の状況であればどれくらい借りれるのか(借りれる金額が多ければ多いほど良い)"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "どのような返済プランになりそうか"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "\n金融公庫で目をつけている制度(その他良さそうなものがあれば教えて欲しい)\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "新規開業資金（女性、若者/シニア起業家支援関連）"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://www.jfc.go.jp/n/finance/search/02_zyoseikigyouka_m.html"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "新規開業資金"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "link",
+                    "url": "https://www.jfc.go.jp/n/finance/search/01_sinkikaigyou_m.html"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "saluting_face",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "<@U06FYMZJ2Q2>\n以下、松尾研のDeepαから来たので、何かバックオフィス全般で聞きたいことがあれば河村さんor OneOfficeの方に聞いてください\n\n```①事業に関わるご質問　→　他社との契約や事業の運営に関わるご質問\nこちらは、堀上様にご連絡をお願いいたします。\n※ご連絡方法につきましては堀上さんとご相談ください。\n\n②バックオフィスに関わるご質問　→　経理・税務・登記変更等、管理業務に関わるご質問\nこちらは株式会社OneOfficeの担当者宛てにメールにてご連絡をお願いいたします。\n\n【お問い合わせの際の注意点】\n　■宛先には以下を必ず指定してください。\n　TO：1office@1office.co.jp\n　CC：御社のグループメールアドレス（メールアドレス）\n\n■返信時は必ず「全員返信」としてください。\n\n■タイトルに御社名を記載してください。```",
+    "files": [
+      {
+        "id": "F07SAJXQZQQ",
+        "created": 1728799897,
+        "timestamp": 1728799897,
+        "name": "スクリーンショット 2024-10-13 15.11.36.png",
+        "title": "スクリーンショット 2024-10-13 15.11.36.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 395350,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07SAJXQZQQ/____________________________2024-10-13_15.11.36.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07SAJXQZQQ/download/____________________________2024-10-13_15.11.36.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_360.png",
+        "thumb_360_w": 264,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_480.png",
+        "thumb_480_w": 353,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_720.png",
+        "thumb_720_w": 529,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1089,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_960.png",
+        "thumb_960_w": 705,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07SAJXQZQQ-232ba23928/____________________________2024-10-13_15.11.36_1024.png",
+        "thumb_1024_w": 752,
+        "thumb_1024_h": 1024,
+        "original_w": 1174,
+        "original_h": 1598,
+        "thumb_tiny": "AwAwACO/gJgbj17mnKQTw1D57HFJg4+9+tADsUtM5/vD86Udev60AKaKDRQAj9utNwKc2e1IN2eTQAdORSg+gFLmloAQ0UGigBG+maAOe/6UN16ZpM/7H6UAPAxRTBn+6PypwJoADRQaKAP/2Q==",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F07SAJXQZQQ/____________________________2024-10-13_15.11.36.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07SAJXQZQQ-61e7566a0d",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "c8Ki2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n以下、松尾研のDeepαから来たので、何かバックオフィス全般で聞きたいことがあれば河村さんor OneOfficeの方に聞いてください\n\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_preformatted",
+            "elements": [
+              {
+                "type": "text",
+                "text": "①事業に関わるご質問　→　他社との契約や事業の運営に関わるご質問\nこちらは、堀上様にご連絡をお願いいたします。\n※ご連絡方法につきましては堀上さんとご相談ください。\n\n②バックオフィスに関わるご質問　→　経理・税務・登記変更等、管理業務に関わるご質問\nこちらは株式会社OneOfficeの担当者宛てにメールにてご連絡をお願いいたします。\n\n【お問い合わせの際の注意点】\n　■宛先には以下を必ず指定してください。\n　TO：1office@1office.co.jp\n　CC：御社のグループメールアドレス（メールアドレス）\n\n■返信時は必ず「全員返信」としてください。\n\n■タイトルに御社名を記載してください。"
+              }
+            ],
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1728799916.256479",
+    "client_msg_id": "3a6da620-9eb3-46d8-8ba3-9ad23a56378a",
+    "reactions": [
+      {
+        "name": "saluting_face",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1728691720.972999",
+    "client_msg_id": "cb7585ac-94b7-41c5-aa3c-8bf8b18b0cbc",
+    "text": "<@U06FYMZJ2Q2>\n\n<https://idea-iko1320.slack.com/archives/C07C6142Z6V/p1728485619410749>\n見積書、領収書、請求書テンプレ\n\n<https://drive.google.com/drive/folders/1G7NIcfwm6CiCm1RHNltvpGhInDPnuXIj?usp=sharing>",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1728691720.972999",
+    "reply_count": 7,
+    "reply_users_count": 2,
+    "latest_reply": "1728799271.377219",
+    "reply_users": [
+      "U06FYMZJ2Q2",
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "from_url": "https://idea-iko1320.slack.com/archives/C07C6142Z6V/p1728485619410749",
+        "ts": "1728485619.410749",
+        "author_id": "U06FYMZJ2Q2",
+        "channel_id": "C07C6142Z6V",
+        "channel_team": "T0688JH4ALV",
+        "is_msg_unfurl": true,
+        "message_blocks": [
+          {
+            "team": "T0688JH4ALV",
+            "channel": "C07C6142Z6V",
+            "ts": "1728485619.410749",
+            "message": {
+              "blocks": [
+                {
+                  "type": "rich_text",
+                  "block_id": "ZWp5w",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "○ 三國のTask\n・ハッカソン 運営費 請求書作成\n期限 : "
+                        },
+                        {
+                          "type": "user",
+                          "user_id": "U068Q5LCTG9"
+                        },
+                        {
+                          "type": "text",
+                          "text": " から内容共有され次第すぐに\n\n・ハッカソン 同意書"
+                        },
+                        {
+                          "type": "text",
+                          "text": "(Google Form)"
+                        },
+                        {
+                          "type": "text",
+                          "text": "作成\n期限 : "
+                        },
+                        {
+                          "type": "user",
+                          "user_id": "U068Q5LCTG9"
+                        },
+                        {
+                          "type": "text",
+                          "text": " から内容共有され次第\n→ 内容をもとに河村さんに確認"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          }
+        ],
+        "id": 1,
+        "original_url": "https://idea-iko1320.slack.com/archives/C07C6142Z6V/p1728485619410749",
+        "fallback": "[October 9th, 2024 7:53 AM] mikunihiroto: ○ 三國のTask\n・ハッカソン 運営費 請求書作成\n期限 : <@U068Q5LCTG9> から内容共有され次第すぐに\n\n・ハッカソン 同意書(Google Form)作成\n期限 : <@U068Q5LCTG9> から内容共有され次第\n→ 内容をもとに河村さんに確認",
+        "text": "○ 三國のTask\n・ハッカソン 運営費 請求書作成\n期限 : <@U068Q5LCTG9> から内容共有され次第すぐに\n\n・ハッカソン 同意書(Google Form)作成\n期限 : <@U068Q5LCTG9> から内容共有され次第\n→ 内容をもとに河村さんに確認",
+        "author_name": "三國 紘斗",
+        "author_link": "https://idea-iko1320.slack.com/team/U06FYMZJ2Q2",
+        "author_icon": "https://avatars.slack-edge.com/2024-04-13/6980739584304_89ad1bfb7de02ebe314c_48.png",
+        "author_subname": "三國 紘斗",
+        "mrkdwn_in": [
+          "text"
+        ],
+        "footer": "Slack の会話"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bq4WS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://idea-iko1320.slack.com/archives/C07C6142Z6V/p1728485619410749"
+              },
+              {
+                "type": "text",
+                "text": "\n見積書、領収書、請求書テンプレ\n\n"
+              },
+              {
+                "type": "link",
+                "url": "https://drive.google.com/drive/folders/1G7NIcfwm6CiCm1RHNltvpGhInDPnuXIj?usp=sharing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "saluting_face",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1728797067.049129",
+        "client_msg_id": "a61224ae-4846-476b-9fe6-99b34fe0adbc",
+        "text": "<@U068Q5LCTG9>\n今回のハッカソンは請求書のみの作成で良いの？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1728691720.972999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "HXiSd",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U068Q5LCTG9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n今回のハッカソンは請求書のみの作成で良いの？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1728797087.508879",
+        "client_msg_id": "11accd42-d83f-4099-a001-a5424793993a",
+        "text": "いや、領収書も作成する",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1728691720.972999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "0SeS4",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "いや、領収書も作成する"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "disappointed",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1728797975.014749",
+        "client_msg_id": "e0f5152a-7d20-4fcc-a553-84a84cf20d57",
+        "text": "<@U068Q5LCTG9>\n請求書と領収書の送り先は同じところ？\n請求書は誰に請求するの？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1728691720.972999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "AXxad",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U068Q5LCTG9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n請求書と領収書の送り先は同じところ？\n請求書は誰に請求するの？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1728798309.132869",
+        "edited": {
+          "user": "U068Q5LCTG9",
+          "ts": "1728798324.000000"
+        },
+        "client_msg_id": "1663062b-d187-4ae6-acbe-7ecacbb869c2",
+        "text": "<@U06FYMZJ2Q2>\n> 請求書と領収書の送り先は同じところ？\n同じところ。\n> 請求書は誰に請求するの？\n平野さん (ジョブシードの代表の方)",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1728691720.972999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "J0eNu",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "請求書と領収書の送り先は同じところ？"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "同じところ。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_quote",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "請求書は誰に請求するの？"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "平野さん (ジョブシードの代表の方)"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1728798362.373999",
+        "client_msg_id": "c91fb320-caee-41bc-a3c9-d0383faa9616",
+        "text": "<@U068Q5LCTG9>\nOK。\nもし請求番号にルールがあるのであれば教えてください。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1728691720.972999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "SdgDW",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U068Q5LCTG9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nOK。\nもし請求番号にルールがあるのであれば教えてください。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1728798598.879799",
+        "client_msg_id": "5ad8f3fc-37f6-4e78-87f8-abadf73dc8d6",
+        "text": "<@U06FYMZJ2Q2>\nない、そこも一般的に会社毎に違うルールを作っているようなので、接頭辞とかの管理しやすいようなルールを経理の仕事として作って欲しい。\n今の所、下一桁から昇順で数字が上がるようなルールしか作っていない",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1728691720.972999",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "v+gs7",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nない、そこも一般的に会社毎に違うルールを作っているようなので、接頭辞とかの管理しやすいようなルールを経理の仕事として作って欲しい。\n今の所、下一桁から昇順で数字が上がるようなルールしか作っていない"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1728799271.377219",
+        "client_msg_id": "2fc3c81e-ceaa-44a8-9abd-1819683e0794",
+        "text": "<@U06FYMZJ2Q2>\n<https://idea-iko1320.slack.com/archives/C07AV9WM78R/p1728798598879799?thread_ts=1728691720.972999&amp;cid=C07AV9WM78R>\nピンク本のp212〜215を参照して構築してくれ。\nNotion上で、構築する時のNotionのデータベース機能の考え方は教えるので",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1728691720.972999",
+        "parent_user_id": "U068Q5LCTG9",
+        "attachments": [
+          {
+            "from_url": "https://idea-iko1320.slack.com/archives/C07AV9WM78R/p1728798598879799?thread_ts=1728691720.972999&amp;cid=C07AV9WM78R",
+            "ts": "1728798598.879799",
+            "author_id": "U068Q5LCTG9",
+            "channel_id": "C07AV9WM78R",
+            "channel_team": "T0688JH4ALV",
+            "is_msg_unfurl": true,
+            "is_reply_unfurl": true,
+            "message_blocks": [
+              {
+                "team": "T0688JH4ALV",
+                "channel": "C07AV9WM78R",
+                "ts": "1728798598.879799",
+                "message": {
+                  "blocks": [
+                    {
+                      "type": "rich_text",
+                      "block_id": "v+gs7",
+                      "elements": [
+                        {
+                          "type": "rich_text_section",
+                          "elements": [
+                            {
+                              "type": "user",
+                              "user_id": "U06FYMZJ2Q2"
+                            },
+                            {
+                              "type": "text",
+                              "text": "\nない、そこも一般的に会社毎に違うルールを作っているようなので、接頭辞とかの管理しやすいようなルールを経理の仕事として作って欲しい。\n今の所、下一桁から昇順で数字が上がるようなルールしか作っていない"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "id": 1,
+            "original_url": "https://idea-iko1320.slack.com/archives/C07AV9WM78R/p1728798598879799?thread_ts=1728691720.972999&amp;cid=C07AV9WM78R",
+            "fallback": "[October 12th, 2024 10:49 PM] sasakisyota: <@U06FYMZJ2Q2>\nない、そこも一般的に会社毎に違うルールを作っているようなので、接頭辞とかの管理しやすいようなルールを経理の仕事として作って欲しい。\n今の所、下一桁から昇順で数字が上がるようなルールしか作っていない",
+            "text": "<@U06FYMZJ2Q2>\nない、そこも一般的に会社毎に違うルールを作っているようなので、接頭辞とかの管理しやすいようなルールを経理の仕事として作って欲しい。\n今の所、下一桁から昇順で数字が上がるようなルールしか作っていない",
+            "author_name": "佐々木翔太",
+            "author_link": "https://idea-iko1320.slack.com/team/U068Q5LCTG9",
+            "author_icon": "https://avatars.slack-edge.com/2024-01-15/6470450607939_1598999de23a75ffb473_48.png",
+            "author_subname": "佐々木翔太",
+            "mrkdwn_in": [
+              "text"
+            ],
+            "footer": "Slack の会話内のスレッド"
+          }
+        ],
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "H+aSO",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "link",
+                    "url": "https://idea-iko1320.slack.com/archives/C07AV9WM78R/p1728798598879799?thread_ts=1728691720.972999&cid=C07AV9WM78R"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nピンク本のp212〜215を参照して構築してくれ。\nNotion上で、構築する時のNotionのデータベース機能の考え方は教えるので"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "saluting_face",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1728632916.198489",
+    "client_msg_id": "9FB679F5-DCEC-4852-975D-5F13950BBC79",
+    "text": ":star:契約締結上のルール\n\n契約を締結する際、契約に関する正式な通知や連絡などが行われる住所でなければならないため、一般的には法的な住所、つまり住民票に登録されている住所でなければならない。\nそのため、契約書に記載してもらう住所としては、住民票のある住所を使用するのが適切。\n\nただし、現住所も契約書に記載してもらうことで、連絡がスムーズに行えるようになる。\n\n契約書の中で、現住所と住民票に登録されている住所の両方を記載しても問題無い。\nその際、連絡先として現住所を利用する旨を別途明記しておくとより明瞭。",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "7MR3b",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "emoji",
+                "name": "star",
+                "unicode": "2b50"
+              },
+              {
+                "type": "text",
+                "text": "契約締結上のルール\n\n契約を締結する際、契約に関する正式な通知や連絡などが行われる住所でなければならないため、一般的には法的な住所、つまり住民票に登録されている住所でなければならない。\nそのため、契約書に記載してもらう住所としては、住民票のある住所を使用するのが適切。\n\nただし、現住所も契約書に記載してもらうことで、連絡がスムーズに行えるように"
+              },
+              {
+                "type": "text",
+                "text": "なる。"
+              },
+              {
+                "type": "text",
+                "text": "\n\n契約書の中で、現住所と住民票"
+              },
+              {
+                "type": "text",
+                "text": "に登録されている"
+              },
+              {
+                "type": "text",
+                "text": "住所の両方を記載しても問題"
+              },
+              {
+                "type": "text",
+                "text": "無い。\nその際、"
+              },
+              {
+                "type": "text",
+                "text": "連絡先として現住所を利用する旨を別途明記"
+              },
+              {
+                "type": "text",
+                "text": "しておくとより明瞭。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1728532467.375659",
+    "client_msg_id": "C060ABCD-FC31-485D-BBCA-449523EF2D59",
+    "text": "○ 三國のタスク\n・損益分岐点の定義・調査\n期日 : 10月11日まで\n\n・インボイス制度 調査\n期日 : 10月11日まで\n\n・アルバイト契約・インターン契約 資料作成\n期日 : 10月11日まで\n\n・帳簿のテンプレート構築(Notion上)、概念・ルール設定\n期日 : 10月20日まで\n\n・C/Fのルール設定\n期日 : 10月20日まで\n\n・政策金融公庫 調査\n期日 : 未定",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "NYM0N",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "○ 三國のタスク\n・損益分岐点の定義・調査\n期日 : 10月11日まで\n\n・インボイス制度 調査\n期日 : 10月11日まで\n"
+              },
+              {
+                "type": "text",
+                "text": "\n・アルバイト契約・インターン契約 資料作成\n期日 : 10月11日まで"
+              },
+              {
+                "type": "text",
+                "text": "\n\n・帳簿のテンプレート構築(Notion上)、概念・ルール設定\n期日 : 10月20日まで\n\n・C/Fのルール設定\n期日 : 10月20日まで\n\n・政策金融公庫 調査\n期日 : 未定"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1727865434.630429",
+    "client_msg_id": "eb9d022a-7299-4c0c-8020-6079261efcc4",
+    "text": "*<https://www.notion.so/20241002_-_DX-9b042cc3b27040ccb93195da219a8a44?pvs=4|領収書更新>*\n• *DXアドバイザー受講料金*\n    ◦ *33000円*\n<https://www.notion.so/20241002_-_DX-9b042cc3b27040ccb93195da219a8a44?pvs=4>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1727865180,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/20241002_-_DX-9b042cc3b27040ccb93195da219a8a44?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "20241002_フォーバル_DXアドバイザー受講料金",
+        "title": "20241002_フォーバル_DXアドバイザー受講料金",
+        "title_link": "https://www.notion.so/20241002_-_DX-9b042cc3b27040ccb93195da219a8a44?pvs=6&utm_content=9b042cc3-b270-40cc-b931-95da219a8a44&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cEgB1",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20241002_-_DX-9b042cc3b27040ccb93195da219a8a44?pvs=4",
+                "text": "領収書更新",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "DXアドバイザー受講料金",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "33000円",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20241002_-_DX-9b042cc3b27040ccb93195da219a8a44?pvs=4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1727794506.834809",
+    "client_msg_id": "4222ccf1-1271-4872-a41d-320ad7094048",
+    "text": "<@U06FYMZJ2Q2> 稲場さんとのお話の中でインボイスをとっていないか聞かれたんだが、今一取るのと取らないのとでスタートアップでのメリット・デメリットを理解していない。調べたら出てくるんだろうけど、今後取るとなった場合の手続きの流れをまとめるのが非常にめんどくさい。\n今後の取引拡大のためにもインボイスは取っておきたいと思っているんだけど、その中身と内容を調べてNotion上にまとめて共有してくれないかい？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b0dmW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " 稲場さんとのお話の中でインボイスをとっていないか聞かれたんだが、今一取るのと取らないのとでスタートアップでのメリット・デメリットを理解していない。調べたら出てくるんだろうけど、今後取るとなった場合の手続きの流れをまとめるのが非常にめんどくさい。\n今後の取引拡大のためにもインボイスは取っておきたいと思っているんだけど、その中身と内容を調べてNotion上にまとめて共有してくれないかい？"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "saluting_face",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1727417166.632699",
+    "client_msg_id": "759ecb6f-d43a-477e-b6b3-9522d76eb5bb",
+    "text": "*領収書更新*\n• *9月分家賃*\n    ◦ *15400円*\n<https://www.notion.so/20240927_HAKOWORKS-9-b1807c14a76541adab4a37e33c54f033?pvs=4>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1727416920,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/20240927_HAKOWORKS-9-b1807c14a76541adab4a37e33c54f033?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "20240927_HAKOWORKS函館9月分",
+        "title": "20240927_HAKOWORKS函館9月分",
+        "title_link": "https://www.notion.so/20240927_HAKOWORKS-9-b1807c14a76541adab4a37e33c54f033?pvs=6&utm_content=b1807c14-a765-41ad-ab4a-37e33c54f033&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "KIc/9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "領収書更新",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "9月分家賃",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "15400円",
+                    "style": {
+                      "bold": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "link",
+                "url": "https://www.notion.so/20240927_HAKOWORKS-9-b1807c14a76541adab4a37e33c54f033?pvs=4"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

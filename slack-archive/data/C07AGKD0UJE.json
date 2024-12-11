@@ -1,0 +1,4988 @@
+[
+  {
+    "subtype": "thread_broadcast",
+    "user": "U06FYMZJ2Q2",
+    "thread_ts": "1733897567.370449",
+    "root": {
+      "user": "U06RD6MGVK9",
+      "type": "message",
+      "ts": "1733897567.370449",
+      "client_msg_id": "557b307f-4e59-447c-9433-2d75d0075306",
+      "text": "<@U081Q6XTNHZ> <@U06FYMZJ2Q2> 作業用のハドルミーティングをこのSlackに導入したのですがいいですか？",
+      "team": "T0688JH4ALV",
+      "thread_ts": "1733897567.370449",
+      "reply_count": 14,
+      "reply_users_count": 5,
+      "latest_reply": "1733904365.003799",
+      "reply_users": [
+        "U06FYMZJ2Q2",
+        "U06RD6MGVK9",
+        "U068Q5LCTG9",
+        "U081Q6XTNHZ",
+        "U07R0SR8MDL"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1733904365.003799",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HCmHc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U081Q6XTNHZ"
+                },
+                {
+                  "type": "text",
+                  "text": " "
+                },
+                {
+                  "type": "user",
+                  "user_id": "U06FYMZJ2Q2"
+                },
+                {
+                  "type": "text",
+                  "text": " 作業用のハドルミーティングをこのSlackに導入したのですがいいですか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1733897617.575229",
+    "client_msg_id": "979a92e5-d75e-4bce-a530-7cfbe345f308",
+    "text": "<@U081Q6XTNHZ> くんと検討します。\n無料プランだと2人のみでしかハドル使えないんですよね〜",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3CUyZ",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U081Q6XTNHZ"
+              },
+              {
+                "type": "text",
+                "text": " くんと検討します。\n無料プランだと2人のみでしかハドル使えないんですよね〜"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06RD6MGVK9",
+    "type": "message",
+    "ts": "1733897567.370449",
+    "client_msg_id": "557b307f-4e59-447c-9433-2d75d0075306",
+    "text": "<@U081Q6XTNHZ> <@U06FYMZJ2Q2> 作業用のハドルミーティングをこのSlackに導入したのですがいいですか？",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1733897567.370449",
+    "reply_count": 14,
+    "reply_users_count": 5,
+    "latest_reply": "1733904365.003799",
+    "reply_users": [
+      "U06FYMZJ2Q2",
+      "U06RD6MGVK9",
+      "U068Q5LCTG9",
+      "U081Q6XTNHZ",
+      "U07R0SR8MDL"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1733904365.003799",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HCmHc",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U081Q6XTNHZ"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " 作業用のハドルミーティングをこのSlackに導入したのですがいいですか？"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "subtype": "thread_broadcast",
+        "user": "U06FYMZJ2Q2",
+        "thread_ts": "1733897567.370449",
+        "root": {
+          "user": "U06RD6MGVK9",
+          "type": "message",
+          "ts": "1733897567.370449",
+          "client_msg_id": "557b307f-4e59-447c-9433-2d75d0075306",
+          "text": "<@U081Q6XTNHZ> <@U06FYMZJ2Q2> 作業用のハドルミーティングをこのSlackに導入したのですがいいですか？",
+          "team": "T0688JH4ALV",
+          "thread_ts": "1733897567.370449",
+          "reply_count": 14,
+          "reply_users_count": 5,
+          "latest_reply": "1733904365.003799",
+          "reply_users": [
+            "U06FYMZJ2Q2",
+            "U06RD6MGVK9",
+            "U068Q5LCTG9",
+            "U081Q6XTNHZ",
+            "U07R0SR8MDL"
+          ],
+          "is_locked": false,
+          "subscribed": true,
+          "last_read": "1733904365.003799",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "HCmHc",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U081Q6XTNHZ"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "user",
+                      "user_id": "U06FYMZJ2Q2"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 作業用のハドルミーティングをこのSlackに導入したのですがいいですか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "type": "message",
+        "ts": "1733897617.575229",
+        "client_msg_id": "979a92e5-d75e-4bce-a530-7cfbe345f308",
+        "text": "<@U081Q6XTNHZ> くんと検討します。\n無料プランだと2人のみでしかハドル使えないんですよね〜",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "3CUyZ",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U081Q6XTNHZ"
+                  },
+                  {
+                    "type": "text",
+                    "text": " くんと検討します。\n無料プランだと2人のみでしかハドル使えないんですよね〜"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06RD6MGVK9",
+        "type": "message",
+        "ts": "1733897828.144329",
+        "client_msg_id": "1344a8d1-5f93-482a-b46f-a100fe6d23d6",
+        "text": "検討お願いします！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "A4jSp",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "検討お願いします！"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1733897949.765589",
+        "client_msg_id": "64844dca-10b4-41d3-876d-0b8dcef073d3",
+        "text": "検討を加速させてください",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "sSrz2",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "検討を加速させてください"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U081Q6XTNHZ",
+        "type": "message",
+        "ts": "1733898240.335379",
+        "client_msg_id": "583269ad-face-46fc-87bf-a6ed0e5b1f5b",
+        "text": "作業用ならdiscordが一番良いかなと思います",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "TPBnP",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "作業用ならdiscordが一番良いかなと思います"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1::skin-tone-2",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          },
+          {
+            "name": "+1::skin-tone-6",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          },
+          {
+            "name": "+1",
+            "users": [
+              "U06RD6MGVK9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U06RD6MGVK9",
+        "type": "message",
+        "ts": "1733898573.978729",
+        "client_msg_id": "28873113-ea35-44af-be73-489c3d6b2297",
+        "text": "Discordいいね！立てて欲しいです",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "SWM2q",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Discordいいね！立てて欲しいです"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1733900866.999199",
+        "client_msg_id": "a80aa46f-0a90-4888-9b05-cbedd086076e",
+        "text": "Meetsではだめなのだろうか...?\n（プラットフォーム増えると情報が散乱しやすいので...）",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "HHuOd",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "Meetsではだめなのだろうか...?\n（プラットフォーム増えると情報が散乱しやすいので...）"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1733900929.292119",
+        "edited": {
+          "user": "U06FYMZJ2Q2",
+          "ts": "1733900991.000000"
+        },
+        "client_msg_id": "d64b55f4-d7dc-48f2-9c46-ed8fea4ccda6",
+        "text": "主に篤弥のためって考えたらdiscordでなくても良いと思います。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "VmKkL",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "主に篤弥のためって考えたらdiscordでなくても良いと思います。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1733900996.630009",
+        "client_msg_id": "c053efe0-f319-43f5-b9eb-51c2fb8136d2",
+        "text": "ただ、今後アルバイトの方が入ってきた時に、サボタージュ防止のためにdiscordを導入したい by 佐々木とのことでした。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "+NL67",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ただ、今後アルバイトの方が入ってきた時に、サボタージュ防止のためにdiscordを導入したい by 佐々木とのことでした。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07R0SR8MDL"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U081Q6XTNHZ",
+        "type": "message",
+        "ts": "1733903250.794429",
+        "client_msg_id": "2244ad7c-0d49-4c30-94bf-57005dba4470",
+        "text": "一旦はmeetsでいいかもしれないです。\nただmeetsはいちいちミーティングを設定する必要があるので、手軽さという面でdiscordが良いと思いました。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "sspsV",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "一旦はmeetsでいいかもしれないです。\nただmeetsはいちいちミーティングを設定する必要があるので、手軽さという面でdiscordが良いと思いました。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1733904004.036929",
+        "client_msg_id": "3b2a6b0c-b1b0-4ce4-b34c-762e6c4906d8",
+        "text": "手軽さが欲しい",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "N2a3U",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "手軽さが欲しい"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1733904280.243459",
+        "client_msg_id": "a255535b-f41b-4807-b5e6-623a86d70ea6",
+        "text": "僕自身discordを使ったことがないので、使ったことがある方のご意見頂戴したいですが、カレンダーに予定を入れるのも、discord上のやりとりで重要なものをそのまま留めておかずにSlackの該当するチャンネルにも共有するのも、どちらも多少面倒はかかると思うので、ひささん仰る通り情報の散乱を防ぐ意味でも、Google meetsでも良いかなと個人的には思います。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "UCLir",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "僕自身discordを使ったことがないので、使ったことがある方のご意見頂戴したいですが、カレンダーに予定を入れるのも、discord上のやりとりで重要なものをそのまま留めておかずにSlackの該当するチャンネルにも共有するのも、どちらも多少面倒はかかると思うので、ひささん仰る通り情報の散乱を防ぐ意味でも、Google meetsでも良いかなと個人的には思います。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1733904329.116479",
+        "client_msg_id": "6d0e5a10-e08d-4e6c-afe7-42d5ab1a6662",
+        "text": "結局情報の散乱防止を徹底するのに労力を使うのは威くんと僕になってしまうので...",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "55x9Y",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "結局情報の散乱防止を徹底するのに労力を使うのは威くんと僕になってしまうので..."
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U081Q6XTNHZ",
+        "type": "message",
+        "ts": "1733904338.935029",
+        "client_msg_id": "adc17f6e-f85e-4fa5-a9f7-b1b54ec425f4",
+        "text": "discordはボイスチャンネルのみの使用で、テキストチャンネルの使用は禁止みたいな運用で考えてました。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "SbW00",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "discordはボイスチャンネルのみの使用で、テキストチャンネルの使用は禁止みたいな運用で考えてました。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1733904365.003799",
+        "client_msg_id": "ae4b876b-b79c-409e-a4af-72d0e845acb6",
+        "text": "なるほど、それすごくいいですね！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733897567.370449",
+        "parent_user_id": "U06RD6MGVK9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "11r5c",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "なるほど、それすごくいいですね！"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733886462.682359",
+    "client_msg_id": "47631066-E5E5-461A-9399-4677C3DA4ED5",
+    "text": "河村さんこれ",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "eR4dk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "河村さんこれ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "<!channel>\nお疲れさまです。\nNotionに知らない方が入ってらっしゃるのですが、河村工業の河村さん繋がりの方でしょうか？\nどなたか分かる方いらっしゃいますか？",
+    "files": [
+      {
+        "id": "F084Y82PT89",
+        "created": 1733885769,
+        "timestamp": 1733885769,
+        "name": "スクリーンショット 2024-12-11 11.55.15.png",
+        "title": "スクリーンショット 2024-12-11 11.55.15.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U06FYMZJ2Q2",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 24053,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F084Y82PT89/____________________________2024-12-11_11.55.15.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F084Y82PT89/download/____________________________2024-12-11_11.55.15.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F084Y82PT89-491a43b412/____________________________2024-12-11_11.55.15_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F084Y82PT89-491a43b412/____________________________2024-12-11_11.55.15_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F084Y82PT89-491a43b412/____________________________2024-12-11_11.55.15_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 47,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F084Y82PT89-491a43b412/____________________________2024-12-11_11.55.15_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 62,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F084Y82PT89-491a43b412/____________________________2024-12-11_11.55.15_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F084Y82PT89-491a43b412/____________________________2024-12-11_11.55.15_720.png",
+        "thumb_720_w": 720,
+        "thumb_720_h": 93,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F084Y82PT89-491a43b412/____________________________2024-12-11_11.55.15_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 104,
+        "original_w": 912,
+        "original_h": 118,
+        "thumb_tiny": "AwAGADCkCAeRS7l/uim0UALx70cUlFACjHpQcdhSUUAf/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U06FYMZJ2Q2/F084Y82PT89/____________________________2024-12-11_11.55.15.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F084Y82PT89-183c013f9e",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U06FYMZJ2Q2",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cxQXY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "broadcast",
+                "range": "channel"
+              },
+              {
+                "type": "text",
+                "text": "\nお疲れさまです。\nNotionに知らない方が入ってらっしゃるのですが、河村工業の河村さん繋がりの方でしょうか？\nどなたか分かる方いらっしゃいますか？"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733886008.094849",
+    "client_msg_id": "c21ba6ed-c8bd-4d10-92ae-d948509117d7"
+  },
+  {
+    "text": "これです。\ntsuの方です。以前変更したので二つ存在しているんだと思います",
+    "files": [
+      {
+        "id": "F084EQAUTA6",
+        "created": 1733826813,
+        "timestamp": 1733826813,
+        "name": "スクリーンショット 2024-12-10 19.33.31.png",
+        "title": "スクリーンショット 2024-12-10 19.33.31.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 34365,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F084EQAUTA6/____________________________2024-12-10_19.33.31.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F084EQAUTA6/download/____________________________2024-12-10_19.33.31.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F084EQAUTA6-ba136fe8cc/____________________________2024-12-10_19.33.31_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F084EQAUTA6-ba136fe8cc/____________________________2024-12-10_19.33.31_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F084EQAUTA6-ba136fe8cc/____________________________2024-12-10_19.33.31_360.png",
+        "thumb_360_w": 360,
+        "thumb_360_h": 181,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F084EQAUTA6-ba136fe8cc/____________________________2024-12-10_19.33.31_480.png",
+        "thumb_480_w": 480,
+        "thumb_480_h": 241,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F084EQAUTA6-ba136fe8cc/____________________________2024-12-10_19.33.31_160.png",
+        "original_w": 606,
+        "original_h": 304,
+        "thumb_tiny": "AwAYADDRZtvagsduQMmhlDDmlIwuASPpQA3e2CdnTp705SSoJGDTdv8AttS7D/fagB1FN28/ealAx3J+tAC0jDIpaKAG4Pp+tBBP/wCunUUAFFFFAH//2Q==",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F084EQAUTA6/____________________________2024-12-10_19.33.31.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F084EQAUTA6-005df286b8",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wRrUK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "これです。\ntsuの方です。以前変更したので二つ存在しているんだと思います"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733826838.804119",
+    "client_msg_id": "0a4b450c-b51e-4ebd-9373-0c9edbcd236e",
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U081Q6XTNHZ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1733826693.815569",
+    "client_msg_id": "0cf14bef-b0a5-4e8b-a068-286d7fa1a53f",
+    "text": "<@U068Q5LCTG9>\n威くんのメールアドレスに関して、<mailto:matui@s-s-idea.com|matui@s-s-idea.com>と<mailto:matsui@s-s-idea.com|matsui@s-s-idea.com> が出てくるのですが、2アカウント存在していますか？\n正しいスペルは<mailto:matsui@s-s-idea.com|matsui@s-s-idea.com>だと思うのですが",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cqGE2",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": "\n威くんのメールアドレスに関して、"
+              },
+              {
+                "type": "link",
+                "url": "mailto:matui@s-s-idea.com",
+                "text": "matui@s-s-idea.com",
+                "unsafe": true
+              },
+              {
+                "type": "text",
+                "text": "と"
+              },
+              {
+                "type": "link",
+                "url": "mailto:matsui@s-s-idea.com",
+                "text": "matsui@s-s-idea.com",
+                "unsafe": true
+              },
+              {
+                "type": "text",
+                "text": " が出てくるのですが、2アカウント存在していますか？\n正しいスペルは"
+              },
+              {
+                "type": "link",
+                "url": "mailto:matsui@s-s-idea.com",
+                "text": "matsui@s-s-idea.com",
+                "unsafe": true
+              },
+              {
+                "type": "text",
+                "text": "だと思うのですが"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_purpose",
+    "user": "U06FYMZJ2Q2",
+    "purpose": "勤怠管理や労務管理などについて話すチャンネルです。",
+    "text": "がこのチャンネルの説明を「勤怠管理や労務管理などについて話すチャンネルです。」に設定しました",
+    "type": "message",
+    "ts": "1733743264.185269"
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U068Q5LCTG9",
+    "thread_ts": "1733738758.454419",
+    "root": {
+      "text": "<@U06FYMZJ2Q2>\nMACC共同研究参加者のリスト",
+      "files": [
+        {
+          "id": "F0845GG8CJ1",
+          "created": 1733738738,
+          "timestamp": 1733738738,
+          "name": "スクリーンショット 2024-12-09 19.05.07.png",
+          "title": "スクリーンショット 2024-12-09 19.05.07.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U068Q5LCTG9",
+          "user_team": "T0688JH4ALV",
+          "editable": false,
+          "size": 213475,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F0845GG8CJ1/____________________________2024-12-09_19.05.07.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0845GG8CJ1/download/____________________________2024-12-09_19.05.07.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_360.png",
+          "thumb_360_w": 163,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_480.png",
+          "thumb_480_w": 217,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_720.png",
+          "thumb_720_w": 326,
+          "thumb_720_h": 720,
+          "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 1769,
+          "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_960.png",
+          "thumb_960_w": 434,
+          "thumb_960_h": 960,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_1024.png",
+          "thumb_1024_w": 463,
+          "thumb_1024_h": 1024,
+          "original_w": 804,
+          "original_h": 1778,
+          "thumb_tiny": "AwAwABXQQj6dafUcfT15PX6/SpKAIpu1R1JN2qOgCWPp+JqSo4/u9+p/nUlAEU3ao6km7VHQBLGAB1HU1JUcfTv1PWpKAIpu1R1O6bu+MU3yvegD/9k=",
+          "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0845GG8CJ1/____________________________2024-12-09_19.05.07.png",
+          "permalink_public": "https://slack-files.com/T0688JH4ALV-F0845GG8CJ1-45063eb097",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U068Q5LCTG9",
+      "display_as_bot": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "en+Nj",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U06FYMZJ2Q2"
+                },
+                {
+                  "type": "text",
+                  "text": "\nMACC共同研究参加者のリスト"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": "message",
+      "ts": "1733738758.454419",
+      "client_msg_id": "cade71a4-4f69-48cf-b1df-359b199d8c9c",
+      "thread_ts": "1733738758.454419",
+      "reply_count": 4,
+      "reply_users_count": 1,
+      "latest_reply": "1733742101.076359",
+      "reply_users": [
+        "U068Q5LCTG9"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "type": "message",
+    "ts": "1733742101.076359",
+    "edited": {
+      "user": "U068Q5LCTG9",
+      "ts": "1733742121.000000"
+    },
+    "client_msg_id": "16e0e498-30ef-4b31-9a6c-7d96cb2128e2",
+    "text": "<@U06FYMZJ2Q2>\n展開しても良いとの了承を得たから、今後関わりを持ってて微妙な人はこっちに送り込んで育ってもらってこっちに入ってもらう流れを作ったら良いかもね\n\n育成を以下の流れで未来大の2,3年生とかで実務経験を持ってもらうのをできるんじゃないか\n1. GCI/DL講習\n2. 共同研究\n3. iDeaの実践",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "VpTR+",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n展開しても良いとの了承を得たから、今後関わりを持ってて微妙な人はこっちに送り込んで育ってもらってこっちに入ってもらう流れを作ったら良いかもね\n\n育成を以下の流れで未来大の2,3年生とかで実務経験を持ってもらうのをできるんじゃないか\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "GCI/DL講習"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "共同研究"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "iDeaの実践"
+                  }
+                ]
+              }
+            ],
+            "style": "ordered",
+            "indent": 0,
+            "border": 0
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "text": "<@U06FYMZJ2Q2>\nMACC共同研究参加者のリスト",
+    "files": [
+      {
+        "id": "F0845GG8CJ1",
+        "created": 1733738738,
+        "timestamp": 1733738738,
+        "name": "スクリーンショット 2024-12-09 19.05.07.png",
+        "title": "スクリーンショット 2024-12-09 19.05.07.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 213475,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F0845GG8CJ1/____________________________2024-12-09_19.05.07.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0845GG8CJ1/download/____________________________2024-12-09_19.05.07.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_360.png",
+        "thumb_360_w": 163,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_480.png",
+        "thumb_480_w": 217,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_720.png",
+        "thumb_720_w": 326,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1769,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_960.png",
+        "thumb_960_w": 434,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_1024.png",
+        "thumb_1024_w": 463,
+        "thumb_1024_h": 1024,
+        "original_w": 804,
+        "original_h": 1778,
+        "thumb_tiny": "AwAwABXQQj6dafUcfT15PX6/SpKAIpu1R1JN2qOgCWPp+JqSo4/u9+p/nUlAEU3ao6km7VHQBLGAB1HU1JUcfTv1PWpKAIpu1R1O6bu+MU3yvegD/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0845GG8CJ1/____________________________2024-12-09_19.05.07.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F0845GG8CJ1-45063eb097",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "en+Nj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nMACC共同研究参加者のリスト"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733738758.454419",
+    "client_msg_id": "cade71a4-4f69-48cf-b1df-359b199d8c9c",
+    "thread_ts": "1733738758.454419",
+    "reply_count": 4,
+    "reply_users_count": 1,
+    "latest_reply": "1733742101.076359",
+    "reply_users": [
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      },
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "text": "顔出している人",
+        "files": [
+          {
+            "id": "F084M3528SD",
+            "created": 1733738946,
+            "timestamp": 1733738946,
+            "name": "スクリーンショット 2024-12-09 19.08.33.png",
+            "title": "スクリーンショット 2024-12-09 19.08.33.png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 227655,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F084M3528SD/____________________________2024-12-09_19.08.33.png",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F084M3528SD/download/____________________________2024-12-09_19.08.33.png",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M3528SD-13ad027867/____________________________2024-12-09_19.08.33_64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M3528SD-13ad027867/____________________________2024-12-09_19.08.33_80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M3528SD-13ad027867/____________________________2024-12-09_19.08.33_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 109,
+            "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M3528SD-13ad027867/____________________________2024-12-09_19.08.33_480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 146,
+            "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M3528SD-13ad027867/____________________________2024-12-09_19.08.33_160.png",
+            "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M3528SD-13ad027867/____________________________2024-12-09_19.08.33_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 218,
+            "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M3528SD-13ad027867/____________________________2024-12-09_19.08.33_800.png",
+            "thumb_800_w": 800,
+            "thumb_800_h": 243,
+            "original_w": 844,
+            "original_h": 256,
+            "thumb_tiny": "AwAOADCZreBRuMSYAB6VWa4tVYKLZSO5xUlxOVjYOAQRjgVXWZRDuMYODjHrQBo/ZYP+eSflTZLaCOFnMSnAz0pYboTAYXANRvK7RsjYweKAKSSJv/eW8e3OOB0q61rEFY+WvT0qEAEhSBjIFXW5ib6GkB//2Q==",
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F084M3528SD/____________________________2024-12-09_19.08.33.png",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F084M3528SD-73a01fb9c4",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          },
+          {
+            "id": "F0841PGNY6A",
+            "created": 1733738949,
+            "timestamp": 1733738949,
+            "name": "スクリーンショット 2024-12-09 19.08.38.png",
+            "title": "スクリーンショット 2024-12-09 19.08.38.png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 523895,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F0841PGNY6A/____________________________2024-12-09_19.08.38.png",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0841PGNY6A/download/____________________________2024-12-09_19.08.38.png",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 75,
+            "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_480.png",
+            "thumb_480_w": 480,
+            "thumb_480_h": 101,
+            "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_160.png",
+            "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_720.png",
+            "thumb_720_w": 720,
+            "thumb_720_h": 151,
+            "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_800.png",
+            "thumb_800_w": 800,
+            "thumb_800_h": 168,
+            "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_960.png",
+            "thumb_960_w": 960,
+            "thumb_960_h": 201,
+            "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F0841PGNY6A-7e9b13d884/____________________________2024-12-09_19.08.38_1024.png",
+            "thumb_1024_w": 1024,
+            "thumb_1024_h": 215,
+            "original_w": 1260,
+            "original_h": 264,
+            "thumb_tiny": "AwAKADBwhQoSiJnA4I74pkSgqWaNGweML1poHP406LhuPWpGWHSKMD90jZ9gMU7yoM8JH+QqNwPQUsYG8cDrVXJHzpBHGcLEGPAyBTLVIpI2DLEzA9l6VUuf9aR2oteJRjj6Uh3P/9k=",
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0841PGNY6A/____________________________2024-12-09_19.08.38.png",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F0841PGNY6A-92b54862fb",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          },
+          {
+            "id": "F084M35G01F",
+            "created": 1733738953,
+            "timestamp": 1733738953,
+            "name": "スクリーンショット 2024-12-09 19.08.48.png",
+            "title": "スクリーンショット 2024-12-09 19.08.48.png",
+            "mimetype": "image/png",
+            "filetype": "png",
+            "pretty_type": "PNG",
+            "user": "U068Q5LCTG9",
+            "user_team": "T0688JH4ALV",
+            "editable": false,
+            "size": 138099,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F084M35G01F/____________________________2024-12-09_19.08.48.png",
+            "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F084M35G01F/download/____________________________2024-12-09_19.08.48.png",
+            "media_display_type": "unknown",
+            "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M35G01F-8c4daae67f/____________________________2024-12-09_19.08.48_64.png",
+            "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M35G01F-8c4daae67f/____________________________2024-12-09_19.08.48_80.png",
+            "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M35G01F-8c4daae67f/____________________________2024-12-09_19.08.48_360.png",
+            "thumb_360_w": 360,
+            "thumb_360_h": 236,
+            "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F084M35G01F-8c4daae67f/____________________________2024-12-09_19.08.48_160.png",
+            "original_w": 434,
+            "original_h": 284,
+            "thumb_tiny": "AwAfADCNLSNkQndyPWnvZQpGW+fj3qWIfu4/oKdP/wAe7D2pAUVt42Gfm/Oni0jP9786ii8xjtRse9WIfMimVHywc4oGN+yR/wC1+dMlt40jYjdkDuavIjiY5A29qZeqPIc+1AhEkRUQE8hR29qSeYGI7ck49DUoszx8/IFAtJP+epoApWwOCWGBjjPFWG3KqsmWYHrUwtPlwSDjvThbsFIyOaB30F3ZxUF7zbt9KsCFv4sGkmgMsTJwMjGaBH//2Q==",
+            "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F084M35G01F/____________________________2024-12-09_19.08.48.png",
+            "permalink_public": "https://slack-files.com/T0688JH4ALV-F084M35G01F-88a1bb6134",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+          }
+        ],
+        "upload": false,
+        "user": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "x8rZq",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "顔出している人"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "type": "message",
+        "ts": "1733738959.833679",
+        "client_msg_id": "3a886399-afc4-492c-9aab-f8da9f10f47f",
+        "thread_ts": "1733738758.454419",
+        "parent_user_id": "U068Q5LCTG9",
+        "reactions": [
+          {
+            "name": "+1::skin-tone-2",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          },
+          {
+            "name": "white_check_mark",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1733739569.546089",
+        "client_msg_id": "7ad2d01f-8834-40e0-b9e6-746b9b4349c1",
+        "text": "<@U06FYMZJ2Q2>\n終わったらここに出てる人たちに連絡したいので、連絡先をリストアップして欲しい",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733738758.454419",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "BJQL2",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n終わったらここに出てる人たちに連絡したいので、連絡先をリストアップして欲しい"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "white_check_mark",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1733740861.983859",
+        "client_msg_id": "6213f01d-231e-4069-9a77-e269154047f0",
+        "text": "<@U06FYMZJ2Q2>\nこれ良いから彼らを送り込もう",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733738758.454419",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "jCSK5",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nこれ良いから彼らを送り込もう"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1::skin-tone-2",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "subtype": "thread_broadcast",
+        "user": "U068Q5LCTG9",
+        "thread_ts": "1733738758.454419",
+        "root": {
+          "text": "<@U06FYMZJ2Q2>\nMACC共同研究参加者のリスト",
+          "files": [
+            {
+              "id": "F0845GG8CJ1",
+              "created": 1733738738,
+              "timestamp": 1733738738,
+              "name": "スクリーンショット 2024-12-09 19.05.07.png",
+              "title": "スクリーンショット 2024-12-09 19.05.07.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U068Q5LCTG9",
+              "user_team": "T0688JH4ALV",
+              "editable": false,
+              "size": 213475,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": true,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F0845GG8CJ1/____________________________2024-12-09_19.05.07.png",
+              "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F0845GG8CJ1/download/____________________________2024-12-09_19.05.07.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_360.png",
+              "thumb_360_w": 163,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_480.png",
+              "thumb_480_w": 217,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_720.png",
+              "thumb_720_w": 326,
+              "thumb_720_h": 720,
+              "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_800.png",
+              "thumb_800_w": 800,
+              "thumb_800_h": 1769,
+              "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_960.png",
+              "thumb_960_w": 434,
+              "thumb_960_h": 960,
+              "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F0845GG8CJ1-e2a4c2cab4/____________________________2024-12-09_19.05.07_1024.png",
+              "thumb_1024_w": 463,
+              "thumb_1024_h": 1024,
+              "original_w": 804,
+              "original_h": 1778,
+              "thumb_tiny": "AwAwABXQQj6dafUcfT15PX6/SpKAIpu1R1JN2qOgCWPp+JqSo4/u9+p/nUlAEU3ao6km7VHQBLGAB1HU1JUcfTv1PWpKAIpu1R1O6bu+MU3yvegD/9k=",
+              "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F0845GG8CJ1/____________________________2024-12-09_19.05.07.png",
+              "permalink_public": "https://slack-files.com/T0688JH4ALV-F0845GG8CJ1-45063eb097",
+              "is_starred": false,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U068Q5LCTG9",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "en+Nj",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U06FYMZJ2Q2"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nMACC共同研究参加者のリスト"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1733738758.454419",
+          "client_msg_id": "cade71a4-4f69-48cf-b1df-359b199d8c9c",
+          "thread_ts": "1733738758.454419",
+          "reply_count": 4,
+          "reply_users_count": 1,
+          "latest_reply": "1733742101.076359",
+          "reply_users": [
+            "U068Q5LCTG9"
+          ],
+          "is_locked": false,
+          "subscribed": false
+        },
+        "type": "message",
+        "ts": "1733742101.076359",
+        "edited": {
+          "user": "U068Q5LCTG9",
+          "ts": "1733742121.000000"
+        },
+        "client_msg_id": "16e0e498-30ef-4b31-9a6c-7d96cb2128e2",
+        "text": "<@U06FYMZJ2Q2>\n展開しても良いとの了承を得たから、今後関わりを持ってて微妙な人はこっちに送り込んで育ってもらってこっちに入ってもらう流れを作ったら良いかもね\n\n育成を以下の流れで未来大の2,3年生とかで実務経験を持ってもらうのをできるんじゃないか\n1. GCI/DL講習\n2. 共同研究\n3. iDeaの実践",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "VpTR+",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n展開しても良いとの了承を得たから、今後関わりを持ってて微妙な人はこっちに送り込んで育ってもらってこっちに入ってもらう流れを作ったら良いかもね\n\n育成を以下の流れで未来大の2,3年生とかで実務経験を持ってもらうのをできるんじゃないか\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "GCI/DL講習"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "共同研究"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "iDeaの実践"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 0,
+                "border": 0
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1::skin-tone-2",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1733458824.478539",
+    "edited": {
+      "user": "U07R0SR8MDL",
+      "ts": "1733458840.000000"
+    },
+    "client_msg_id": "a990fd96-8759-446a-b16f-4cedd12b269b",
+    "text": "<@U06FYMZJ2Q2> <@U081Q6XTNHZ>\n人の出入りを観測したので、アカウントについては以下の方針でどうでしょうか？\n• 契約書関連は個人用メールで運用\n• それ以外の全てのアカウントは `<http://s-s-idea.com|s-s-idea.com>`ドメインのGoogle アカウントで管理\n    ◦ SSO認証をベースにする\n    ◦ 人の出入りに合わせてGoogle アカウントも作成・削除する\n利用料は多少かかりますが、情報漏洩のリスクヘッジのためにはやった方がいいと思います。",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1733458824.478539",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1733459612.711529",
+    "reply_users": [
+      "U06FYMZJ2Q2",
+      "U07R0SR8MDL"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1733459612.711529",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "d2rg9",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U081Q6XTNHZ"
+              },
+              {
+                "type": "text",
+                "text": "\n人の出入りを観測したので、アカウントについては以下の方針でどうでしょうか？\n"
+              }
+            ]
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "契約書関連は個人用メールで運用"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "それ以外の全てのアカウントは "
+                  },
+                  {
+                    "type": "link",
+                    "url": "http://s-s-idea.com",
+                    "text": "s-s-idea.com",
+                    "style": {
+                      "code": true
+                    }
+                  },
+                  {
+                    "type": "text",
+                    "text": "ドメインのGoogle アカウントで管理"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 0,
+            "border": 0
+          },
+          {
+            "type": "rich_text_list",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "SSO認証をベースにする"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "人の出入りに合わせてGoogle アカウントも作成・削除する"
+                  }
+                ]
+              }
+            ],
+            "style": "bullet",
+            "indent": 1,
+            "border": 0
+          },
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "利用料は多少かかりますが、情報漏洩のリスクヘッジのためにはやった方がいいと思います。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1::skin-tone-2",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      },
+      {
+        "name": "pray::skin-tone-2",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U081Q6XTNHZ"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1733459231.741559",
+        "client_msg_id": "F92D1386-C477-4EED-B44E-95E352C9CF3B",
+        "text": "ありがとうございます:blush:\n良いと思います！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733458824.478539",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "8zIoP",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ありがとうございます"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "blush",
+                    "unicode": "1f60a"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n良いと思います！"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "raised_hands",
+            "users": [
+              "U07R0SR8MDL"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1733459612.711529",
+        "client_msg_id": "ad17c4c2-c945-4a73-abe5-5eb3fa641c8a",
+        "text": "この辺とかも、Notion整備できたらまとめていきたいですねー！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733458824.478539",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "aZVBy",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "この辺とかも、Notion整備できたらまとめていきたいですねー！"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U081Q6XTNHZ"
+            ],
+            "count": 1
+          },
+          {
+            "name": "+1::skin-tone-2",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1733387070.588399",
+    "client_msg_id": "0c99a427-8992-4558-872e-e3b3d699f49e",
+    "text": "Slackのチャンネルに関して、以下の変更を行いました。\n・マーケティング_SNS運用をアーカイブ\n\n<@U06RD6MGVK9> <@U068Q5LCTG9>\n・マーケティングのチャンネルを<https://idea-iko1320.slack.com/archives/C07TTR6JF52>に統一するので、マーケティング_サイト運用は使用せずに、マーケティングチャンネルへの段階的な移行をお願いします。",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1733387070.588399",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1733387250.064129",
+    "reply_users": [
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "2y2mU",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Slackのチャンネルに関して、以下の変更を行いました。\n・マーケティング_SNS運用をアーカイブ\n\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U06RD6MGVK9"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": "\n・マーケティングのチャンネルを"
+              },
+              {
+                "type": "link",
+                "url": "https://idea-iko1320.slack.com/archives/C07TTR6JF52"
+              },
+              {
+                "type": "text",
+                "text": "に統一するので、マーケティング_サイト運用は使用せずに、マーケティングチャンネルへの段階的な移行をお願いします。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06RD6MGVK9",
+          "U068Q5LCTG9"
+        ],
+        "count": 2
+      }
+    ],
+    "replies": [
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1733387250.064129",
+        "client_msg_id": "9ab3ff15-3053-4069-b93f-682d7a440b4f",
+        "text": "OK\nSlackの話すチャンネルは人材情報管理だけど間違えてない？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733387070.588399",
+        "parent_user_id": "U06FYMZJ2Q2",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "yXgHi",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "OK\nSlackの話すチャンネルは人材情報管理だけど間違えてない？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "<@U081Q6XTNHZ>\nお疲れさまです。\n先ほどのミーティングの議事録を更新したので共有します。\n\n議事録 リンク : <https://docs.google.com/document/d/1oU3Iq-kAYJENGqWNe7xxXQKDYU3cIL6hraRrD6l5vCc/edit?usp=sharing>",
+    "files": [
+      {
+        "id": "F083LG4AN5R",
+        "created": 1733308212,
+        "timestamp": 1733308212,
+        "name": "メモ - 「【株式会社iDea・威くん】業務確認＆引き継ぎ MTG」",
+        "title": "メモ - 「【株式会社iDea・威くん】業務確認＆引き継ぎ MTG」",
+        "mimetype": "application/vnd.google-apps.document",
+        "filetype": "gdoc",
+        "pretty_type": "Google ドキュメント",
+        "user": "U06FYMZJ2Q2",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 0,
+        "mode": "external",
+        "is_external": true,
+        "external_type": "gdrive",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://docs.google.com/document/d/1oU3Iq-kAYJENGqWNe7xxXQKDYU3cIL6hraRrD6l5vCc/edit?usp=sharing",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____360.png",
+        "thumb_360_w": 255,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____480.png",
+        "thumb_480_w": 340,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____720.png",
+        "thumb_720_w": 509,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1131,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____960.png",
+        "thumb_960_w": 679,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F083LG4AN5R-fbfd8e0d55/_______-___________________idea___________________________________________mtg____1024.png",
+        "thumb_1024_w": 724,
+        "thumb_1024_h": 1024,
+        "thumb_tiny": "AwAwACHSZgvXNIHXHpSt+FAFACb19adRRQAUUUUAFR4I4GakpgyT1FAAPxpwpMN6/pSjPc0ALRRRQAUxvrT6bs560AC5A9adSbaWgAooooA//9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U06FYMZJ2Q2/F083LG4AN5R/_______-___________________idea___________________________________________mtg___",
+        "is_starred": false,
+        "external_id": "1oU3Iq-kAYJENGqWNe7xxXQKDYU3cIL6hraRrD6l5vCc",
+        "external_url": "https://docs.google.com/document/d/1oU3Iq-kAYJENGqWNe7xxXQKDYU3cIL6hraRrD6l5vCc/edit?usp=sharing",
+        "has_rich_preview": true,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U06FYMZJ2Q2",
+    "display_as_bot": false,
+    "x_files": [
+      "F083LG4AN5R"
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "/27gw",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U081Q6XTNHZ"
+              },
+              {
+                "type": "text",
+                "text": "\nお疲れさまです。\n先ほどのミーティングの議事録を更新したので共有します。\n\n議事録 リンク : "
+              },
+              {
+                "type": "link",
+                "url": "https://docs.google.com/document/d/1oU3Iq-kAYJENGqWNe7xxXQKDYU3cIL6hraRrD6l5vCc/edit?usp=sharing"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1733308202.007489",
+    "client_msg_id": "5f2832c9-af62-4216-8791-9d47102f4ed0",
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U081Q6XTNHZ"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1733129559.924509",
+    "client_msg_id": "5d3cedfd-6bed-4563-a468-b3f8a42b0bf0",
+    "text": "Slackのチャンネルに関して、以下の変更を行いました。\n・マーケティング・デザイン・ナレッジストックのチャンネル名をカタカナに変更\n→ CoEやField、事業名以外でチャンネル名が英語になっているのが統一感がないと感じたため\n・marketing_generalとmarketing_randomをアーカイブ\n・デザインのチャンネル番号を44番に変更",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1733129559.924509",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1733131226.659069",
+    "reply_users": [
+      "U07R0SR8MDL"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "tstt8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Slackのチャンネルに関して、以下の変更を行いました。\n・マーケティング・デザイン・ナレッジストックのチャンネル名をカタカナに変更\n→ CoEやField、事業名以外でチャンネル名が英語になっているのが統一感がないと感じたため\n・marketing_generalとmarketing_randomをアーカイブ\n・デザインのチャンネル番号を44番に変更"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07R0SR8MDL",
+          "U068Q5LCTG9"
+        ],
+        "count": 2
+      }
+    ],
+    "replies": [
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1733131226.659069",
+        "client_msg_id": "5E620D30-A002-4CB6-ABBC-0F2CB060E85B",
+        "text": "あざます！",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1733129559.924509",
+        "parent_user_id": "U06FYMZJ2Q2",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "GA/1H",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "あざます！"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U06FYMZJ2Q2",
+    "thread_ts": "1732954583.585739",
+    "root": {
+      "user": "U07R0SR8MDL",
+      "type": "message",
+      "ts": "1732954583.585739",
+      "client_msg_id": "65a0cf0e-ae08-40de-be7b-fc6bc50cff5c",
+      "text": "00000番台：CXO\n10000番台：正社員\n30000番台：契約社員\n50000番台：パート・アルバイト\n80000番台：契約社員\nみたいな感じで社員番号管理はどうでしょうか？",
+      "team": "T0688JH4ALV",
+      "thread_ts": "1732954583.585739",
+      "reply_count": 2,
+      "reply_users_count": 1,
+      "latest_reply": "1733128505.998989",
+      "reply_users": [
+        "U06FYMZJ2Q2"
+      ],
+      "is_locked": false,
+      "subscribed": true,
+      "last_read": "1733128505.998989",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "18ZK8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "00000番台：CXO\n10000番台：正社員\n30000番台：契約社員\n50000番台：パート・アルバイト\n80000番台：契約社員\nみたいな感じで社員番号管理はどうでしょうか？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1733128505.998989",
+    "client_msg_id": "007a59fa-5975-4af9-8ce1-a4b69cb536c4",
+    "text": "マーケティングのチャンネルに関して、marketing_generalとmarketing_randomはほとんど使われていないため削除し、marketing_strategyに統合した方が良いかなと個人的に思っています。\nSNS運用とサイト運用についても、統合できるのでればmarketing_strategyに統合しても良いかなと思っています。",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "53+YY",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "マーケティングのチャンネルに関して、marketing_generalとmarketing_randomはほとんど使われていないため削除し、marketing_strategyに統合した方が良いかなと個人的に思っています。\nSNS運用とサイト運用についても、統合できるのでればmarketing_strategyに統合しても良いかなと思っています。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U07R0SR8MDL"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1733125709.160199",
+    "client_msg_id": "e5ee72db-6a93-442e-8e43-430127045697",
+    "text": "<#C083FQ7JC0H|> チャンネルを作ったので、「月末だから勤怠の承認申請してね」みたいなアナウンスはそこにリマインダーを設定して勝手に流してくれるようにしていけるといいかもです。",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "zGNGN",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "channel",
+                "channel_id": "C083FQ7JC0H"
+              },
+              {
+                "type": "text",
+                "text": " チャンネルを作ったので、「月末だから勤怠の承認申請してね」みたいなアナウンスはそこにリマインダーを設定して勝手に流してくれるようにしていけるといいかもです。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "yellow_heart",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1733124672.138739",
+    "client_msg_id": "deff31c9-19e9-4957-83dd-959392ce950c",
+    "text": "頃合いを見てGoogle Driveの整備・管理も進めていきたいです(Notionに一元管理した方が良いかも含めて)。",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "HQMFu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "頃合いを見てGoogle Driveの整備・管理も進めていきたいです(Notionに一元管理した方が良いかも含めて)。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "yellow_heart",
+        "users": [
+          "U07R0SR8MDL"
+        ],
+        "count": 1
+      },
+      {
+        "name": "+1",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733114346.132699",
+    "client_msg_id": "8ded24b9-8d1e-4fd1-97a7-934dddf1da92",
+    "text": "その他、HRMOSを使うにあたっての情報です！\n\n＜ 初期設定マニュアル ＞\nはじめてHRMOS勤怠を設定される方は、まずこちらをご覧ください。\n【動画】初期設定はこの９ステップで完了！（各３分）\n<https://bit.ly/3srKWOT>\n\nご不明点がある場合はヘルプページをご利用ください。\n「有給管理」「シフト」など特定の機能の設定に重点をおいた\nクイックスタートマニュアル（PDF）もご用意しておりますのでぜひご活用ください。\n<https://bit.ly/3783V4g>\n\n\n＜ 勤怠の概要 ＞\n【動画】具体的にはどのような運用になる？\n“打刻〜給与計算前までの流れ“を実際の画面を使ってご紹介します\n<https://bit.ly/3RqVJok>\n\n\n＜ 日報機能 ＞\n無料で利用できる「日報機能」の設定方法はこちらをご覧ください。\nQ. 日報機能とは？\n<https://faq.ieyasu.co/nippo/6368/>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://bit.ly/3srKWOT",
+        "service_icon": "https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon.ico",
+        "thumb_url": "https://i.ytimg.com/vi/gj0JvArxZgA/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDaC16bly-SdzBwrKCHq8Q0KchRXg&days_since_epoch=20059",
+        "thumb_width": 480,
+        "thumb_height": 270,
+        "id": 1,
+        "original_url": "https://bit.ly/3srKWOT",
+        "fallback": "YouTube: 初期設定９STEP動画｜無料の勤怠管理システム ハーモス勤怠 by IEYASU",
+        "text": "無料の勤怠管理システム「ハーモス勤怠 by IEYASU」の初期設定説明動画です。9つのステップに分けて基本的な初期設定を進めていきます。 ■無料の勤怠管理システム「HRMOS勤怠 by IEYASU」 <https://www.ieyasu.co/_hrmos-lp/> ■無料の日報管理システム「HRMOS日報 b...",
+        "title": "初期設定９STEP動画｜無料の勤怠管理システム ハーモス勤怠 by IEYASU",
+        "title_link": "https://bit.ly/3srKWOT",
+        "service_name": "YouTube"
+      },
+      {
+        "from_url": "https://bit.ly/3783V4g",
+        "thumb_url": "https://www.ieyasu.co/help/wp-content/uploads/sites/4/2016/12/screenshot.png",
+        "thumb_width": 880,
+        "thumb_height": 660,
+        "service_icon": "https://www.ieyasu.co/help/wp-content/uploads/sites/4/2020/02/cropped-docs_512dp_05-180x180.png",
+        "id": 2,
+        "original_url": "https://bit.ly/3783V4g",
+        "fallback": "ハーモス勤怠 by IEYASUヘルプ",
+        "text": "人事実務の専門家集団が共同開発した、勤怠管理システム「ハーモス勤怠 by IEYASU」は、1000社以上のサポート経験により培った人事・労務の専門ノウハウが詰まった勤怠管理システムです。人事実務の専門家がベンチャー企業で必要な機能を精査し、シンプルで使いやすい勤怠管理システムを共同開発しました。ヘルプぺージではシステムの使用方法について詳しく解説しております。",
+        "title": "ハーモス勤怠 by IEYASUヘルプ",
+        "title_link": "https://bit.ly/3783V4g",
+        "service_name": "ieyasu.co"
+      },
+      {
+        "from_url": "https://bit.ly/3RqVJok",
+        "service_icon": "https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon.ico",
+        "id": 3,
+        "original_url": "https://bit.ly/3RqVJok",
+        "fallback": "- YouTube",
+        "text": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+        "title": "- YouTube",
+        "title_link": "https://bit.ly/3RqVJok",
+        "service_name": "youtube.com"
+      },
+      {
+        "from_url": "https://faq.ieyasu.co/nippo/6368/",
+        "service_icon": "https://faq.ieyasu.co/wp-content/themes/ieyasu_faq_child/favicon.ico",
+        "ts": 1621410702,
+        "id": 4,
+        "original_url": "https://faq.ieyasu.co/nippo/6368/",
+        "fallback": "ハーモス勤怠 FAQ | 無料のクラウド勤怠管理システム | ハーモス勤怠の「導入」から運用中でのよくある質問（FAQ）をご紹介します | HRMOS勤怠 by IEYASU 無料のクラウド勤怠管理システム: 工数管理はできますか？ | ハーモス勤怠 FAQ | 無料のクラウド勤怠管理システム",
+        "text": "A. ハーモス勤怠 の「日報機能」 「日報機能」は、業務内容や作業時間などを細かく記録することができる機能とな […]",
+        "title": "工数管理はできますか？ | ハーモス勤怠 FAQ | 無料のクラウド勤怠管理システム",
+        "title_link": "https://faq.ieyasu.co/nippo/6368/",
+        "service_name": "ハーモス勤怠 FAQ | 無料のクラウド勤怠管理システム | ハーモス勤怠の「導入」から運用中でのよくある質問（FAQ）をご紹介します | HRMOS勤怠 by IEYASU 無料のクラウド勤怠管理システム"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "0AXws",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "その他、HRMOSを使うにあたっての情報です！\n\n＜ 初期設定マニュアル ＞\nはじめてHRMOS勤怠を設定される方は、まずこちらをご覧ください。\n【動画】初期設定はこの９ステップで完了！（各３分）\n"
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/3srKWOT"
+              },
+              {
+                "type": "text",
+                "text": "\n\nご不明点がある場合はヘルプページをご利用ください。\n「有給管理」「シフト」など特定の機能の設定に重点をおいた\nクイックスタートマニュアル（PDF）もご用意しておりますのでぜひご活用ください。\n"
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/3783V4g"
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n＜ 勤怠の概要 ＞\n【動画】具体的にはどのような運用になる？\n“打刻〜給与計算前までの流れ“を実際の画面を使ってご紹介します\n"
+              },
+              {
+                "type": "link",
+                "url": "https://bit.ly/3RqVJok"
+              },
+              {
+                "type": "text",
+                "text": "\n\n\n＜ 日報機能 ＞\n無料で利用できる「日報機能」の設定方法はこちらをご覧ください。\nQ. 日報機能とは？\n"
+              },
+              {
+                "type": "link",
+                "url": "https://faq.ieyasu.co/nippo/6368/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733114302.677339",
+    "client_msg_id": "ac3c2edf-ba1a-4b58-8941-ea7fd1b4f701",
+    "text": "<@U06FYMZJ2Q2> <@U07R0SR8MDL> <@U081Q6XTNHZ>\nテスト用ユーザーのログイン情報が提供されていたので、そちらを共有いたします！\n\n*＜ テスト用ユーザのログイン情報 ＞*\nログインURL <https://ieyasu.co/s-s-idea>\n営業太郎（利用者）　ID：demo1001、Pass：demo1001\n承認太郎（承認者）　ID：demo1999、Pass：demo1999",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jc+42",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U07R0SR8MDL"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U081Q6XTNHZ"
+              },
+              {
+                "type": "text",
+                "text": "\nテスト用ユーザーのログイン情報が提供されていたので、そちらを共有いたします！\n\n"
+              },
+              {
+                "type": "text",
+                "text": "＜ テスト用ユーザのログイン情報 ＞",
+                "style": {
+                  "bold": true
+                }
+              },
+              {
+                "type": "text",
+                "text": "\nログインURL "
+              },
+              {
+                "type": "link",
+                "url": "https://ieyasu.co/s-s-idea"
+              },
+              {
+                "type": "text",
+                "text": "\n営業太郎（利用者）　ID：demo1001、Pass：demo1001\n承認太郎（承認者）　ID：demo1999、Pass：demo1999"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "eyes",
+        "users": [
+          "U081Q6XTNHZ",
+          "U07R0SR8MDL"
+        ],
+        "count": 2
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733114138.956149",
+    "client_msg_id": "c7597a4e-2c32-4a83-9c07-98ad619a726d",
+    "text": "Slack打刻の方が楽だと思うので、Slackで使う前提のアルバイト/ インターン管理ルールを策定しても良いかもです",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "+k188",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Slack打刻の方が楽だと思うので、Slackで使う前提のアルバイト/ インターン管理ルールを策定しても良いかもです"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U0833HRP7CM",
+    "text": "<@U0833HRP7CM>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733114059.017229"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1733114048.956369",
+    "client_msg_id": "3413ebc3-7e03-4fd1-810f-15b7d6b6e367",
+    "text": "HRMOS勤怠とSlackが連携できるみたいなので、連携しておきました\n<@U0833HRP7CM> で出退勤等の管理を出来るみたいです\n<https://www.ieyasu.co/media/slack/>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "from_url": "https://www.ieyasu.co/media/slack/",
+        "ts": 1644764400,
+        "id": 1,
+        "original_url": "https://www.ieyasu.co/media/slack/",
+        "fallback": "勤怠打刻ファースト: 【ハーモス勤怠の使い方】slack打刻をリリースいたしました │ HRMOS勤怠",
+        "text": "この度、無料のクラウド勤怠管理システム ハーモス勤怠は、『slack』から打刻できる機能をリリースいたしました。本稿では、その機能と設定方法についてご紹介いたします。 ハーモス勤怠の『slack打刻』",
+        "title": "【ハーモス勤怠の使い方】slack打刻をリリースいたしました │ HRMOS勤怠",
+        "title_link": "https://www.ieyasu.co/media/slack/",
+        "service_name": "勤怠打刻ファースト"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qkoXK",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "HRMOS勤怠とSlackが連携できるみたいなので、連携しておきました\n"
+              },
+              {
+                "type": "user",
+                "user_id": "U0833HRP7CM"
+              },
+              {
+                "type": "text",
+                "text": " で出退勤等の管理を出来るみたいです\n"
+              },
+              {
+                "type": "link",
+                "url": "https://www.ieyasu.co/media/slack/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U068Q5LCTG9",
+    "thread_ts": "1732956533.734589",
+    "root": {
+      "user": "U07R0SR8MDL",
+      "type": "message",
+      "ts": "1732956533.734589",
+      "client_msg_id": "c91d3209-9930-4d32-b297-6476debfab10",
+      "text": "<@U068Q5LCTG9> 一旦HARMOSでやってみるとのことでしたので、何かしら決まったら連絡してください！",
+      "team": "T0688JH4ALV",
+      "thread_ts": "1732956533.734589",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1733113945.062649",
+      "reply_users": [
+        "U068Q5LCTG9"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "vlL6t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U068Q5LCTG9"
+                },
+                {
+                  "type": "text",
+                  "text": " 一旦HARMOSでやってみるとのことでしたので、何かしら決まったら連絡してください！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1733113945.062649",
+    "client_msg_id": "521ae3a2-08e5-421e-940d-f37916b3ab71",
+    "text": "HARMOSの関連するサービス(人材活用、採用管理、勤怠管理、経費計算)が全て無料で使えるみたいなので一度全て登録してみました。\n直近で必要そうなのは勤怠管理なので、<@U06FYMZJ2Q2> <@U07R0SR8MDL> にログイン情報のアカウント共有しますね",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "3hL4v",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "HARMOSの関連するサービス(人材活用、採用管理、勤怠管理、経費計算)が全て無料で使えるみたいなので一度全て登録してみました。\n直近で必要そうなのは勤怠管理なので、"
+              },
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U07R0SR8MDL"
+              },
+              {
+                "type": "text",
+                "text": " にログイン情報のアカウント共有しますね"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2",
+          "U07R0SR8MDL"
+        ],
+        "count": 2
+      },
+      {
+        "name": "eyes",
+        "users": [
+          "U07R0SR8MDL"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1732956533.734589",
+    "client_msg_id": "c91d3209-9930-4d32-b297-6476debfab10",
+    "text": "<@U068Q5LCTG9> 一旦HARMOSでやってみるとのことでしたので、何かしら決まったら連絡してください！",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1732956533.734589",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1733113945.062649",
+    "reply_users": [
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "vlL6t",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": " 一旦HARMOSでやってみるとのことでしたので、何かしら決まったら連絡してください！"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "saluting_face",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "subtype": "thread_broadcast",
+        "user": "U068Q5LCTG9",
+        "thread_ts": "1732956533.734589",
+        "root": {
+          "user": "U07R0SR8MDL",
+          "type": "message",
+          "ts": "1732956533.734589",
+          "client_msg_id": "c91d3209-9930-4d32-b297-6476debfab10",
+          "text": "<@U068Q5LCTG9> 一旦HARMOSでやってみるとのことでしたので、何かしら決まったら連絡してください！",
+          "team": "T0688JH4ALV",
+          "thread_ts": "1732956533.734589",
+          "reply_count": 1,
+          "reply_users_count": 1,
+          "latest_reply": "1733113945.062649",
+          "reply_users": [
+            "U068Q5LCTG9"
+          ],
+          "is_locked": false,
+          "subscribed": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "vlL6t",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U068Q5LCTG9"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 一旦HARMOSでやってみるとのことでしたので、何かしら決まったら連絡してください！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "type": "message",
+        "ts": "1733113945.062649",
+        "client_msg_id": "521ae3a2-08e5-421e-940d-f37916b3ab71",
+        "text": "HARMOSの関連するサービス(人材活用、採用管理、勤怠管理、経費計算)が全て無料で使えるみたいなので一度全て登録してみました。\n直近で必要そうなのは勤怠管理なので、<@U06FYMZJ2Q2> <@U07R0SR8MDL> にログイン情報のアカウント共有しますね",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "3hL4v",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "HARMOSの関連するサービス(人材活用、採用管理、勤怠管理、経費計算)が全て無料で使えるみたいなので一度全て登録してみました。\n直近で必要そうなのは勤怠管理なので、"
+                  },
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "user",
+                    "user_id": "U07R0SR8MDL"
+                  },
+                  {
+                    "type": "text",
+                    "text": " にログイン情報のアカウント共有しますね"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2",
+              "U07R0SR8MDL"
+            ],
+            "count": 2
+          },
+          {
+            "name": "eyes",
+            "users": [
+              "U07R0SR8MDL"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1732954583.585739",
+    "client_msg_id": "65a0cf0e-ae08-40de-be7b-fc6bc50cff5c",
+    "text": "00000番台：CXO\n10000番台：正社員\n30000番台：契約社員\n50000番台：パート・アルバイト\n80000番台：契約社員\nみたいな感じで社員番号管理はどうでしょうか？",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1732954583.585739",
+    "reply_count": 2,
+    "reply_users_count": 1,
+    "latest_reply": "1733128505.998989",
+    "reply_users": [
+      "U06FYMZJ2Q2"
+    ],
+    "is_locked": false,
+    "subscribed": true,
+    "last_read": "1733128505.998989",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "18ZK8",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "00000番台：CXO\n10000番台：正社員\n30000番台：契約社員\n50000番台：パート・アルバイト\n80000番台：契約社員\nみたいな感じで社員番号管理はどうでしょうか？"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2",
+          "U068Q5LCTG9"
+        ],
+        "count": 2
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1733128088.822589",
+        "client_msg_id": "ef503a92-011f-4dfc-bc1b-d96165ad447c",
+        "text": "<@U07R0SR8MDL> さん <@U081Q6XTNHZ>\nお疲れさまです。\nNotionの経営ToDoにも反映していますが、現状のSlack整備の今後のタスクをメモとして残しておきます。\n\n• チャンネルの整理(デザイン・マーケティング・ナレッジストック)\n• チャンネルメンバーの整理\n• パブリックチャンネル・プライベートチャンネルの棲み分け\n• チャンネル規則の共有\n• 社員番号の配布ルール策定",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732954583.585739",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "3Ycyc",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U07R0SR8MDL"
+                  },
+                  {
+                    "type": "text",
+                    "text": " さん "
+                  },
+                  {
+                    "type": "user",
+                    "user_id": "U081Q6XTNHZ"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nお疲れさまです。\nNotionの経営ToDoにも反映していますが、現状のSlack整備の今後のタスクをメモとして残しておきます。\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "チャンネルの整理(デザイン・マーケティング・ナレッジストック)"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "チャンネルメンバーの整理"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "パブリックチャンネル・プライベートチャンネルの棲み分け"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "チャンネル規則の共有"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "社員番号の配布ルール策定"
+                      }
+                    ]
+                  }
+                ],
+                "style": "bullet",
+                "indent": 0,
+                "border": 0
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "subtype": "thread_broadcast",
+        "user": "U06FYMZJ2Q2",
+        "thread_ts": "1732954583.585739",
+        "root": {
+          "user": "U07R0SR8MDL",
+          "type": "message",
+          "ts": "1732954583.585739",
+          "client_msg_id": "65a0cf0e-ae08-40de-be7b-fc6bc50cff5c",
+          "text": "00000番台：CXO\n10000番台：正社員\n30000番台：契約社員\n50000番台：パート・アルバイト\n80000番台：契約社員\nみたいな感じで社員番号管理はどうでしょうか？",
+          "team": "T0688JH4ALV",
+          "thread_ts": "1732954583.585739",
+          "reply_count": 2,
+          "reply_users_count": 1,
+          "latest_reply": "1733128505.998989",
+          "reply_users": [
+            "U06FYMZJ2Q2"
+          ],
+          "is_locked": false,
+          "subscribed": true,
+          "last_read": "1733128505.998989",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "18ZK8",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "00000番台：CXO\n10000番台：正社員\n30000番台：契約社員\n50000番台：パート・アルバイト\n80000番台：契約社員\nみたいな感じで社員番号管理はどうでしょうか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "type": "message",
+        "ts": "1733128505.998989",
+        "client_msg_id": "007a59fa-5975-4af9-8ce1-a4b69cb536c4",
+        "text": "マーケティングのチャンネルに関して、marketing_generalとmarketing_randomはほとんど使われていないため削除し、marketing_strategyに統合した方が良いかなと個人的に思っています。\nSNS運用とサイト運用についても、統合できるのでればmarketing_strategyに統合しても良いかなと思っています。",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "53+YY",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "マーケティングのチャンネルに関して、marketing_generalとmarketing_randomはほとんど使われていないため削除し、marketing_strategyに統合した方が良いかなと個人的に思っています。\nSNS運用とサイト運用についても、統合できるのでればmarketing_strategyに統合しても良いかなと思っています。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07R0SR8MDL"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "90_hr_general",
+    "name": "61_人材情報管理",
+    "text": "チャンネル名を「90_hr_general」から「61_人材情報管理」に変更しました",
+    "type": "message",
+    "ts": "1732877133.458749"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732775024.657549"
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1732676717.256259",
+    "client_msg_id": "FB1D0643-7C22-41FC-A862-3B2558C4D1D6",
+    "text": "昨日試しに作ってみましたが、側はわりと簡単に作れる感じになってます。\n<https://superlative-gelato-fe1d9a.netlify.app/|https://superlative-gelato-fe1d9a.netlify.app/>\n\nデバック最中にトークン切れたので、出勤表は表示できないです、、、\n\n一旦、ハーモスとかの無料プラン使って、その間に裏で自前でHRシステム作って管理する、みたいのでもいいかもしれません。\nTSとかカオナビとかHRBrainとかいろいろ使ってみましたが、全部微妙に痒いところに手が届かないんですよね、、、\nなので自作したいんですけど、流石に1ヶ月で裏まで全部作るのはきつそうです（たぶん100時間あれば作れる）",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1732676717.256259",
+    "reply_count": 5,
+    "reply_users_count": 3,
+    "latest_reply": "1732766445.672699",
+    "reply_users": [
+      "U07R0SR8MDL",
+      "U068Q5LCTG9",
+      "U07RF4825M1"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZSbpu",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "昨日試しに作ってみましたが、側はわりと簡単に作れる感じになってます。\n"
+              },
+              {
+                "type": "link",
+                "url": "https://superlative-gelato-fe1d9a.netlify.app/",
+                "text": "https://superlative-gelato-fe1d9a.netlify.app/"
+              },
+              {
+                "type": "text",
+                "text": "\n\nデバック最中にトークン切れたので、出勤表は表示できないです、、、\n\n一旦、ハーモスとかの無料プラン使って、その間に裏で自前でHRシステム作って管理する、みたいのでもいいかもしれません。\nTSとかカオナビとかHRBrainとかいろいろ使ってみましたが、全部微妙に痒いところに手が届かないんですよね、、、\nなので自作したいんですけど、流石に1ヶ月で裏まで全部作るのはきつそうです（たぶん100時間あれば作れる）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "bow",
+        "users": [
+          "U07RF4825M1"
+        ],
+        "count": 1
+      },
+      {
+        "name": "eyes",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1732678728.750669",
+        "client_msg_id": "1B9A33FD-F8CE-44E5-82C6-334903A3190B",
+        "text": "ちなみになんですけど、↑のデモは約5時間くらいで作れました。\n変に人をたくさん入れるより、BoltとかCursorを課金して活用して、設計力がある人に爆速でシステム作ってもらうほうが、市場にプロダクトを出すまでのリードタイムはかなり短くできると思います。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732676717.256259",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "zYWIi",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ちなみになんですけど、↑のデモは約5時間くらいで作れました。\n変に人をたくさん入れるより、BoltとかCursorを課金して活用して、設計力がある人に爆速でシステム作ってもらうほうが、市場にプロダクトを出すまでのリードタイムはかなり短くできると思います。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "eyes",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          },
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732688620.648829",
+        "client_msg_id": "dfb1045f-332f-49af-8195-a32ff4af2c5f",
+        "text": "<@U07RF4825M1> <@U07R0SR8MDL>\nこれ結構良いですね。\ngithubやその他プロジェクト基盤を整えたものもあるので、時永君、鈴木君あたりに他の外部のプロジェクトをやってもらう前にバックエンドをお試しで構築してもらうのもありかもしれないですね",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732676717.256259",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "oTfmG",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U07RF4825M1"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "user",
+                    "user_id": "U07R0SR8MDL"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nこれ結構良いですね。\ngithubやその他プロジェクト基盤を整えたものもあるので、時永君、鈴木君あたりに他の外部のプロジェクトをやってもらう前にバックエンドをお試しで構築してもらうのもありかもしれないですね"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07R0SR8MDL",
+        "type": "message",
+        "ts": "1732688836.593569",
+        "client_msg_id": "924237DB-B21A-4702-9B12-15297A1298EF",
+        "text": "設計だけちょいと考えてみますわ。\n今週は厳しいので、来週の日曜日（12/08目処）くらいで終わるようにやってみます。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732676717.256259",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "6qgMM",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "設計だけちょいと考えてみますわ。\n今週は厳しいので、来週の日曜日（"
+                  },
+                  {
+                    "type": "text",
+                    "text": "12/08目処"
+                  },
+                  {
+                    "type": "text",
+                    "text": "）"
+                  },
+                  {
+                    "type": "text",
+                    "text": "くらいで終わるようにやってみます。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1",
+              "U068Q5LCTG9"
+            ],
+            "count": 2
+          },
+          {
+            "name": "raised_hands",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          },
+          {
+            "name": "saluting_face",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732766353.878769",
+        "client_msg_id": "3DBEF6E0-F7C9-49FD-AC3D-F54DA6B1C567",
+        "text": "<@U07RF4825M1> <@U07R0SR8MDL> こちらのサービス1ヶ月だけチームプラン契約してエンジニアの方達にどんなもんなのか触ってもらった方が良さそうですね\n\nRESASだけじゃなく、稲場さんのところやその他システムもモックを爆速で開発できると思うので",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732676717.256259",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "JEEGF",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U07RF4825M1"
+                  },
+                  {
+                    "type": "text",
+                    "text": " "
+                  },
+                  {
+                    "type": "user",
+                    "user_id": "U07R0SR8MDL"
+                  },
+                  {
+                    "type": "text",
+                    "text": " こちらのサービス1ヶ月だけチームプラン契約してエンジニアの方達にどんなもんなのか触ってもらった方が良さそうですね\n\nRESASだけじゃなく、稲場さんのところやその他システムもモックを爆速で開発できると思うので"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1732766445.672699",
+        "client_msg_id": "eaaf50dc-6a0f-45ec-8651-0fb2ab95e698",
+        "text": "そうですね、お試しとかできればよいですね。\nどのようなものか類似のシステムを触っていないと、どういうものを作ればよいか想像できないかもしれませんので。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732676717.256259",
+        "parent_user_id": "U07R0SR8MDL",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "m2xhl",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "そうですね、お試しとかできればよいですね。\nどのようなものか類似のシステムを触っていないと、どういうものを作ればよいか想像できないかもしれませんので。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U07RF4825M1",
+    "type": "message",
+    "ts": "1732666134.193539",
+    "client_msg_id": "5bc5ecfb-9f84-44ea-aa08-e199d19babaf",
+    "text": "見積もりはこちらのサイトで算出しました。\n<https://meetsmore.com/>",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "giBdt",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "見積もりはこちらのサイトで算出しました。\n"
+              },
+              {
+                "type": "link",
+                "url": "https://meetsmore.com/"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U07RF4825M1",
+    "type": "message",
+    "ts": "1732666066.436939",
+    "client_msg_id": "fb899885-828d-44bd-9b70-c3624fa2f6b1",
+    "text": "なお、上記金額の見積もりは、仮に従業員・アルバイト含めてざっくり15人ということで算出しています。\n使用する際は人数に応じて従量課金で増減します。",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "sKF4W",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "なお、上記金額の見積もりは、仮に従業員・アルバイト含めてざっくり15人ということで算出しています。\n使用する際は人数に応じて従量課金で増減します。"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "<@U068Q5LCTG9> <@U06FYMZJ2Q2>\nお疲れさまです。\n現在iDeaで、勤怠管理システムや労務管理システムについて、導入しているもの・導入を検討しているものはありますか？\nあるいは松尾研のサポートで使えるシステムがあったりしますでしょうか？\nその辺の事情がわからないので、インターネット上で勤怠管理システムや労務管理システムの見積もりを出してみました。\n画像で申し訳ありませんが添付します。\n勤怠管理については、Excelのシートに記入してもらって…という前近代的な方法もありますが（）",
+    "files": [
+      {
+        "id": "F083A4XCFNU",
+        "created": 1732665901,
+        "timestamp": 1732665901,
+        "name": "労務管理システム見積もり.png",
+        "title": "労務管理システム見積もり.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U07RF4825M1",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1032743,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F083A4XCFNU/____________________________________.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F083A4XCFNU/download/____________________________________.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________360.png",
+        "thumb_360_w": 126,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________480.png",
+        "thumb_480_w": 168,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________720.png",
+        "thumb_720_w": 252,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 2283,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________960.png",
+        "thumb_960_w": 336,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F083A4XCFNU-97cb619b25/_____________________________________1024.png",
+        "thumb_1024_w": 359,
+        "thumb_1024_h": 1024,
+        "original_w": 1860,
+        "original_h": 5307,
+        "thumb_tiny": "AwAwABDRGaWkxSgc0AA6UtJnFGeaAEo70cUUAf/Z",
+        "permalink": "https://idea-iko1320.slack.com/files/U07RF4825M1/F083A4XCFNU/____________________________________.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F083A4XCFNU-37a7afe59f",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      },
+      {
+        "id": "F082JFHMH61",
+        "created": 1732665910,
+        "timestamp": 1732665910,
+        "name": "勤怠管理システム見積もり.png",
+        "title": "勤怠管理システム見積もり.png",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U07RF4825M1",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 1091888,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F082JFHMH61/____________________________________.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F082JFHMH61/download/____________________________________.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________360.png",
+        "thumb_360_w": 130,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________480.png",
+        "thumb_480_w": 173,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________720.png",
+        "thumb_720_w": 259,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 2220,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________960.png",
+        "thumb_960_w": 346,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F082JFHMH61-a7713b2962/_____________________________________1024.png",
+        "thumb_1024_w": 369,
+        "thumb_1024_h": 1024,
+        "original_w": 1860,
+        "original_h": 5161,
+        "thumb_tiny": "AwAwABHRGaWkxRj60ALRS0UANFLSZxxS56e9AC0UUUANoHajjrRQAuaM0lFAH//Z",
+        "permalink": "https://idea-iko1320.slack.com/files/U07RF4825M1/F082JFHMH61/____________________________________.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F082JFHMH61-6021e7f2e8",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U07RF4825M1",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "ZPe5Z",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U068Q5LCTG9"
+              },
+              {
+                "type": "text",
+                "text": " "
+              },
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nお疲れさまです。\n現在iDeaで、勤怠管理システムや労務管理システムについて、導入しているもの・導入を検討しているものはありますか？\nあるいは松尾研のサポートで使えるシステムがあったりしますでしょうか？\nその辺の事情がわからないので、インターネット上で勤怠管理システムや労務管理システムの見積もりを出してみました。\n画像で申し訳ありませんが添付します。\n勤怠管理については、Excelのシートに記入してもらって…という前近代的な方法もありますが（）"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1732665979.471829",
+    "client_msg_id": "4decf83a-4b0a-43d2-9aa0-bb1788bd9675",
+    "thread_ts": "1732665979.471829",
+    "reply_count": 7,
+    "reply_users_count": 3,
+    "latest_reply": "1732690106.945399",
+    "reply_users": [
+      "U06FYMZJ2Q2",
+      "U068Q5LCTG9",
+      "U07RF4825M1"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "pray",
+        "users": [
+          "U06FYMZJ2Q2",
+          "U068Q5LCTG9"
+        ],
+        "count": 2
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732673937.963549",
+        "client_msg_id": "5238545D-2E9A-4FA7-A72D-377B217D2C9F",
+        "text": "お疲れさまです。\n久末さんより、Boltというツールを使うとかなり簡単に勤怠管理アプリを作れそうというご提案をいただいておりまして、こちら導入検討の候補に入っていると思われます。\n他に検討しているものについては、把握できていないです。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732665979.471829",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "1/x4C",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "お疲れさまです。\n久末さんより、"
+                  },
+                  {
+                    "type": "text",
+                    "text": "Boltというツールを使うとかなり簡単に勤怠管理アプリを作れそう"
+                  },
+                  {
+                    "type": "text",
+                    "text": "というご提案をいただいておりまして、こちら導入検討の候補に入っていると思われます。\n他に検討しているものについては、把握できていないです。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "bow",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732674428.786279",
+        "client_msg_id": "4140307C-3044-4A48-879C-0A73A8E92803",
+        "text": "労務管理システム、松尾研のサポートで使えるシステムについても把握できていないです...\n松尾研のSlackほぼ入っているだけになっているので、流れてくる情報注視したいと思います。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732665979.471829",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "BOI/T",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "労務管理システム、松尾研のサポートで使えるシステムについても把握できていないです...\n松尾研のSlackほぼ入っているだけになっているので、流れてくる情報注視したいと思います。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732688658.495299",
+        "client_msg_id": "5e28da98-4a25-47c5-99eb-8b95dc689b60",
+        "text": "割と高いんですね",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732665979.471829",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "9UrLK",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "割と高いんですね"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1732688859.867389",
+        "client_msg_id": "db5a00d9-11f7-43a9-9a73-4958a2479ae7",
+        "text": "結構しますね。\n労務管理システムについては、様々行われる法改正に対応するのはベンダーが行うので、自前で法改正対応のメンテナンスを行うことを考えるとメリットはあるかもですが。\n\n今朝見積もりサイトに登録したら、早速営業電話が何件もかかってきてます 笑",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732665979.471829",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "LaDdX",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "結構しますね。\n労務管理システムについては、様々行われる法改正に対応するのはベンダーが行うので、自前で法改正対応のメンテナンスを行うことを考えるとメリットはあるかもですが。\n\n今朝見積もりサイトに登録したら、早速営業電話が何件もかかってきてます 笑"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "face_with_rolling_eyes",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732689354.940929",
+        "client_msg_id": "6c94caf1-6255-4b98-acb1-6b8af8ebc02a",
+        "text": "自前で作成して、外部プロジェクトに学生を参加させる前に社内システムでブランチ切って練習台としてやってからでも良いように思ってきました。\nいきなり外に出させるのは少々不安なので\n\n営業の電話は言っていただければ僕の電話番号で設定してもよかったんですよ笑",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732665979.471829",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "RAiFv",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "自前で作成して、外部プロジェクトに学生を参加させる前に社内システムでブランチ切って練習台としてやってからでも良いように思ってきました。\nいきなり外に出させるのは少々不安なので\n\n営業の電話は言っていただければ僕の電話番号で設定してもよかったんですよ笑"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U07RF4825M1"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U07RF4825M1",
+        "type": "message",
+        "ts": "1732689483.194869",
+        "client_msg_id": "1b68cae3-9e27-45b6-bd01-8f0544ba437e",
+        "text": "練習台にするのは確かにありですね。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732665979.471829",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "fs26K",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "練習台にするのは確かにありですね。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "eyes",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732690106.945399",
+        "client_msg_id": "da010c0f-2b01-44cf-920e-953c964ece86",
+        "text": "その線を含めて、学生をプロジェクトに参加させる体制を整えて受け入れましょう",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732665979.471829",
+        "parent_user_id": "U07RF4825M1",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "5tYpw",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "その線を含めて、学生をプロジェクトに参加させる体制を整えて受け入れましょう"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732607102.849349"
+  },
+  {
+    "subtype": "thread_broadcast",
+    "user": "U068Q5LCTG9",
+    "thread_ts": "1732594062.574849",
+    "root": {
+      "user": "U068Q5LCTG9",
+      "type": "message",
+      "ts": "1732594062.574849",
+      "client_msg_id": "fcc67656-e761-449e-a339-95b5bb556b43",
+      "text": "<@U06FYMZJ2Q2> 14時からの人事MTGはやるってことで大丈夫だよね？",
+      "team": "T0688JH4ALV",
+      "thread_ts": "1732594062.574849",
+      "reply_count": 6,
+      "reply_users_count": 2,
+      "latest_reply": "1732630526.679629",
+      "reply_users": [
+        "U068Q5LCTG9",
+        "U06FYMZJ2Q2"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "dmMbl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U06FYMZJ2Q2"
+                },
+                {
+                  "type": "text",
+                  "text": " 14時からの人事MTGはやるってことで大丈夫だよね？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "type": "message",
+    "ts": "1732605043.980889",
+    "client_msg_id": "64ba6ae2-e019-4954-871b-09950e1612c2",
+    "text": "<@U06FYMZJ2Q2>\nこちら小野寺さんにアルバイト/インターンの受付体制を整えてもらうことになって、それら含めて共有事項あるからリスケの日程だけ連絡ちょうだい",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SThOb",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nこちら小野寺さんにアルバイト/インターンの受付体制を整えてもらうことになって、それら含めて共有事項あるからリスケの日程だけ連絡ちょうだい"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732594062.574849",
+    "client_msg_id": "fcc67656-e761-449e-a339-95b5bb556b43",
+    "text": "<@U06FYMZJ2Q2> 14時からの人事MTGはやるってことで大丈夫だよね？",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1732594062.574849",
+    "reply_count": 6,
+    "reply_users_count": 2,
+    "latest_reply": "1732630526.679629",
+    "reply_users": [
+      "U068Q5LCTG9",
+      "U06FYMZJ2Q2"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "dmMbl",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " 14時からの人事MTGはやるってことで大丈夫だよね？"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "subtype": "thread_broadcast",
+        "user": "U068Q5LCTG9",
+        "thread_ts": "1732594062.574849",
+        "root": {
+          "user": "U068Q5LCTG9",
+          "type": "message",
+          "ts": "1732594062.574849",
+          "client_msg_id": "fcc67656-e761-449e-a339-95b5bb556b43",
+          "text": "<@U06FYMZJ2Q2> 14時からの人事MTGはやるってことで大丈夫だよね？",
+          "team": "T0688JH4ALV",
+          "thread_ts": "1732594062.574849",
+          "reply_count": 6,
+          "reply_users_count": 2,
+          "latest_reply": "1732630526.679629",
+          "reply_users": [
+            "U068Q5LCTG9",
+            "U06FYMZJ2Q2"
+          ],
+          "is_locked": false,
+          "subscribed": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "dmMbl",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U06FYMZJ2Q2"
+                    },
+                    {
+                      "type": "text",
+                      "text": " 14時からの人事MTGはやるってことで大丈夫だよね？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        "type": "message",
+        "ts": "1732605043.980889",
+        "client_msg_id": "64ba6ae2-e019-4954-871b-09950e1612c2",
+        "text": "<@U06FYMZJ2Q2>\nこちら小野寺さんにアルバイト/インターンの受付体制を整えてもらうことになって、それら含めて共有事項あるからリスケの日程だけ連絡ちょうだい",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "SThOb",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nこちら小野寺さんにアルバイト/インターンの受付体制を整えてもらうことになって、それら含めて共有事項あるからリスケの日程だけ連絡ちょうだい"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732611043.308539",
+        "client_msg_id": "de7f46b4-ef9d-410c-9e99-6ef3daafbc45",
+        "text": "<@U068Q5LCTG9>\n体調かなり悪いので明日以降リスケさせてください:man-bowing:",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732594062.574849",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "l3inj",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U068Q5LCTG9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n体調かなり悪いので明日以降リスケさせてください"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "man-bowing",
+                    "unicode": "1f647-200d-2642-fe0f"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732612004.717989",
+        "client_msg_id": "63DEA8F9-EAAF-45A0-9C86-EF25F80D4F53",
+        "text": "<@U06FYMZJ2Q2> \n大丈夫？\n明日以降のMTGも君が参加するところは当面いないもんと考えておく。結構長引いて体調悪いなら、お金とかの問題抜きにして親に言って病院行ってきなよ。君のためにも他の人のためにもそうしてください。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732594062.574849",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "uNAAw",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": " \n大丈夫？\n明日以降のMTGも君が参加するところは当面いないもんと考えておく。結構長引いて体調悪いなら、お金とかの問題抜きにして親に言って病院行ってきなよ。君のためにも他の人のためにもそうしてください。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732613637.777949",
+        "client_msg_id": "09a4d5cf-a514-4199-a69f-28b86c0df80b",
+        "text": "<@U068Q5LCTG9>\n上記\n・木曜日の19:15〜21:30\n・金曜日の10:15〜21:30\nのいずれかでいかがでしょうか...？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732594062.574849",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "YA+DD",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U068Q5LCTG9"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n上記\n・木曜日の19:15〜21:30\n・金曜日の10:15〜21:30\nのいずれかでいかがでしょうか...？"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "eyes",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732628074.064059",
+        "client_msg_id": "13c25698-7b97-4e5b-9114-31049d6c9fe3",
+        "text": "<@U06FYMZJ2Q2>\n金曜の空いてる時間で入れちゃって良いよ",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732594062.574849",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "2y+CO",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n金曜の空いてる時間で入れちゃって良いよ"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "white_check_mark",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732630526.679629",
+        "client_msg_id": "EC669D4F-93FC-4F96-ABD2-9F326715C143",
+        "text": "午前中に入れておきます",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1732594062.574849",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "hAHwB",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "午前中に入れておきます"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "saluting_face",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1731557089.514349",
+    "client_msg_id": "89352992-6E27-4E35-A889-5EF7852630FE",
+    "text": "<@U06FYMZJ2Q2> 小檜山さんを受け入れるのが1番具体的な事例で分かりやすいから、何が必要か調べて体制を整えたい。どこまで行っても整いはしないと思うが、今後何が必要かはリストアップした状態にしたいです。",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1731557089.514349",
+    "reply_count": 4,
+    "reply_users_count": 2,
+    "latest_reply": "1732075196.169689",
+    "reply_users": [
+      "U068Q5LCTG9",
+      "U06FYMZJ2Q2"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "bkIuz",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": " 小檜山さんを受け入れるのが1番具体的な事例で分かりやすいから、何が必要か調べて体制を整えたい。どこまで行っても整いはしないと思うが、今後何が必要かはリストアップした状態にしたいです。"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732071028.517999",
+        "client_msg_id": "CB0E0BD3-716C-41FF-80DE-91A2B851BA6A",
+        "text": "<@U06FYMZJ2Q2>\nこれ早急に頼む:pray:",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731557089.514349",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "1i5WR",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\nこれ早急に頼む"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "pray",
+                    "unicode": "1f64f"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732073912.518879",
+        "client_msg_id": "D59F2B96-CD44-454C-B6B8-698A959524D8",
+        "text": "OKです:ok_woman:\n六人の賢者みたいな感じで、小檜山さんの人柄を含めてGPTに聞いてみたいから、ざっくりどういう人柄か箇条書きでも良いから教えていただいても良い？",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731557089.514349",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "/Xpy7",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "OK"
+                  },
+                  {
+                    "type": "text",
+                    "text": "です"
+                  },
+                  {
+                    "type": "emoji",
+                    "name": "ok_woman",
+                    "unicode": "1f646"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n六人の賢者みたいな感じで、小檜山さんの人柄を含めてGPT"
+                  },
+                  {
+                    "type": "text",
+                    "text": "に聞いてみたいから、ざっくりどういう人柄か箇条書きでも良いから教えていただいても良い？"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1732074608.798279",
+        "client_msg_id": "8C25E2FA-C2A7-4C76-8D2E-6C39C55323E7",
+        "text": "<@U06FYMZJ2Q2>\n性格・傾向\n\n    a. 慎重なタイプ\n新しい人間関係を築く際、相手の様子や性格をじっくり観察してから行動に移す傾向があります。\n    a. 深い信頼を重視\n一度打ち解けると、相手との関係性を深めるために努力する誠実な性格です。\n    a. 控えめな発信力\n自分から積極的に話題を振ることは少ないものの、必要に応じて的確に意見を述べることができます。\n    a. 観察力が高い\n周囲の雰囲気や人の表情・行動を敏感に読み取り、それに基づいて対応します。\n\n行動パターン\n\n    a. 少人数での交流を好む\n大人数での場よりも、少人数で深い話をする場のほうが快適と感じます。\n    a. 準備を重視\n相手に問い掛けられた際、しっかり考えたうえで応えるため、準備や情報収集を好みます。\n    a. 無理に距離を縮めない\n自然な形で関係が深まることを重視し、急激に距離を縮めることを避ける傾向があります。\n\nコミュニケーションの特徴\n\n    a. 相手を引き立てる聞き手\n話を聞くことに長けており、相手に安心感を与える聞き方をします。\n    a. 感情の表現は控えめ\n自分の感情を露骨に表現することは少なく、落ち着いたトーンで会話をします。\n    a. 適切なフィードバックを提供\n質問や依頼があれば、簡潔かつ的確にフィードバックを行うことが得意です。\n\nその他の特徴\n\n    a. 変化を嫌わないが、急な変化には時間が必要\n慣れるまでに時間がかかるものの、新しい環境や人に順応する力は十分に持っています。\n    a. 責任感が強い\n一度引き受けたことはしっかりとやり遂げる姿勢があります。\n    a. 内省的\n自分自身や周囲の出来事を深く振り返る習慣があり、自己改善や状況分析が得意です。\n\nこれらの特徴を持つ人は、誠実で信頼感のある人物として評価されやすく、長期的な信頼関係を構築することに向いています。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731557089.514349",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "LIBbT",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "user",
+                    "user_id": "U06FYMZJ2Q2"
+                  },
+                  {
+                    "type": "text",
+                    "text": "\n"
+                  },
+                  {
+                    "type": "text",
+                    "text": "性格・傾向\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "慎重なタイプ"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "新しい人間関係を築く際、相手の様子や性格をじっくり観察してから行動に移す傾向があります。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "深い信頼を重視"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "一度打ち解けると、相手との関係性を深めるために努力する誠実な性格です。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "控えめな発信力"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "自分から積極的に話題を振ることは少ないものの、必要に応じて的確に意見を述べることができます。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "観察力が高い"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "周囲の雰囲気や人の表情・行動を敏感に読み取り、それに基づいて対応します。\n\n行動パターン\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "少人数での交流を好む"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "大人数での場よりも、少人数で深い話をする場のほうが快適と感じます。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "準備を重視"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "相手に問い掛けられた際、しっかり考えたうえで応えるため、準備や情報収集を好みます。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "無理に距離を縮めない"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "自然な形で関係が深まることを重視し、急激に距離を縮めることを避ける傾向があります。\n\nコミュニケーションの特徴\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "相手を引き立てる聞き手"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "話を聞くことに長けており、相手に安心感を与える聞き方をします。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "感情の表現は控えめ"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "自分の感情を露骨に表現することは少なく、落ち着いたトーンで会話をします。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "適切なフィードバックを提供"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "質問や依頼があれば、簡潔かつ的確にフィードバックを行うことが得意です。\n\nその他の特徴\n\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "変化を嫌わないが、急な変化には時間が必要"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "慣れるまでに時間がかかるものの、新しい環境や人に順応する力は十分に持っています。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "責任感が強い"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "一度引き受けたことはしっかりとやり遂げる姿勢があります。\n"
+                  }
+                ]
+              },
+              {
+                "type": "rich_text_list",
+                "elements": [
+                  {
+                    "type": "rich_text_section",
+                    "elements": [
+                      {
+                        "type": "text",
+                        "text": "内省的"
+                      }
+                    ]
+                  }
+                ],
+                "style": "ordered",
+                "indent": 1,
+                "offset": 0,
+                "border": 0
+              },
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "自分自身や周囲の出来事を深く振り返る習慣があり、自己改善や状況分析が得意です。\n\nこれらの特徴を持つ人は、誠実で信頼感のある人物として評価されやすく、長期的な信頼関係を構築することに向いています。"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          },
+          {
+            "name": "pray",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      },
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1732075196.169689",
+        "client_msg_id": "2BCEC9C0-EA15-4B04-A350-0908FE7A511A",
+        "text": "ありがとう",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1731557089.514349",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "NKU7W",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ありがとう"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730968493.338369",
+    "client_msg_id": "92940b33-6702-44ca-ba1f-01c33291f438",
+    "text": "<@U06FYMZJ2Q2>\nSlackのチャンネル今日で有料版終わって90日前が見れなくなるから、自己紹介だけログとっておいた。\nあと、チャンネルのメッセージも全部ログとっておきました。\n各人、自己紹介のスクショ撮ったものとテンプレをNotionに記入してあります。\n自己紹介：<https://www.notion.so/31ef7853f43e40348e3044d584beae23?pvs=4>\n\n優先順位は低いけど、後々以下に記入されている形で移動できると嬉しいです。\n社内メンバー一覧：<https://www.notion.so/061a503f5999448b9ac32d7919589029?v=12ace9798c918178ad1b000cf27ddebf&amp;pvs=4>",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1730968493.338369",
+    "reply_count": 2,
+    "reply_users_count": 2,
+    "latest_reply": "1730968959.055609",
+    "reply_users": [
+      "U06FYMZJ2Q2",
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1730967900,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/31ef7853f43e40348e3044d584beae23?pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "自己紹介文",
+        "text": "自己紹介文テンプレ",
+        "title": "自己紹介文",
+        "title_link": "https://www.notion.so/31ef7853f43e40348e3044d584beae23?pvs=6&utm_content=31ef7853-f43e-4034-8e30-44d584beae23&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl",
+        "footer": "Created by 翔太 佐々木"
+      },
+      {
+        "id": 2,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1729858125,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/061a503f5999448b9ac32d7919589029?v=12ace9798c918178ad1b000cf27ddebf&amp;pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "社内メンバー一覧",
+        "text": "チームメンバーの情報を1か所にまとめて皆さんが閲覧できるようにしておきましょう。カードをクリックすると、中に略歴や過去の功績、目標などの情報を記入することができます。絵文字やプロパティの入力内容で、その人らしさを表現できます :raised_hands:\n\n↓ ギャラリービュー をクリックすると、追加情報が表示されるテーブル形式の一覧など、ほかのビューに切り替えることもできます。",
+        "title": "社内メンバー一覧",
+        "title_link": "https://www.notion.so/061a503f5999448b9ac32d7919589029?v=12ace9798c918178ad1b000cf27ddebf&amp%3Bpvs=4&utm_content=061a503f-5999-448b-9ac3-2d7919589029&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl&pvs=6",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "P1c4r",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nSlackのチャンネル今日で有料版終わって90日前が見れなくなるから、自己紹介だけログとっておいた。\nあと、チャンネルのメッセージも全部ログとっておきました。\n各人、自己紹介のスクショ撮ったものとテンプレをNotionに記入してあります。\n自己紹介："
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/31ef7853f43e40348e3044d584beae23?pvs=4"
+              },
+              {
+                "type": "text",
+                "text": "\n\n優先順位は低いけど、後々以下に記入されている形で移動できると嬉しいです。\n社内メンバー一覧："
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/061a503f5999448b9ac32d7919589029?v=12ace9798c918178ad1b000cf27ddebf&pvs=4"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1730968562.978289",
+        "client_msg_id": "02524495-1333-49ab-a8cd-3442452f18b5",
+        "text": "お手数おかけしました。\n既に三國の方でもログを取っておいてあります。",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968493.338369",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "T/UOM",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "お手数おかけしました。\n既に三國の方でもログを取っておいてあります。"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "user": "U068Q5LCTG9",
+        "type": "message",
+        "ts": "1730968959.055609",
+        "client_msg_id": "6d4d45af-f691-4943-a8d5-e8116d45d77f",
+        "text": "お〜い、既にとってるなら取ったから後でやると連絡してくれ笑",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1730968493.338369",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "O365i",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "お〜い、既にとってるなら取ったから後でやると連絡してくれ笑"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "+1",
+            "users": [
+              "U06FYMZJ2Q2"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1729858270.740529",
+    "edited": {
+      "user": "U068Q5LCTG9",
+      "ts": "1729858347.000000"
+    },
+    "client_msg_id": "3011aa09-0f4e-49cf-8c7b-3913d9f60fe6",
+    "text": "<@U06FYMZJ2Q2>\nさっきの人事MTGで言い忘れてたけど、 <#C06SKGRSEH1|> の自己紹介を<https://www.notion.so/061a503f5999448b9ac32d7919589029?v=12ace9798c918178ad1b000cf27ddebf&pvs=4|Notionのメンバー紹介>のところに移管しておいてほしい\n\nこのトライアル期間が11/8(金)で終わるから、11/4までに移管して欲しいです！",
+    "team": "T0688JH4ALV",
+    "thread_ts": "1729858270.740529",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1729858297.307699",
+    "reply_users": [
+      "U06FYMZJ2Q2"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "attachments": [
+      {
+        "id": 1,
+        "footer_icon": "https://notion.so/images/logo-for-slack-integration.png",
+        "ts": 1729858125,
+        "color": "E8E7E4",
+        "bot_id": "B068RHE48CF",
+        "app_unfurl_url": "https://www.notion.so/061a503f5999448b9ac32d7919589029?v=12ace9798c918178ad1b000cf27ddebf&amp;pvs=4",
+        "is_app_unfurl": true,
+        "app_id": "A049JV0H0KC",
+        "fallback": "社内メンバー一覧",
+        "text": "チームメンバーの情報を1か所にまとめて皆さんが閲覧できるようにしておきましょう。カードをクリックすると、中に略歴や過去の功績、目標などの情報を記入することができます。絵文字やプロパティの入力内容で、その人らしさを表現できます :raised_hands:\n\n↓ ギャラリービュー をクリックすると、追加情報が表示されるテーブル形式の一覧など、ほかのビューに切り替えることもできます。",
+        "title": "社内メンバー一覧",
+        "title_link": "https://www.notion.so/061a503f5999448b9ac32d7919589029?v=12ace9798c918178ad1b000cf27ddebf&amp%3Bpvs=4&utm_content=061a503f-5999-448b-9ac3-2d7919589029&utm_campaign=T0688JH4ALV&n=slack&n=slack_link_unfurl&pvs=6",
+        "footer": "Created by 翔太 佐々木"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "cfanR",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\nさっきの人事MTGで言い忘れてたけど、 "
+              },
+              {
+                "type": "channel",
+                "channel_id": "C06SKGRSEH1"
+              },
+              {
+                "type": "text",
+                "text": " の自己紹介を"
+              },
+              {
+                "type": "link",
+                "url": "https://www.notion.so/061a503f5999448b9ac32d7919589029?v=12ace9798c918178ad1b000cf27ddebf&pvs=4",
+                "text": "Notionのメンバー紹介"
+              },
+              {
+                "type": "text",
+                "text": "のところに移管しておいてほしい\n\nこのトライアル期間が11/8(金)で終わるから、11/4までに移管して欲しいです！"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "user": "U06FYMZJ2Q2",
+        "type": "message",
+        "ts": "1729858297.307699",
+        "client_msg_id": "55F96AC9-298C-4DBA-A44C-37A2592F390D",
+        "text": "既にタスクに入れてありますよ",
+        "team": "T0688JH4ALV",
+        "thread_ts": "1729858270.740529",
+        "parent_user_id": "U068Q5LCTG9",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "4lFp8",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "既にタスクに入れてありますよ"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "reactions": [
+          {
+            "name": "saluting_face",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          },
+          {
+            "name": "bow",
+            "users": [
+              "U068Q5LCTG9"
+            ],
+            "count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07RF4825M1",
+    "text": "<@U07RF4825M1>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1729059252.331719"
+  }
+]

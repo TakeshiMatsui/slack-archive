@@ -1,0 +1,384 @@
+[
+  {
+    "subtype": "thread_broadcast",
+    "user": "U068Q5LCTG9",
+    "thread_ts": "1732367822.896859",
+    "root": {
+      "text": "問い合わせでnotionの構築依頼が来ました\n週明け話してみます\nワンチャンそのままコンサルに繋げれるかもしれないです",
+      "files": [
+        {
+          "id": "F08294EL0J0",
+          "created": 1732367750,
+          "timestamp": 1732367750,
+          "name": "IMG_1722.png",
+          "title": "IMG_1722",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U068Q5LCTG9",
+          "user_team": "T0688JH4ALV",
+          "editable": false,
+          "size": 192475,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": true,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F08294EL0J0/img_1722.png",
+          "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F08294EL0J0/download/img_1722.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_360.png",
+          "thumb_360_w": 166,
+          "thumb_360_h": 360,
+          "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_480.png",
+          "thumb_480_w": 222,
+          "thumb_480_h": 480,
+          "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_720.png",
+          "thumb_720_w": 333,
+          "thumb_720_h": 720,
+          "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 1731,
+          "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_960.png",
+          "thumb_960_w": 444,
+          "thumb_960_h": 960,
+          "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_1024.png",
+          "thumb_1024_w": 473,
+          "thumb_1024_h": 1024,
+          "original_w": 828,
+          "original_h": 1792,
+          "thumb_tiny": "AwAwABannNJkUmKMfSgB27jH9KTIpKKAFAzS7PehKXvQAyilb7xpKAFUgdadu/yKQKMdTn6UbD6H8qAGnk0UuPejFAH/2Q==",
+          "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F08294EL0J0/img_1722.png",
+          "permalink_public": "https://slack-files.com/T0688JH4ALV-F08294EL0J0-3a5dcd6cf0",
+          "is_starred": false,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U068Q5LCTG9",
+      "display_as_bot": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uR0cV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "問い合わせでnotionの構築依頼が来ました\n週明け話してみます\nワンチャンそのままコンサルに繋げれるかもしれないです"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": "message",
+      "ts": "1732367822.896859",
+      "client_msg_id": "1C387521-2B34-44E1-B42C-430C4EC8D4DC",
+      "thread_ts": "1732367822.896859",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1733822629.534179",
+      "reply_users": [
+        "U068Q5LCTG9"
+      ],
+      "is_locked": false,
+      "subscribed": false
+    },
+    "type": "message",
+    "ts": "1733822629.534179",
+    "client_msg_id": "c75cec8c-904f-4789-950f-e84a1e1658e3",
+    "text": "ここ返信待ちの状態です",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "SaIwk",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ここ返信待ちの状態です"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_purpose",
+    "user": "U06FYMZJ2Q2",
+    "purpose": "問い合わせ・依頼が来た時に対応するチャンネルです。",
+    "text": "がこのチャンネルの説明を「問い合わせ・依頼が来た時に対応するチャンネルです。」に設定しました",
+    "type": "message",
+    "ts": "1733743412.301979"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "20_gdx_general",
+    "name": "43_コンタクト対応",
+    "text": "チャンネル名を「20_gdx_general」から「43_コンタクト対応」に変更しました",
+    "type": "message",
+    "ts": "1732876528.701939"
+  },
+  {
+    "text": "問い合わせでnotionの構築依頼が来ました\n週明け話してみます\nワンチャンそのままコンサルに繋げれるかもしれないです",
+    "files": [
+      {
+        "id": "F08294EL0J0",
+        "created": 1732367750,
+        "timestamp": 1732367750,
+        "name": "IMG_1722.png",
+        "title": "IMG_1722",
+        "mimetype": "image/png",
+        "filetype": "png",
+        "pretty_type": "PNG",
+        "user": "U068Q5LCTG9",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 192475,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F08294EL0J0/img_1722.png",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F08294EL0J0/download/img_1722.png",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_64.png",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_80.png",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_360.png",
+        "thumb_360_w": 166,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_480.png",
+        "thumb_480_w": 222,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_160.png",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_720.png",
+        "thumb_720_w": 333,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_800.png",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1731,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_960.png",
+        "thumb_960_w": 444,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_1024.png",
+        "thumb_1024_w": 473,
+        "thumb_1024_h": 1024,
+        "original_w": 828,
+        "original_h": 1792,
+        "thumb_tiny": "AwAwABannNJkUmKMfSgB27jH9KTIpKKAFAzS7PehKXvQAyilb7xpKAFUgdadu/yKQKMdTn6UbD6H8qAGnk0UuPejFAH/2Q==",
+        "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F08294EL0J0/img_1722.png",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F08294EL0J0-3a5dcd6cf0",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U068Q5LCTG9",
+    "display_as_bot": false,
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "uR0cV",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "問い合わせでnotionの構築依頼が来ました\n週明け話してみます\nワンチャンそのままコンサルに繋げれるかもしれないです"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "type": "message",
+    "ts": "1732367822.896859",
+    "client_msg_id": "1C387521-2B34-44E1-B42C-430C4EC8D4DC",
+    "thread_ts": "1732367822.896859",
+    "reply_count": 1,
+    "reply_users_count": 1,
+    "latest_reply": "1733822629.534179",
+    "reply_users": [
+      "U068Q5LCTG9"
+    ],
+    "is_locked": false,
+    "subscribed": false,
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ],
+    "replies": [
+      {
+        "subtype": "thread_broadcast",
+        "user": "U068Q5LCTG9",
+        "thread_ts": "1732367822.896859",
+        "root": {
+          "text": "問い合わせでnotionの構築依頼が来ました\n週明け話してみます\nワンチャンそのままコンサルに繋げれるかもしれないです",
+          "files": [
+            {
+              "id": "F08294EL0J0",
+              "created": 1732367750,
+              "timestamp": 1732367750,
+              "name": "IMG_1722.png",
+              "title": "IMG_1722",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U068Q5LCTG9",
+              "user_team": "T0688JH4ALV",
+              "editable": false,
+              "size": 192475,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": true,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F08294EL0J0/img_1722.png",
+              "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F08294EL0J0/download/img_1722.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_360.png",
+              "thumb_360_w": 166,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_480.png",
+              "thumb_480_w": 222,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_720.png",
+              "thumb_720_w": 333,
+              "thumb_720_h": 720,
+              "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_800.png",
+              "thumb_800_w": 800,
+              "thumb_800_h": 1731,
+              "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_960.png",
+              "thumb_960_w": 444,
+              "thumb_960_h": 960,
+              "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F08294EL0J0-3eaec73c84/img_1722_1024.png",
+              "thumb_1024_w": 473,
+              "thumb_1024_h": 1024,
+              "original_w": 828,
+              "original_h": 1792,
+              "thumb_tiny": "AwAwABannNJkUmKMfSgB27jH9KTIpKKAFAzS7PehKXvQAyilb7xpKAFUgdadu/yKQKMdTn6UbD6H8qAGnk0UuPejFAH/2Q==",
+              "permalink": "https://idea-iko1320.slack.com/files/U068Q5LCTG9/F08294EL0J0/img_1722.png",
+              "permalink_public": "https://slack-files.com/T0688JH4ALV-F08294EL0J0-3a5dcd6cf0",
+              "is_starred": false,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U068Q5LCTG9",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "uR0cV",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "問い合わせでnotionの構築依頼が来ました\n週明け話してみます\nワンチャンそのままコンサルに繋げれるかもしれないです"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1732367822.896859",
+          "client_msg_id": "1C387521-2B34-44E1-B42C-430C4EC8D4DC",
+          "thread_ts": "1732367822.896859",
+          "reply_count": 1,
+          "reply_users_count": 1,
+          "latest_reply": "1733822629.534179",
+          "reply_users": [
+            "U068Q5LCTG9"
+          ],
+          "is_locked": false,
+          "subscribed": false
+        },
+        "type": "message",
+        "ts": "1733822629.534179",
+        "client_msg_id": "c75cec8c-904f-4789-950f-e84a1e1658e3",
+        "text": "ここ返信待ちの状態です",
+        "blocks": [
+          {
+            "type": "rich_text",
+            "block_id": "SaIwk",
+            "elements": [
+              {
+                "type": "rich_text_section",
+                "elements": [
+                  {
+                    "type": "text",
+                    "text": "ここ返信待ちの状態です"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732367739.384699"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07PN4G7FEX",
+    "text": "<@U07PN4G7FEX>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732367739.293659"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732367739.214979"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07RF4825M1",
+    "text": "<@U07RF4825M1>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1732367739.134139"
+  }
+]

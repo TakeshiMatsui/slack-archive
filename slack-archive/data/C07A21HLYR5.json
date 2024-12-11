@@ -1,0 +1,327 @@
+[
+  {
+    "subtype": "channel_purpose",
+    "user": "U06FYMZJ2Q2",
+    "purpose": "AIデータ活用事業の事業戦略と予算に関して話すチャンネルです。",
+    "text": "がこのチャンネルの説明を「AIデータ活用事業の事業戦略と予算に関して話すチャンネルです。」に設定しました",
+    "type": "message",
+    "ts": "1733743636.031139"
+  },
+  {
+    "user": "U07R0SR8MDL",
+    "type": "message",
+    "ts": "1732956127.536849",
+    "client_msg_id": "76590fd4-4870-4a53-a459-34eee85ff6eb",
+    "text": "既存の案件と事業計画とか、いろいろ整理したいですねー",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "thBhW",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "既存の案件と事業計画とか、いろいろ整理したいですねー"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "subtype": "channel_purpose",
+    "user": "U07R0SR8MDL",
+    "purpose": "AIデータ活用事業の事業戦略と予算に関する話をするチャンネル",
+    "text": "がこのチャンネルの説明を「AIデータ活用事業の事業戦略と予算に関する話をするチャンネル」に設定しました",
+    "type": "message",
+    "ts": "1732955292.639549"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "inviter": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1732882320.676309"
+  },
+  {
+    "subtype": "channel_name",
+    "user": "U06FYMZJ2Q2",
+    "old_name": "10_ai-solution_general",
+    "name": "01_aiデータ活用事業",
+    "text": "チャンネル名を「10_ai-solution_general」から「01_aiデータ活用事業」に変更しました",
+    "type": "message",
+    "ts": "1732877339.088029"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U081Q6XTNHZ",
+    "text": "<@U081Q6XTNHZ>さんがチャンネルに参加しました",
+    "type": "message",
+    "ts": "1732775064.165429"
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730016855.318229",
+    "client_msg_id": "567611c8-5844-4709-a650-fa3f1d946978",
+    "text": "了解、じゃあ制作金融公庫関連終わったら君にその後の会計/財務/経理関連の主導を任せて、稲場関連の仕事を巻き取ってやってしまうわ",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "jD4Gj",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "了解、じゃあ制作金融公庫関連終わったら君にその後の会計/財務/経理関連の主導を任せて、稲場関連の仕事を巻き取ってやってしまうわ"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U06FYMZJ2Q2",
+    "type": "message",
+    "ts": "1730016673.274069",
+    "client_msg_id": "9C33DFAE-2FC9-47F3-AAE8-FD3AAE9CABAC",
+    "text": "中の下くらい",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "qzzP6",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "中の下くらい"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730016627.196329",
+    "client_msg_id": "7fb36bcd-8a42-4709-9943-d20983a00491",
+    "text": "順番的に言うと？割と低い位置にきてる？",
+    "team": "T0688JH4ALV",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "wPXQm",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "順番的に言うと？割と低い位置にきてる？"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "",
+    "files": [
+      {
+        "id": "F07TRHV8DC4",
+        "created": 1730016556,
+        "timestamp": 1730016556,
+        "name": "IMG_1706.jpg",
+        "title": "IMG_1706",
+        "mimetype": "image/jpeg",
+        "filetype": "jpg",
+        "pretty_type": "JPEG",
+        "user": "U06FYMZJ2Q2",
+        "user_team": "T0688JH4ALV",
+        "editable": false,
+        "size": 259358,
+        "mode": "hosted",
+        "is_external": false,
+        "external_type": "",
+        "is_public": true,
+        "public_url_shared": false,
+        "display_as_bot": false,
+        "username": "",
+        "url_private": "https://files.slack.com/files-pri/T0688JH4ALV-F07TRHV8DC4/img_1706.jpg",
+        "url_private_download": "https://files.slack.com/files-pri/T0688JH4ALV-F07TRHV8DC4/download/img_1706.jpg",
+        "media_display_type": "unknown",
+        "thumb_64": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_64.jpg",
+        "thumb_80": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_80.jpg",
+        "thumb_360": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_360.jpg",
+        "thumb_360_w": 166,
+        "thumb_360_h": 360,
+        "thumb_480": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_480.jpg",
+        "thumb_480_w": 222,
+        "thumb_480_h": 480,
+        "thumb_160": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_160.jpg",
+        "thumb_720": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_720.jpg",
+        "thumb_720_w": 333,
+        "thumb_720_h": 720,
+        "thumb_800": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_800.jpg",
+        "thumb_800_w": 800,
+        "thumb_800_h": 1731,
+        "thumb_960": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_960.jpg",
+        "thumb_960_w": 444,
+        "thumb_960_h": 960,
+        "thumb_1024": "https://files.slack.com/files-tmb/T0688JH4ALV-F07TRHV8DC4-843833dec9/img_1706_1024.jpg",
+        "thumb_1024_w": 473,
+        "thumb_1024_h": 1024,
+        "original_w": 1170,
+        "original_h": 2532,
+        "thumb_tiny": "AwAwABamFOMcUhXHUinL0ppJ/KgBD07fhSUpOaSgCReg4prAk9KcoyvNJx6H86AGUUpz6frSUAPHSk49vxpPTHXvxS7TzwfyoAQ/h+FJRRQB/9k=",
+        "permalink": "https://idea-iko1320.slack.com/files/U06FYMZJ2Q2/F07TRHV8DC4/img_1706.jpg",
+        "permalink_public": "https://slack-files.com/T0688JH4ALV-F07TRHV8DC4-9577b90981",
+        "is_starred": false,
+        "has_rich_preview": false,
+        "file_access": "visible"
+      }
+    ],
+    "upload": false,
+    "user": "U06FYMZJ2Q2",
+    "display_as_bot": false,
+    "type": "message",
+    "ts": "1730016560.552479",
+    "client_msg_id": "DEFBB8EB-C029-4BCF-9A38-FEF4A8336694",
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "users": [
+          "U068Q5LCTG9"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "user": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730015356.190399",
+    "edited": {
+      "user": "U068Q5LCTG9",
+      "ts": "1730015403.000000"
+    },
+    "client_msg_id": "f822ae47-4e38-457c-9d07-d1d59d9f98bc",
+    "text": "<@U06FYMZJ2Q2>\n稲場のシステム構築するにあたって、以下のIT導入補助金が取れるようにしたい。(そして、今後も営業時にiDeaでIT導入補助金が取れるという実績を作り展開していきたい)\n君のタスクの中で現状優先順位はどれくらい？割と他のタスクがあるならこっちで巻き取って作業するから教えて欲しい\n<https://it-shien.smrj.go.jp/>",
+    "team": "T0688JH4ALV",
+    "attachments": [
+      {
+        "image_url": "https://it-shien.smrj.go.jp/og.png",
+        "image_width": 1200,
+        "image_height": 630,
+        "image_bytes": 32390,
+        "from_url": "https://it-shien.smrj.go.jp/",
+        "id": 1,
+        "original_url": "https://it-shien.smrj.go.jp/",
+        "fallback": "IT導入補助金2024: トップページ ｜ IT導入補助金2024",
+        "text": "「IT導入補助金2024（サービス等生産性向上IT導入支援事業）」のポータルサイトです。本事業は、ITツールの導入しようとする事業者に対して、ITツール導入費用の一部を補助する制度です。",
+        "title": "トップページ ｜ IT導入補助金2024",
+        "title_link": "https://it-shien.smrj.go.jp/",
+        "service_name": "IT導入補助金2024"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "5lpXS",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "user",
+                "user_id": "U06FYMZJ2Q2"
+              },
+              {
+                "type": "text",
+                "text": "\n稲場のシステム構築するにあたって、以下のIT導入補助金が取れるようにしたい。(そして、今後も営業時にiDeaでIT導入補助金が取れるという実績を作り展開していきたい)\n君のタスクの中で現状優先順位はどれくらい？割と他のタスクがあるならこっちで巻き取って作業するから教えて欲しい\n"
+              },
+              {
+                "type": "link",
+                "url": "https://it-shien.smrj.go.jp/"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "reactions": [
+      {
+        "name": "+1",
+        "users": [
+          "U06FYMZJ2Q2"
+        ],
+        "count": 1
+      }
+    ]
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07R0SR8MDL",
+    "text": "<@U07R0SR8MDL>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730015283.934889"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U07RF4825M1",
+    "text": "<@U07RF4825M1>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730015283.865399"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U06RD6MGVK9",
+    "text": "<@U06RD6MGVK9>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730015283.801709"
+  },
+  {
+    "subtype": "channel_join",
+    "user": "U06FYMZJ2Q2",
+    "text": "<@U06FYMZJ2Q2>さんがチャンネルに参加しました",
+    "inviter": "U068Q5LCTG9",
+    "type": "message",
+    "ts": "1730015283.724389"
+  }
+]

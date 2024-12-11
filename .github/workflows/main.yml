@@ -36,10 +36,14 @@ jobs:
         expect -d -c "
           spawn npx slack-archive download --channel-types public_channel
     
-          expect -re ".*Which channels do you want to download.*"    # Wait for the channel selection prompt
-          send \\\"a\\\"                                           # Press 'a' to select all channels
-          sleep 1 
-          send \\\"\\r\\\"                                         # Press Enter to confirm the selection
+          # チャンネル選択のプロンプトが出たら、'a'を送信してすべてのチャンネルを選択
+          expect -re \".*Which channels do you want to download.*\" {
+            send \"a\"  # 'a'を送信してすべてのチャンネルを選択
+            sleep 1
+            send \"\r\"  # Enterキーを送信
+          }
+        
+          # 他の出力には何もしない
           expect eof
         "
         

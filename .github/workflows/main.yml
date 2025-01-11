@@ -2,8 +2,8 @@ name: Slack Archive Automation
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 0 */89 * *'
+  #schedule:
+   #- cron: '0 0 */89 * *'
 env:
   TARGET_TEX_FILES: "./slack-archive/html ./slack-archive/index.html ./slack-archive/search.html" 
   GOOGLE_DRIVE_DESTINATION: /slack-archive
